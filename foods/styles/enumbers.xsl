@@ -77,13 +77,22 @@
 			<xsl:value-of select="@range" />: <xsl:value-of select="@desc" />
 		</h2>
 		<table>
+			<colgroup>
+				<col width="5%" />
+				<col width="5%" />
+				<col width="5%" />
+				<col width="5%" />
+				<col width="5%" />
+				<col width="20%" />
+				<col width="*" />
+			</colgroup>
 			<thead>
 				<tr>
+					<th>E-Number</th>
 					<th>Generally Avoid?</th>
 					<th>SCD Ok?</th>
 					<th>FODMAPs Ok?</th>
 					<th>Origin</th>
-					<th>Number</th>
 					<th>Name</th>
 					<th>Comment</th>
 				</tr>
@@ -100,6 +109,16 @@
 
 	<xsl:template match="additive">
 		<tr>
+
+			<td>
+				<a>
+					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:value-of select="@number" /></xsl:attribute>
+					<xsl:attribute name="title">Look up <xsl:value-of select="@number" /> at wikipedia.org.</xsl:attribute>
+					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@number" /></xsl:attribute>
+					<xsl:value-of select="@number" />
+				</a>
+			</td>
+
 			<td>
 			<xsl:attribute name="class">
 				<xsl:choose>
@@ -150,14 +169,6 @@
 			</xsl:attribute><xsl:value-of select="@origin" />
 			</td>
 
-			<td>
-				<a>
-					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:value-of select="@number" /></xsl:attribute>
-					<xsl:attribute name="title">Look up <xsl:value-of select="@number" /> at wikipedia.org.</xsl:attribute>
-					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@number" /></xsl:attribute>
-					<xsl:value-of select="@number" />
-				</a>
-			</td>
 			<td>
 				<a>
 					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:choose><xsl:when test="@wiki"><xsl:value-of select="@wiki" /></xsl:when><xsl:otherwise><xsl:value-of select="@name" /></xsl:otherwise></xsl:choose></xsl:attribute>

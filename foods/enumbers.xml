@@ -347,11 +347,11 @@
 		<additive scd="?" avoid="N" origin="VD" fodmaps="?" number="E967" name="Xylitol" comment="Humectant, found in raspberries, plums, lettuce and endives, though produced for commercial purposes from wood pulp; used in low-joule foods and carbohydratemodified sweets, icecream and jams" />
 		<additive scd="?" avoid="N" origin="VD" fodmaps="?" number="E999" name="Quillaia extract" comment="Foaming agent, emulsifier, natural surfactant; derived from chilean soap bark tree (Quillaia Saponaria); used in beer and soda; known to promote healing and reduce excessive oilness in the skin" />
 	</group>
-	<group range="E1100 - E1199" desc="" slug="e1400-e1499">
+	<group range="E1100 - E1199" desc="Other Chemicals" slug="e1100-e1199">
 		<additive scd="?" avoid="N" origin="" fodmaps="?" number="E1103" name="Invertase" comment="Stabiliser" />
 		<additive scd="N" avoid="?" origin="PAP" fodmaps="?" number="E1100" name="Amylase" comment="Derived from mold mushroom or pig pancreas" />
 	</group>
-	<group range="E1200 - E1299" desc="" slug="e1400-e1499">
+	<group range="E1200 - E1299" desc="Other Chemicals" slug="e1200-e1299">
 		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E1200" name="Polydextrose" comment="Seems safe in small doses" />
 		<additive scd="?" avoid="?" origin="SY" fodmaps="?" number="E1201" name="Polyvinylpyrrolidone" comment="Dispersing agent, coating for tablets; used in artificial sweeteners" />
 		<additive scd="?" avoid="?" origin="SY" fodmaps="?" number="E1202" name="Polyvinylpolypyrrolidone" comment="Clarifying agent for wine, colour and colloidal stabiliser" />
@@ -376,7 +376,7 @@
 		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1450" name="Starch sodium octenyl succinate" comment="Emulsifier, Stabiliser and Thickening agent" />
 		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E1451" name="Acetylated oxidised starch" comment="Emulsifier and Thickening agent" />
 	</group>
-	<group range="E1500 - E1599" desc="" slug="e1500-e1599">
+	<group range="E1500 - E1599" desc="Other Chemicals" slug="e1500-e1599">
 		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E1505" name="Triethyl citrate" comment="Foam Stabiliser, used in dried Egg Whites and as a carrier solvent." />
 		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E1510" name="Ethanol" comment="Alcohol" />
 		<additive scd="?" avoid="?" origin="" fodmaps="N" number="E1517" name="Glycerol acetates" comment="Humectant and solvent derived from glycerol; used to coat fresh fruit in the US" />
