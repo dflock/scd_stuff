@@ -31,356 +31,356 @@
 <!--Number, Name, Comments-->
 <additives>
 	<group range="E100 - E199" desc="Colours" slug="e100-e199">
-		<additive scd="Y" avoid="N" origin="VD" fodmaps="Y" number="E100" name="Curcumin" altname="orange-yellow color" comment="Derived from the root of the curcuma (turmeric) plant, but can be artificially produced; used in cheese, margarine, baked sweets and fish fingers" />
-		<additive scd="Y" avoid="N" origin="PAD" fodmaps="Y" number="E101" name="Riboflavin" altname="lactoflavin, vitamin B2" comment="Occurs naturally in green vegetables, eggs, milk, liver and kidney; used in margarine and cheese" />
-		<additive scd="Y" avoid="N" origin="PAD" fodmaps="Y" number="E101a" name="Riboflavin-5'-phosphate" comment="Occurs naturally in green vegetables, eggs, milk, liver and kidney; used in margarine and cheese" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E102" name="Tartrazine" altname="FD&amp;C Yellow No.5" comment="Known to provoke asthma attacks and urticaria (nettle rash) in children (the US FDA estimates 1:10 000); also linked to thyroid tumors, chromosomal damage, urticaria (hives) and hyperactivity; tartrazine sensitivity is also linked to aspirin sensitivity; used to colour drinks, sweets, jams, cereals, snack foods, canned fish, packaged soups; banned in Norway and Austria" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E104" name="Quinoline Yellow" altname="FD&amp;C Yellow No.10" comment="Used in lipsticks hair products, colognes; also in a wide range of medications; cause dermatitis; banned in Australia, USA and Norway" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E107" name="Yellow 7G" altname="yellow color" comment="People who suffer Asthma may also show an allergic reaction to it; typical products are soft drinks; banned in Australia and USA" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E110" name="Sunset Yellow FCF" altname="Orange Yellow S, FD&amp;C Yellow No.6" comment="Used in cereals, bakery, sweets, snack foods, ice cream, drinks and canned fish; synthetic; also in many medications including Berocca, Polaramine, Ventolin syrup; side effects are urticaria (hives), rhinitis (runny nose), nasal congestion, allergies, hyperactivity, kidney tumors, chromosomal damage, abdominal pain, nausea and vomiting, indigestion, distaste for food; seen increased incidence of tumours in animals; banned in Norway" />
-		<additive scd="?" avoid="Y" origin="AD" fodmaps="?" number="E120" name="Cochineal" altname="Carminic acid, Carmines" comment="Red coloring, made from crushed beatles; rarely used." />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E122" name="Azorubine" altname="Carmoisine" comment="Red color; coal tar derivative; can produce bad reactions in asthmatics and people allergic to aspirin; typical products are confectionary, marzipan, jelly crystals; banned in Sweden, USA, Austria and Norway" />
-		<additive scd="N" avoid="Y" origin="" fodmaps="?" number="E123" name="Amaranth" altname="FD&amp;C Red No.2" comment="Derived from the small herbaceous plant of the same name; used in cake mixes, fruit-flavoured fillings, jelly crystals; can provoke asthma, eczema and hyperactivity; it caused birth defects and foetal deaths in some animal tests, possibly also cancer; banned in the USA, Russia, Austria and Norway and other countries" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E124" name="Ponceau 4R" altname="Cochineal Red A, FD&amp;C Red No.4" comment="Synthetic coal tar and azo dye, carcinogen in animals, can produce bad reactions in asthmatics and people allergic to aspirin; banned in USA &amp; Norway" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E127" name="Erythrosine" altname="FD&amp;C Red No.3" comment="Red color used in cherries, canned fruit, custard mix, sweets, bakery, snack foods; can cause sensitivity to light; can increase thyroid hormone levels and lead to hyperthyroidism, was shown to cause thyroid cancer in rats in a study in 1990; banned in January 1990; banned in Norway" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E128" name="Red 2G" comment="Banned in Australia and many other places except UK" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E129" name="Allura Red AC" altname="FD&amp;C Red No.40" comment="Orange-red color used in sweets, drinks and condiments, medications and cosmetics, synthetic; introduced in the early eighties to replace amaranth which was considered not safe due to conflicting test results; allura red has also been connected with cancer in mice; banned in Denmark, Belgium, France, Germany, Switzerland, Sweden, Austria and Norway" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E131" name="Patent Blue V" comment="Banned in Australia, USA and Norway" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E132" name="Indigotine" altname="Indigo carmine, FD&amp;C Blue No.2" comment="Commonly added to tablets and capsules; also used in ice cream, sweets, baked goods, confectionary, biscuits, synthetic coal tar derivative; may cause nausea, vomiting, high blood pressure, skin rashes, breathing problems and other allergic reactions. banned in Norway" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E133" name="Brilliant blue FCF" altname="FD&amp;C Blue Dye No.1" comment="Used in dairy products, sweets and drinks, synthetic usually occurring as aluminum lake (solution) or ammonium salt; banned in Belgium, France, Germany, Switzerland, Sweden, Austria, Norway" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="Y" number="E140" name="Chlorophylis" altname="Chlorophyllins" comment="Green color occurs naturally in all plants; used for dyeing waxes and oils, used in medicines and cosmetics" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="Y" number="E141" name="Copper complexes of chloropyll and chlorophyllins" comment="Olive color, no adverse effects are known" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E142" name="Green S" comment="Green color; synthetic coal tar derivative; used in canned peas, mint jelly and sauce, packet bread crumbs and cake mixes; banned inSweden, USA and Norway" />
-		<additive scd="N" avoid="N" origin="" fodmaps="Y" number="E150a" name="Caramel" altname="Plain Caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
-		<additive scd="N" avoid="Y" origin="" fodmaps="?" number="E150b" name="Caustic sulphite caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
-		<additive scd="N" avoid="Y" origin="" fodmaps="?" number="E150c" name="Ammonia caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
-		<additive scd="N" avoid="Y" origin="" fodmaps="?" number="E150d" name="Sulphite ammonia caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E151" name="Brilliant Black BN" altname="Black PN" comment="Colour; coal tar derivative; used in brown sauces, blackcurrant cake mixes; banned in Denmark, Australia, Belgium, France, Germany, Switzerland, Sweden, Austria, USA, Norway" />
-		<additive scd="Y" avoid="N" origin="PAD" fodmaps="Y" number="E153" name="Vegetable carbon" comment="Black colour, charcoal pigment; used in jams, jelly crystals, liquorice; only the vegetable derived variety permitted in Australia, banned in the United States" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E154" name="Brown FK" comment="Banned in USA" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E155" name="Brown HT" altname="Brown HT (Chocolate)" comment="Brown color, coal tar and azo dye; used in chocolate cake mixes; can produce bad reactions in asthmatics and people allergic to aspirin; also known to induce skin sensitivity; banned in Denmark, Belgium, France, Germany, Switzerland, Sweden, Austria, USA, Norway" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="Y" number="E160a" name="Carotene" altname="alpha-, beta-, gamma-" comment="Orange-yellow colour; human body converts it to 'Vitamin A' in the liver, found in carrots and other yellow or orange fruits and vegetables" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="Y" number="E160b" name="Annatto" altname=" (Arnatto, Annato), bixin, norbixin" comment="Red color; derived from a tree (Bixa orellana); used as a body paint, fabric dye, digestive aid and expectorant; used to dye cheese, butter, margarine, cereals, snack foods, soaps, textiles and varnishes; known to cause urticaria (nettle rash), the HACSG* recommends to avoid it" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="Y" number="E160c" name="Paprika extract" altname="capsanthin, capsorubin" comment="" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="Y" number="E160d" name="Lycopene" comment="Red coloured carotenoid found in tomatoes and pink grapefruit, can cause decreasing risk of cancer" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E160e" name="Beta-apo-8'-carotenal (C 30)" comment="Orange color, no adverse effects are known" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E160f" name="Ethyl ester of beta-apo-8'-carotenic acid (C 30)" comment="Orange color, no adverse effects are known" />
-		<additive scd="Y" avoid="N" origin="PAD" fodmaps="?" number="E161b" name="Lutein" altname="Xanthophylls - Lutein" comment="Yellow color derived from plants, naturally found in green leaves, marigolds and egg yolks" />
-		<additive scd="Y" avoid="N" origin="PAD" fodmaps="?" number="E161g" name="Canthaxanthin" altname="Xanthophylls - Canthaxanthin" comment="Yellow color possibly derived from animal sources (retinol); the pigment is found in some mushrooms, crustacea, fish, flamingo feathers" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E162" name="Beetroot Red" altname="Betanin" comment="Purple color derived from beets; no adverse effects are known" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E163" name="Anthocyanins" comment="Violet color matter of flowers and plants; seems safe" />
-		<additive scd="Y" avoid="N" origin="MD" fodmaps="?" number="E170" name="Calcium carbonate" comment="Mineral salt, used in toothpastes, white paint and cleaning powders; may be derived from rock mineral or animal bones; sometimes used to deacidify wines and firm canned fruit and veg.; toxic at 'high doses'" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E171" name="Titanium dioxide" comment="White color used in toothpaste and white paint, pollutes waterways; no adverse effects are known" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E172" name="Iron oxides and hydroxides" comment="Black, yellow, red color used in salmon and shrimp pastes; toxic at 'high doses'" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E173" name="Aluminium" comment="" />
-		<additive scd="?" avoid="N" origin="" fodmaps="?" number="E174" name="Silver" comment="" />
-		<additive scd="?" avoid="N" origin="" fodmaps="?" number="E175" name="Gold" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E180" name="Latolrubine BK" comment="" />
-		<additive scd="?" avoid="N" origin="" fodmaps="?" number="E181" name="Tannic acid" comment="Tannins, clarifying agent in alcohol; derived from the nutgalls and twigs of oak trees; occurs naturally in tea" />
+		<additive scd="Y" ok="Y" origin="VD" fodmaps="Y" number="E100" name="Curcumin" altname="orange-yellow color" comment="Derived from the root of the curcuma (turmeric) plant, but can be artificially produced; used in cheese, margarine, baked sweets and fish fingers" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="Y" number="E101" name="Riboflavin" altname="lactoflavin, vitamin B2" comment="Occurs naturally in green vegetables, eggs, milk, liver and kidney; used in margarine and cheese" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="Y" number="E101a" name="Riboflavin-5'-phosphate" comment="Occurs naturally in green vegetables, eggs, milk, liver and kidney; used in margarine and cheese" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E102" name="Tartrazine" altname="FD&amp;C Yellow No.5" comment="Known to provoke asthma attacks and urticaria (nettle rash) in children (the US FDA estimates 1:10 000); also linked to thyroid tumors, chromosomal damage, urticaria (hives) and hyperactivity; tartrazine sensitivity is also linked to aspirin sensitivity; used to colour drinks, sweets, jams, cereals, snack foods, canned fish, packaged soups; banned in Norway and Austria" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E104" name="Quinoline Yellow" altname="FD&amp;C Yellow No.10" comment="Used in lipsticks hair products, colognes; also in a wide range of medications; cause dermatitis; banned in Australia, USA and Norway" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E107" name="Yellow 7G" altname="yellow color" comment="People who suffer Asthma may also show an allergic reaction to it; typical products are soft drinks; banned in Australia and USA" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E110" name="Sunset Yellow FCF" altname="Orange Yellow S, FD&amp;C Yellow No.6" comment="Used in cereals, bakery, sweets, snack foods, ice cream, drinks and canned fish; synthetic; also in many medications including Berocca, Polaramine, Ventolin syrup; side effects are urticaria (hives), rhinitis (runny nose), nasal congestion, allergies, hyperactivity, kidney tumors, chromosomal damage, abdominal pain, nausea and vomiting, indigestion, distaste for food; seen increased incidence of tumours in animals; banned in Norway" />
+		<additive scd="?" ok="N" origin="AD" fodmaps="?" number="E120" name="Cochineal" altname="Carminic acid, Carmines" comment="Red coloring, made from crushed beatles; rarely used." />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E122" name="Azorubine" altname="Carmoisine" comment="Red color; coal tar derivative; can produce bad reactions in asthmatics and people allergic to aspirin; typical products are confectionary, marzipan, jelly crystals; banned in Sweden, USA, Austria and Norway" />
+		<additive scd="N" ok="N" origin="" fodmaps="?" number="E123" name="Amaranth" altname="FD&amp;C Red No.2" comment="Derived from the small herbaceous plant of the same name; used in cake mixes, fruit-flavoured fillings, jelly crystals; can provoke asthma, eczema and hyperactivity; it caused birth defects and foetal deaths in some animal tests, possibly also cancer; banned in the USA, Russia, Austria and Norway and other countries" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E124" name="Ponceau 4R" altname="Cochineal Red A, FD&amp;C Red No.4" comment="Synthetic coal tar and azo dye, carcinogen in animals, can produce bad reactions in asthmatics and people allergic to aspirin; banned in USA &amp; Norway" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E127" name="Erythrosine" altname="FD&amp;C Red No.3" comment="Red color used in cherries, canned fruit, custard mix, sweets, bakery, snack foods; can cause sensitivity to light; can increase thyroid hormone levels and lead to hyperthyroidism, was shown to cause thyroid cancer in rats in a study in 1990; banned in January 1990; banned in Norway" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E128" name="Red 2G" comment="Banned in Australia and many other places except UK" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E129" name="Allura Red AC" altname="FD&amp;C Red No.40" comment="Orange-red color used in sweets, drinks and condiments, medications and cosmetics, synthetic; introduced in the early eighties to replace amaranth which was considered not safe due to conflicting test results; allura red has also been connected with cancer in mice; banned in Denmark, Belgium, France, Germany, Switzerland, Sweden, Austria and Norway" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E131" name="Patent Blue V" comment="Banned in Australia, USA and Norway" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E132" name="Indigotine" altname="Indigo carmine, FD&amp;C Blue No.2" comment="Commonly added to tablets and capsules; also used in ice cream, sweets, baked goods, confectionary, biscuits, synthetic coal tar derivative; may cause nausea, vomiting, high blood pressure, skin rashes, breathing problems and other allergic reactions. banned in Norway" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E133" name="Brilliant blue FCF" altname="FD&amp;C Blue Dye No.1" comment="Used in dairy products, sweets and drinks, synthetic usually occurring as aluminum lake (solution) or ammonium salt; banned in Belgium, France, Germany, Switzerland, Sweden, Austria, Norway" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E140" name="Chlorophylis" altname="Chlorophyllins" comment="Green color occurs naturally in all plants; used for dyeing waxes and oils, used in medicines and cosmetics" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E141" name="Copper complexes of chloropyll and chlorophyllins" comment="Olive color, no adverse effects are known" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E142" name="Green S" comment="Green color; synthetic coal tar derivative; used in canned peas, mint jelly and sauce, packet bread crumbs and cake mixes; banned inSweden, USA and Norway" />
+		<additive scd="N" ok="Y" origin="" fodmaps="Y" number="E150a" name="Caramel" altname="Plain Caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
+		<additive scd="N" ok="N" origin="" fodmaps="?" number="E150b" name="Caustic sulphite caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
+		<additive scd="N" ok="N" origin="" fodmaps="?" number="E150c" name="Ammonia caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
+		<additive scd="N" ok="N" origin="" fodmaps="?" number="E150d" name="Sulphite ammonia caramel" comment="Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits and pickles." />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E151" name="Brilliant Black BN" altname="Black PN" comment="Colour; coal tar derivative; used in brown sauces, blackcurrant cake mixes; banned in Denmark, Australia, Belgium, France, Germany, Switzerland, Sweden, Austria, USA, Norway" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="Y" number="E153" name="Vegetable carbon" comment="Black colour, charcoal pigment; used in jams, jelly crystals, liquorice; only the vegetable derived variety permitted in Australia, banned in the United States" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E154" name="Brown FK" comment="Banned in USA" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E155" name="Brown HT" altname="Brown HT (Chocolate)" comment="Brown color, coal tar and azo dye; used in chocolate cake mixes; can produce bad reactions in asthmatics and people allergic to aspirin; also known to induce skin sensitivity; banned in Denmark, Belgium, France, Germany, Switzerland, Sweden, Austria, USA, Norway" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160a" name="Carotene" altname="alpha-, beta-, gamma-" comment="Orange-yellow colour; human body converts it to 'Vitamin A' in the liver, found in carrots and other yellow or orange fruits and vegetables" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160b" name="Annatto" altname=" (Arnatto, Annato), bixin, norbixin" comment="Red color; derived from a tree (Bixa orellana); used as a body paint, fabric dye, digestive aid and expectorant; used to dye cheese, butter, margarine, cereals, snack foods, soaps, textiles and varnishes; known to cause urticaria (nettle rash), the HACSG* recommends to avoid it" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160c" name="Paprika extract" altname="capsanthin, capsorubin" comment="" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160d" name="Lycopene" comment="Red coloured carotenoid found in tomatoes and pink grapefruit, can cause decreasing risk of cancer" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E160e" name="Beta-apo-8'-carotenal (C 30)" comment="Orange color, no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E160f" name="Ethyl ester of beta-apo-8'-carotenic acid (C 30)" comment="Orange color, no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="?" number="E161b" name="Lutein" altname="Xanthophylls - Lutein" comment="Yellow color derived from plants, naturally found in green leaves, marigolds and egg yolks" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="?" number="E161g" name="Canthaxanthin" altname="Xanthophylls - Canthaxanthin" comment="Yellow color possibly derived from animal sources (retinol); the pigment is found in some mushrooms, crustacea, fish, flamingo feathers" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E162" name="Beetroot Red" altname="Betanin" comment="Purple color derived from beets; no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E163" name="Anthocyanins" comment="Violet color matter of flowers and plants; seems safe" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="?" number="E170" name="Calcium carbonate" comment="Mineral salt, used in toothpastes, white paint and cleaning powders; may be derived from rock mineral or animal bones; sometimes used to deacidify wines and firm canned fruit and veg.; toxic at 'high doses'" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E171" name="Titanium dioxide" comment="White color used in toothpaste and white paint, pollutes waterways; no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E172" name="Iron oxides and hydroxides" comment="Black, yellow, red color used in salmon and shrimp pastes; toxic at 'high doses'" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E173" name="Aluminium" comment="" />
+		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E174" name="Silver" comment="" />
+		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E175" name="Gold" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E180" name="Latolrubine BK" comment="" />
+		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E181" name="Tannic acid" comment="Tannins, clarifying agent in alcohol; derived from the nutgalls and twigs of oak trees; occurs naturally in tea" />
 	</group>
 	<group range="E200 - E299" desc="Preservatives" slug="e200-e299">
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E200" name="Sorbic acid" comment="Either obtained from berries or synthesised from ketene; possible skin irritant" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E201" name="Sodium sorbate" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E202" name="Potassium sorbate" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E203" name="Calcium sorbate" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E210" name="Benzoic acid, also known as flowers of benzoin, phenlycarboxylic acid" altname="carboxybenzene" comment="Added to alcoholic beverages, baked goods, cheeses, gum, condiments, frozen dairy, relishes, soft sweets, cordials and sugar substitutes; used in cosmetics, as an antiseptic in many cough medications and an antifungal in ointments; can cause asthma, especially in those dependant on steroid asthma medications, is also reputed to cause neurological disorders and to react with sulphur bisulphite (222), shown to provoke hyperactivity in children; obtained from Benzoin, a resin exuded by trees native to Asia" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E211" name="Sodium benzoate" comment="Used as antiseptic, as a food preservative and to disguise taste, as of poor-quality food; orange soft drinks contain a high amount of it, upto 25mg per 250ml; also in milk and meat products, relishes and condiments, baked goods and lollies; used in many oral medications including Actifed, Phenergan and Tylenol; known to causes nettle rash and aggravate asthma" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E212" name="Potassium benzoate" comment="People with a history of allergies may show allergic reactions. for using see 210" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E213" name="Calcium benzoate" comment="See 212" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E214" name="Ethyl p-hydroxybenzoate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E215" name="Sodium ethyl p-hydroxybenzoate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E216" name="Propyl p-hydroxybenzoate" comment="Possible contact allergen" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E217" name="Sodium propyl p-hydroxybenzoate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E218" name="Methyl p-hydroxybenzoate" comment="Allergic reactions possible, mainly affecting the skin" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E219" name="Sodium methyl p-hydroxybenzoate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E220" name="Sulphur dioxide" comment="Derived from coal tar; all sulphur drugs are toxic and restricted in use (in USA, FDA** prohibits their use on raw fruits and vegetables), produced by combustion of sulphur or gypsum; known to provoke asthma attacks and difficult to metabolise for those with impaired kidney function, also destroys vitamin B1; typical products are beer, soft drinks, dried fruit, juices, cordials, wine, vinegar, potato products" />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E221" name="Sodium sulphite" comment="Decontaminating agent used in fresh orange juice" />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E222" name="Sodium hydrogen sulphite" comment="See E220" />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E223" name="Sodium metabisulphite" comment="Treating agent, see E220" />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E224" name="Potassium metabisulphite" comment="See E220" />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E225" name="Potassium sulphite" comment="See E220" />
-		<additive scd="Y" avoid="Y" origin="" fodmaps="?" number="E226" name="Calcium sulphite" comment="" />
-		<additive scd="Y" avoid="Y" origin="" fodmaps="?" number="E227" name="Calcium hydrogen sulphite" comment="" />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E228" name="Potassium hydrogen sulphite" comment="See 220" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E230" name="Biphenyl" altname="Diphenyl" comment="Banned in some countries; can be used for agricultural purposes; typical products are citrus fruit" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E231" name="Orthophenyl phenol" comment="Banned in some countries; can be used for agricultural purposes; typical products are pears, carrots, peaches, plums, prunes, sweet potatoe, citrus fruit, pineapples, tomatoes, peppers, cherries, nectarines" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E232" name="Sodium orthophenyl phenol" comment="Banned in some countries; can be used for agricultural purposes; typical products are pears, carrots, peaches, plums, prunes, sweet potatoe, citrus fruit, pineapples, tomatoes, peppers, cherries, nectarines" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E233" name="Thiabendazole" comment="Banned in some countries, can be used for agricultural purposes, typical products are citrus fruits, apples, pears, potatoes, bananas, mushrooms, meat, milk" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E234" name="Nisin" comment="Antibiotic derived from bacteria; found in beer, processed cheese products, tomato paste" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E235" name="Natamycin" comment="Mould inhibitor derived from bacteria; sometimes used medically to treat candidiasis; can cause nausea, vomiting, anorexia, diarrhoea and skin irritation;.typical products are meat, cheese" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E236" name="Formic acid" comment="" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E237" name="Sodium formate" comment="" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E238" name="Calcium formate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E239" name="Hexamethylene tetramine" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E249" name="Potassium nitrite" comment="Colour fixative and curing agent for meat; nitrites can effect the body's ability to carry oxygen, resulting in shortness of breath, dizziness and headaches; potential carcinogen; not permitted in foods for infant and young children" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E250" name="Sodium nitrite" comment="May provoke hyperactivity and other adverse reactions, potentially carcinogenic, restricted in many countries, can combine with chemicals in stomach to form nitrosamine, the HACSG* recommends to avoid it" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E251" name="Sodium nitrate" comment="Also used in the manufacture of nitric acid, as a fertiliser and in fermented meat products (see 250)" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E252" name="Potassium nitrate" comment="May be derived from waste animal or vegetable matter; used in gunpowder, explosives and fertilisers, and in the preservation of meat; may provoke hyperactivity and other adverse reactions; potentially carcinogenic; restricted in many countries (see 249)" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E260" name="Acetic acid" comment="Main component of vinegar, synthetically produced from wood fibres; used in pickles, chutneys, and sauces" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E261" name="Potassium acetate" comment="Food acid; should be avoided by people with impaired kidney function; typical products are sauces, pickles" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E262" name="Sodium acetate" altname="Sodium diacetate" comment="Food acid, acidity regulator; " />
-		<additive scd="?" avoid="?" origin="PAP" fodmaps="?" number="E263" name="Calcium acetate" comment="Food acid, acidity regulator; by product in the manufacture of wood alcohol; used to make acetic acid (vinegar) and in the production of dyers mordants" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E264" name="Ammonium acetate" comment="Can cause nausea and vomiting" />
-		<additive scd="?" avoid="?" origin="AP" fodmaps="?" number="E270" name="Lactic acid" comment="Food acid, acidity regulator; produced by heating and fermenting carbohydrates in milk whey, potatoes, cornstarch or molasses; difficult for babies to metabolise; used in sweets, dressings, soft drinks (sometimes beer) infant formulas and confectionary" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E280" name="Propionic acid" comment="All propionates are thought to be linked with migraine headaches; propionates occur naturally in fermented foods, human perspiration and ruminants digestive tract, also can be derived commercially from ethylene and carbon monoxide or propionaldehyde or natural gas or fermented wood pulp; produced when bacteria decompose fibre; commonly used in bread and flour products;" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E281" name="Sodium propionate" comment="May be linked to migraines, typical products are flour products" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E282" name="Calcium propionate" comment="May be linked to migraines, typical products are flour products" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E283" name="Potassium propionate" comment="May be linked to migraines, typical products are flour products" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E290" name="Carbon dioxide" comment="Propellant, coolant, derived from lime manufacture; may increase the effect of alcohol; typical products are wine, soft drinks, confectionary" />
-		<additive scd="Y" avoid="Y" origin="PSY" fodmaps="?" number="E296" name="Malic acid" comment="Derived from fruit or synthetic; infants and young children should avoid it" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E297" name="Fumaric acid" comment="Derived from plants of the genus Fumaria esp. F.officianalis or from the fermentation of glucose with fungi; can be used to flavour, acidify, as an antioxidant or raising agentused in soft drinks and cake mixes" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E200" name="Sorbic acid" comment="Either obtained from berries or synthesised from ketene; possible skin irritant" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E201" name="Sodium sorbate" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E202" name="Potassium sorbate" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E203" name="Calcium sorbate" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E210" name="Benzoic acid, also known as flowers of benzoin, phenlycarboxylic acid" altname="carboxybenzene" comment="Added to alcoholic beverages, baked goods, cheeses, gum, condiments, frozen dairy, relishes, soft sweets, cordials and sugar substitutes; used in cosmetics, as an antiseptic in many cough medications and an antifungal in ointments; can cause asthma, especially in those dependant on steroid asthma medications, is also reputed to cause neurological disorders and to react with sulphur bisulphite (222), shown to provoke hyperactivity in children; obtained from Benzoin, a resin exuded by trees native to Asia" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E211" name="Sodium benzoate" comment="Used as antiseptic, as a food preservative and to disguise taste, as of poor-quality food; orange soft drinks contain a high amount of it, upto 25mg per 250ml; also in milk and meat products, relishes and condiments, baked goods and lollies; used in many oral medications including Actifed, Phenergan and Tylenol; known to causes nettle rash and aggravate asthma" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E212" name="Potassium benzoate" comment="People with a history of allergies may show allergic reactions. for using see 210" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E213" name="Calcium benzoate" comment="See 212" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E214" name="Ethyl p-hydroxybenzoate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E215" name="Sodium ethyl p-hydroxybenzoate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E216" name="Propyl p-hydroxybenzoate" comment="Possible contact allergen" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E217" name="Sodium propyl p-hydroxybenzoate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E218" name="Methyl p-hydroxybenzoate" comment="Allergic reactions possible, mainly affecting the skin" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E219" name="Sodium methyl p-hydroxybenzoate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E220" name="Sulphur dioxide" comment="Derived from coal tar; all sulphur drugs are toxic and restricted in use (in USA, FDA** prohibits their use on raw fruits and vegetables), produced by combustion of sulphur or gypsum; known to provoke asthma attacks and difficult to metabolise for those with impaired kidney function, also destroys vitamin B1; typical products are beer, soft drinks, dried fruit, juices, cordials, wine, vinegar, potato products" />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E221" name="Sodium sulphite" comment="Decontaminating agent used in fresh orange juice" />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E222" name="Sodium hydrogen sulphite" comment="See E220" />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E223" name="Sodium metabisulphite" comment="Treating agent, see E220" />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E224" name="Potassium metabisulphite" comment="See E220" />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E225" name="Potassium sulphite" comment="See E220" />
+		<additive scd="Y" ok="N" origin="" fodmaps="?" number="E226" name="Calcium sulphite" comment="" />
+		<additive scd="Y" ok="N" origin="" fodmaps="?" number="E227" name="Calcium hydrogen sulphite" comment="" />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E228" name="Potassium hydrogen sulphite" comment="See 220" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E230" name="Biphenyl" altname="Diphenyl" comment="Banned in some countries; can be used for agricultural purposes; typical products are citrus fruit" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E231" name="Orthophenyl phenol" comment="Banned in some countries; can be used for agricultural purposes; typical products are pears, carrots, peaches, plums, prunes, sweet potatoe, citrus fruit, pineapples, tomatoes, peppers, cherries, nectarines" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E232" name="Sodium orthophenyl phenol" comment="Banned in some countries; can be used for agricultural purposes; typical products are pears, carrots, peaches, plums, prunes, sweet potatoe, citrus fruit, pineapples, tomatoes, peppers, cherries, nectarines" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E233" name="Thiabendazole" comment="Banned in some countries, can be used for agricultural purposes, typical products are citrus fruits, apples, pears, potatoes, bananas, mushrooms, meat, milk" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E234" name="Nisin" comment="Antibiotic derived from bacteria; found in beer, processed cheese products, tomato paste" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E235" name="Natamycin" comment="Mould inhibitor derived from bacteria; sometimes used medically to treat candidiasis; can cause nausea, vomiting, anorexia, diarrhoea and skin irritation;.typical products are meat, cheese" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E236" name="Formic acid" comment="" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E237" name="Sodium formate" comment="" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E238" name="Calcium formate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E239" name="Hexamethylene tetramine" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E249" name="Potassium nitrite" comment="Colour fixative and curing agent for meat; nitrites can effect the body's ability to carry oxygen, resulting in shortness of breath, dizziness and headaches; potential carcinogen; not permitted in foods for infant and young children" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E250" name="Sodium nitrite" comment="May provoke hyperactivity and other adverse reactions, potentially carcinogenic, restricted in many countries, can combine with chemicals in stomach to form nitrosamine, the HACSG* recommends to avoid it" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E251" name="Sodium nitrate" comment="Also used in the manufacture of nitric acid, as a fertiliser and in fermented meat products (see 250)" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E252" name="Potassium nitrate" comment="May be derived from waste animal or vegetable matter; used in gunpowder, explosives and fertilisers, and in the preservation of meat; may provoke hyperactivity and other adverse reactions; potentially carcinogenic; restricted in many countries (see 249)" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E260" name="Acetic acid" comment="Main component of vinegar, synthetically produced from wood fibres; used in pickles, chutneys, and sauces" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E261" name="Potassium acetate" comment="Food acid; should be avoided by people with impaired kidney function; typical products are sauces, pickles" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E262" name="Sodium acetate" altname="Sodium diacetate" comment="Food acid, acidity regulator; " />
+		<additive scd="?" ok="?" origin="PAP" fodmaps="?" number="E263" name="Calcium acetate" comment="Food acid, acidity regulator; by product in the manufacture of wood alcohol; used to make acetic acid (vinegar) and in the production of dyers mordants" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E264" name="Ammonium acetate" comment="Can cause nausea and vomiting" />
+		<additive scd="?" ok="?" origin="AP" fodmaps="?" number="E270" name="Lactic acid" comment="Food acid, acidity regulator; produced by heating and fermenting carbohydrates in milk whey, potatoes, cornstarch or molasses; difficult for babies to metabolise; used in sweets, dressings, soft drinks (sometimes beer) infant formulas and confectionary" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E280" name="Propionic acid" comment="All propionates are thought to be linked with migraine headaches; propionates occur naturally in fermented foods, human perspiration and ruminants digestive tract, also can be derived commercially from ethylene and carbon monoxide or propionaldehyde or natural gas or fermented wood pulp; produced when bacteria decompose fibre; commonly used in bread and flour products;" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E281" name="Sodium propionate" comment="May be linked to migraines, typical products are flour products" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E282" name="Calcium propionate" comment="May be linked to migraines, typical products are flour products" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E283" name="Potassium propionate" comment="May be linked to migraines, typical products are flour products" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E290" name="Carbon dioxide" comment="Propellant, coolant, derived from lime manufacture; may increase the effect of alcohol; typical products are wine, soft drinks, confectionary" />
+		<additive scd="Y" ok="N" origin="PSY" fodmaps="?" number="E296" name="Malic acid" comment="Derived from fruit or synthetic; infants and young children should avoid it" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E297" name="Fumaric acid" comment="Derived from plants of the genus Fumaria esp. F.officianalis or from the fermentation of glucose with fungi; can be used to flavour, acidify, as an antioxidant or raising agentused in soft drinks and cake mixes" />
 	</group>
 	<group range="E300 - E399" desc="Antioxidants &amp; Acidity Regulators" slug="e300-e399">
-		<additive scd="Y" avoid="N" origin="PSY" fodmaps="?" number="E300" name="Ascorbic acid" comment="Flour treating agent, 'vitamin C'; may be made synthetically from glucose, naturally occurs in fruit and vegetables; added to products as diverse as cured meat, breakfast cereals, frozen fish and wine" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E301" name="Sodium ascorbate" comment="Sodium salt of vitamin C" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E302" name="Calcium ascorbate" altname="vitamin C" comment="Calcium salt of vitamin C, may increase the formation of calcium axalate stones" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E303" name="Potassium ascorbate" comment="Potassium salt of vitamin C" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E304" name="Ascorbyl palmitate" altname="Ascorbyl stearate" comment="Fatty acid esters of ascorbic acid, same function as E300" />
-		<additive scd="Y" avoid="N" origin="VP" fodmaps="?" number="E306" name="Tocopherol-rich extract" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
-		<additive scd="Y" avoid="N" origin="SY" fodmaps="?" number="E307" name="alpha-tocopherol" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
-		<additive scd="Y" avoid="N" origin="SY" fodmaps="?" number="E308" name="gamma-tocopherol" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
-		<additive scd="Y" avoid="N" origin="SY" fodmaps="?" number="E309" name="delta-tocopherol" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E310" name="Propyl gallate" comment="Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia; used in oils, margarine, lard and salad dressings, sometimes used in packaging" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E311" name="Octyl gallate" comment="Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia; used in oils, margarine, lard and salad dressings, sometimes used in packaging" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E312" name="Dodecyl gallate" comment="Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia; used in oils, margarine, lard and salad dressings, sometimes used in packaging" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E317" name="Erythorbic acid" comment="Produced from sucrose" />
-		<additive scd="?" avoid="?" origin="SY" fodmaps="?" number="E318" name="Sodium erythorbate" comment="Produced from Erythorbic acid (E317) which is derived from sucrose" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E319" name="Tert-ButylHydroQuinone (TBHQ)" comment="Petroleum based; May cause nausea, vomiting, delirium. Typical products are fats, oils, margarine" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E320" name="Butylated hydroxy-anisole (BHA)" comment="Petroleum derivative, retards spoilage due to oxidation; used in edible oils, chewing gum, fats, margarine, nuts, instant potato products, polyethylene food wraps; not permitted in infant foods, can provoke an allergic reaction in some people, may trigger hyperactivity and other intolerances; serious concerns over carcinogenicity and estrogenic effects, in large doses caused tumors in lab animals." />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E321" name="Butylated hydroxy-toluene (BHT)" comment="Petroleum derivative; see E320" />
-		<additive scd="?" avoid="?" origin="PAP" fodmaps="?" number="E322" name="Lecithins" wiki="Lecithin" comment="Emulsifier derived from soy beans, egg yolks, peanuts, corn or animal resources; non toxic but overdose can upset the stomach, kill the appetite and cause profuse sweating; used to allow combination of oils in margarine, chocolate, mayonnaise, milk powder; must be choosen vegetable type" />
-		<additive scd="N" avoid="?" origin="AP" fodmaps="?" number="E325" name="Sodium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
-		<additive scd="N" avoid="?" origin="AP" fodmaps="?" number="E326" name="Potassium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
-		<additive scd="N" avoid="?" origin="AP" fodmaps="?" number="E327" name="Calcium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
-		<additive scd="N" avoid="?" origin="AP" fodmaps="?" number="E328" name="Ammonium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
-		<additive scd="N" avoid="?" origin="AP" fodmaps="?" number="E329" name="Magnesium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
-		<additive scd="Y" avoid="N" origin="VD" fodmaps="?" number="E330" name="Citric acid" comment="Food acid, naturally derived from citrus fruit, used in biscuits, canned fish, cheese and processed cheese products, infant formulas, cake and soup mixes, rye bread, soft drinks, fermented meat products" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E331" name="Sodium citrates" comment="Food acid; " />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E332" name="Potassium citrates" comment="Food acid; " />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E333" name="Calcium citrates" comment="Food acid;  in small quantities" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E334" name="Tartaric acid" comment="Food acid, obtained from unripe fruit, grape juice;  in small quantities" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E335" name="Sodium tartrates" comment="Food acid; " />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E336" name="Potassium tartrates" comment="Food acid; " />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E337" name="Sodium potassium tartrate" comment="Food acid; " />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E338" name="Phosphoric acid" comment="Food acid, derived from phosphate ore; used in cheese products; " />
-		<additive scd="Y" avoid="N" origin="MD" fodmaps="?" number="E339" name="Sodium phosphates" comment="Mineral salt, used as a laxative and a fixing agent in textile dyeing; high intakes may upset the calcium/phosphorus equilibrium" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E340" name="Potassium phosphates" comment="Mineral salt, used as a laxative and a fixing agent in textile dyeing; high intakes may upset the calcium/phosphorus equilibrium" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E341" name="Calcium phosphates" comment="Mineral salt found in rocks and bones; used in medicines as an antacid and polishing agent in enamels" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E343" name="Magnesium phosphates" comment="Essential mineral, anticaking agent found in salt substitutes" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E350" name="Sodium malates" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E351" name="Potassium malate" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E352" name="Calcium malates" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E353" name="Metatartaric acid" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E354" name="Calcium tartrate" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E355" name="Adipic acid" comment="Food acid from the root adipose (pertaining to fat?)" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E357" name="Potassium adipate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E363" name="Succinic acid" comment="" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E365" name="Sodium fumarate" comment="Food acid, salt of fumaric acid (derived from plants of the genus Fumaria esp. F.officianalis)" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E366" name="Potassium fumarate" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E367" name="Calcium fumarate" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E370" name="1,4-Heptonolactone" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E375" name="Niacin" altname="vitamin B3" comment="Naturally occurs in bean, pea and other legumes, milk, egg, meat, poultry, and fish; at doses in excess of 1,000 mg per day can cause liver damage, diabetes, gastritis, eye damage, and elevated blood levels of uric acid (which can cause gout); at amounts as low as 50-100 mg may cause flushing (harmless but painful), headache, and stomachache especially if taken on an empty stomach" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E380" name="Tri-ammonium citrate" comment="May interfere with liver and pancreas function" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E381" name="Ammonium ferric citrates" comment="Essential mineral, food acid derived from citric acid; used as a dietary iron supplement in breakfast cereals and dietary formulas" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E385" name="Calcium disodium EDTA" comment="" />
+		<additive scd="Y" ok="Y" origin="PSY" fodmaps="?" number="E300" name="Ascorbic acid" comment="Flour treating agent, 'vitamin C'; may be made synthetically from glucose, naturally occurs in fruit and vegetables; added to products as diverse as cured meat, breakfast cereals, frozen fish and wine" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E301" name="Sodium ascorbate" comment="Sodium salt of vitamin C" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E302" name="Calcium ascorbate" altname="vitamin C" comment="Calcium salt of vitamin C, may increase the formation of calcium axalate stones" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E303" name="Potassium ascorbate" comment="Potassium salt of vitamin C" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E304" name="Ascorbyl palmitate" altname="Ascorbyl stearate" comment="Fatty acid esters of ascorbic acid, same function as E300" />
+		<additive scd="Y" ok="Y" origin="VP" fodmaps="?" number="E306" name="Tocopherol-rich extract" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
+		<additive scd="Y" ok="Y" origin="SY" fodmaps="?" number="E307" name="alpha-tocopherol" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
+		<additive scd="Y" ok="Y" origin="SY" fodmaps="?" number="E308" name="gamma-tocopherol" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
+		<additive scd="Y" ok="Y" origin="SY" fodmaps="?" number="E309" name="delta-tocopherol" wiki="Tocopherol" comment="Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E310" name="Propyl gallate" comment="Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia; used in oils, margarine, lard and salad dressings, sometimes used in packaging" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E311" name="Octyl gallate" comment="Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia; used in oils, margarine, lard and salad dressings, sometimes used in packaging" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E312" name="Dodecyl gallate" comment="Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia; used in oils, margarine, lard and salad dressings, sometimes used in packaging" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E317" name="Erythorbic acid" comment="Produced from sucrose" />
+		<additive scd="?" ok="?" origin="SY" fodmaps="?" number="E318" name="Sodium erythorbate" comment="Produced from Erythorbic acid (E317) which is derived from sucrose" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E319" name="Tert-ButylHydroQuinone (TBHQ)" comment="Petroleum based; May cause nausea, vomiting, delirium. Typical products are fats, oils, margarine" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E320" name="Butylated hydroxy-anisole (BHA)" comment="Petroleum derivative, retards spoilage due to oxidation; used in edible oils, chewing gum, fats, margarine, nuts, instant potato products, polyethylene food wraps; not permitted in infant foods, can provoke an allergic reaction in some people, may trigger hyperactivity and other intolerances; serious concerns over carcinogenicity and estrogenic effects, in large doses caused tumors in lab animals." />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E321" name="Butylated hydroxy-toluene (BHT)" comment="Petroleum derivative; see E320" />
+		<additive scd="?" ok="?" origin="PAP" fodmaps="?" number="E322" name="Lecithins" wiki="Lecithin" comment="Emulsifier derived from soy beans, egg yolks, peanuts, corn or animal resources; non toxic but overdose can upset the stomach, kill the appetite and cause profuse sweating; used to allow combination of oils in margarine, chocolate, mayonnaise, milk powder; must be choosen vegetable type" />
+		<additive scd="N" ok="?" origin="AP" fodmaps="?" number="E325" name="Sodium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
+		<additive scd="N" ok="?" origin="AP" fodmaps="?" number="E326" name="Potassium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
+		<additive scd="N" ok="?" origin="AP" fodmaps="?" number="E327" name="Calcium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
+		<additive scd="N" ok="?" origin="AP" fodmaps="?" number="E328" name="Ammonium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
+		<additive scd="N" ok="?" origin="AP" fodmaps="?" number="E329" name="Magnesium lactate" comment="Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show adverse reactions" />
+		<additive scd="Y" ok="Y" origin="VD" fodmaps="?" number="E330" name="Citric acid" comment="Food acid, naturally derived from citrus fruit, used in biscuits, canned fish, cheese and processed cheese products, infant formulas, cake and soup mixes, rye bread, soft drinks, fermented meat products" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E331" name="Sodium citrates" comment="Food acid; " />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E332" name="Potassium citrates" comment="Food acid; " />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E333" name="Calcium citrates" comment="Food acid;  in small quantities" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E334" name="Tartaric acid" comment="Food acid, obtained from unripe fruit, grape juice;  in small quantities" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E335" name="Sodium tartrates" comment="Food acid; " />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E336" name="Potassium tartrates" comment="Food acid; " />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E337" name="Sodium potassium tartrate" comment="Food acid; " />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E338" name="Phosphoric acid" comment="Food acid, derived from phosphate ore; used in cheese products; " />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="?" number="E339" name="Sodium phosphates" comment="Mineral salt, used as a laxative and a fixing agent in textile dyeing; high intakes may upset the calcium/phosphorus equilibrium" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E340" name="Potassium phosphates" comment="Mineral salt, used as a laxative and a fixing agent in textile dyeing; high intakes may upset the calcium/phosphorus equilibrium" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E341" name="Calcium phosphates" comment="Mineral salt found in rocks and bones; used in medicines as an antacid and polishing agent in enamels" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E343" name="Magnesium phosphates" comment="Essential mineral, anticaking agent found in salt substitutes" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E350" name="Sodium malates" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E351" name="Potassium malate" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E352" name="Calcium malates" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E353" name="Metatartaric acid" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E354" name="Calcium tartrate" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E355" name="Adipic acid" comment="Food acid from the root adipose (pertaining to fat?)" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E357" name="Potassium adipate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E363" name="Succinic acid" comment="" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E365" name="Sodium fumarate" comment="Food acid, salt of fumaric acid (derived from plants of the genus Fumaria esp. F.officianalis)" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E366" name="Potassium fumarate" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E367" name="Calcium fumarate" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E370" name="1,4-Heptonolactone" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E375" name="Niacin" altname="vitamin B3" comment="Naturally occurs in bean, pea and other legumes, milk, egg, meat, poultry, and fish; at doses in excess of 1,000 mg per day can cause liver damage, diabetes, gastritis, eye damage, and elevated blood levels of uric acid (which can cause gout); at amounts as low as 50-100 mg may cause flushing (harmless but painful), headache, and stomachache especially if taken on an empty stomach" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E380" name="Tri-ammonium citrate" comment="May interfere with liver and pancreas function" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E381" name="Ammonium ferric citrates" comment="Essential mineral, food acid derived from citric acid; used as a dietary iron supplement in breakfast cereals and dietary formulas" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E385" name="Calcium disodium EDTA" comment="" />
 	</group>
 	<group range="E400 - E499" desc="Thickeners, Stabilizers &amp; Emulsifiers" slug="e400-e499">
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E400" name="Alginic acid" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E401" name="Sodium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E402" name="Potassium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E403" name="Ammonium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E404" name="Calcium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E405" name="Propylene glycol alginate" comment="Thickener and vegetable gum, derived from petroleum; see separate entry" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E406" name="Agar" comment="Thickener and vegetable gum derived from red seaweed; sometimes used as a laxative, found in manufactured meats and ice cream" />
-		<additive scd="N" avoid="Y" origin="" fodmaps="?" number="E407" name="Carrageenan" comment="A fibre extracted from seaweed, it has recently been linked with cancer because it may become contaminated when ethylene oxide is added to an inferior product, this results in ethylene chlorohydrin forming, a highly carcinogenic compound; linked to toxic hazards, including ulcers and cancer; the most serious concerns relate to degraded carrageenan, which is not a permitted additive; however, native carrageenan, which is used, may become degraded in the gut" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E410" name="Locust bean gum" comment="Derived from Carob or Locust bean tree Ceratonia siliqua; used in lollies, cordials, essences, some flour products, dressings, fruit juice drinks; frequently used as a caffeine-free chocolate substitute; may lower cholesterol levels" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E412" name="Guar gum" comment="Derived from the seeds of Cyamoposis tetragonolobus of Indian origin; fed to cattle in the US; can cause nausea, flatulence and cramps, may reduced cholesterol levels" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E413" name="Tragacanth" comment="Resin form the tree Astragalus gummifer; used in foods, drugs including nasal solutions, elixirs and tablets; also used as a binder in cosmetics; possible contact allergy" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E414" name="Acacia" comment="Derived from the sap of Acacia Sengal; easily broken down by the human digestive system; possible allergen, soothes irritations of mucous membranes" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E415" name="Xanthan gum" comment="Derived from the fermentation of corn sugar with a bacterium" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E416" name="Karaya gum" comment="Derived from the tree Sterculia urens; often used in conjunction with Carob (E 410), in ice cream, custard and sweets, as a filler for its capability to multiply its volume by 100 times with the additon of water; possible allergen" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E417" name="Tara gum" comment="Derived from the tara bush, Caesalpinia Spinosa is indigenous to Equador and Peru and is grown in Kenya" />
-		<additive scd="N" avoid="?" origin="" fodmaps="N" number="E420" name="Sorbitol" comment="Artificial sweetener and humectant; derived from glucose, either obtained from berries or synthesised; used in lollies, dried fruit, pastries, confectionary, low calorie foods, pharmecuetical syrups and opthalmic preparations and is the seventh most widely used preservative in cosmetics; not permitted in foods for infants and young children, can cause gastric disturbance" />
-		<additive scd="N" avoid="?" origin="" fodmaps="N" number="E421" name="Mannitol" comment="Artificial sweetener and humectant; derived from seaweed or the manna ash tree; possible allergen, not permitted in infant foods due to its ability to cause diarrhea and kidney dysfunction, also may cause nausea, vomiting; typical products are low calorie foods" />
-		<additive scd="?" avoid="?" origin="AD" fodmaps="N" number="E422" name="Glycerol" comment="Humectant and sweetener; oily colourless alcohol; derived by decomposition of natural fats with alkalis; usually as a by-product of soap making using animal fat or vegetable oil; can be obtained from petroleum products sometimes synthesised from propylene or fermented from sugar; used in flexible coatings on sausages and cheeses, also in crystallised and dried fruit, liqueurs and vodka. Glycerin has been shown to protect against DNA damage induced by tumor promoters, ultraviolet lights and radiation, presumably via free radical scavenging; large quantities can cause headaches, thirst, nausea and high blood sugar levels. typical products are liquers, confectionary, dried fruit, low calorie foods" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E425" name="Konjac" comment="(i) Konjac gum (ii) Konjac glucomannane. Emulsifier." />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E430" name="Polyoxyethylene (8) stearate" comment="Emulsifier, stabiliser. " />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E431" name="Polyoxyethylene (40) stearate" comment="Emulsifier. " />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="N" number="E432" name="Polysorbate 20" altname="Polyoxyethylene (20) sorbitan monolaurate" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E433" name="Polysorbate 80" altname="Polyoxyethylene (20) sorbitan monooleate" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="N" number="E434" name="Polysorbate 40" altname="Polyoxyethylene (20) sorbitan monopalmitate" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E435" name="Polyoxyethylene (20)" altname="sorbitan monostearate - Polysorbate 60" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E436" name="Polyoxyethylene (20)" altname="sorbitan tristearate - Polysorbate 65" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E440a" name="Pectin" comment="Naturally occurring in the skins of apples; used to thicken jams, jellies and sauces; large quantities may cause temporary flatulence or intestinal discomfort" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E440b" name="Amidated pectin" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E441" name="Gelatine" comment="Possible allergen, may contain 220, asthmatics and people allergic to sulphites beware!" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E442" name="Ammonium phosphatides" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E450" name="Diphosphates" comment="High intakes may upset the calcium/phosphate equilibrium" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E451" name="Triphosphates" comment="Pentasodium Triphosphate, Pentapotassium Triphosphate" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E452" name="Polyphosphates" comment="iSodium Polyphosphate, (ii)Potassium Polyphosphate, (iii)Sodium Calcium Polyphosphate, (iv)Calcium Polyphosphates, I Sodium Hexametaphosphate" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E459" name="Beta-cyclodextrine" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E460" name="Cellulose" comment="Anti-caking agent; no adverse effects known" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E461" name="Methyl cellulose" comment="Can cause flatulence, distension, intestinal obstruction" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E463" name="Hydroxypropyl cellulose" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E464" name="Hydroxypropyl methyl cellulose" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E465" name="Ethyl methyl cellulose" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E466" name="Carboxy methyl cellulose" altname="Sodium carboxy methyl cellulose" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E468" name="Cross linked sodium carboxy methyl cellulose" comment="Sweeteners" />
-		<additive scd="?" avoid="?" origin="PAP" fodmaps="?" number="E469" name="Sodium caseinate" comment="Emulsifier" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E470a" name="Fatty acids salts" comment="Sodium, potassium and calcium salts of fatty acids. Emulsifier &amp; Anti-caking agent" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E470b" name="Fatty acids salts" comment="Magnesium salts of fatty acids" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E471" name="Mono- &amp; di- glycerides of fatty acids" comment="" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E472a" name="" comment="Acetic acid esters of mono- and diglycerides of fatty acids. Emulsifier." />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E472b" name="" comment="Lactic acid esters of mono- and diglycerides of fatty acids" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E472c" name="" comment="Citric acid esters of mono- and diglycerides of fatty acids" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E472d" name="" comment="Tartaric acid esters of mono- and diglycerides of fatty acids" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E472e" name="" comment="Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E472f" name="" comment="Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids" />
-		<additive scd="N" avoid="?" origin="PAD" fodmaps="?" number="E473" name="Sucrose esters of fatty acids" comment="Emulsifier" />
-		<additive scd="N" avoid="Y" origin="PAD" fodmaps="?" number="E474" name="Sucroglycerides" comment="Emulsifier" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E475" name="Polyglycerol esters of fatty acids" comment="" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E476" name="Polyglycerol polyricinoleate" comment="" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E477" name="Propylene glycol esters of fatty acids" comment="Derived from petroleum; " />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E478" name="" comment="Lactylated fatty acid esters of gylcerol and propane-1,2-diol" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E479b" name="" comment="Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E480" name="Dioctyl sodium sulphosuccinate" comment="" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E481" name="Sodium stearoyl-2-lactylate" comment="Emulsifier" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E482" name="Calcium stearoyl-2-lactylate" comment="Emulsifier" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E483" name="Stearyl tartrate" comment="Emulsifier" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E491" name="Sorbitan monostearate" comment="Emulsifier" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E492" name="Sorbitan tristearate" comment="May increase th absorption of fat-soluble substances" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E493" name="Sorbitan monolaurate" comment="" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E494" name="Sorbitan mono-oleate" comment="" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E495" name="Sorbitan monopalmitate" comment="" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E400" name="Alginic acid" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E401" name="Sodium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E402" name="Potassium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E403" name="Ammonium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E404" name="Calcium alginate" comment="Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E405" name="Propylene glycol alginate" comment="Thickener and vegetable gum, derived from petroleum; see separate entry" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E406" name="Agar" comment="Thickener and vegetable gum derived from red seaweed; sometimes used as a laxative, found in manufactured meats and ice cream" />
+		<additive scd="N" ok="N" origin="" fodmaps="?" number="E407" name="Carrageenan" comment="A fibre extracted from seaweed, it has recently been linked with cancer because it may become contaminated when ethylene oxide is added to an inferior product, this results in ethylene chlorohydrin forming, a highly carcinogenic compound; linked to toxic hazards, including ulcers and cancer; the most serious concerns relate to degraded carrageenan, which is not a permitted additive; however, native carrageenan, which is used, may become degraded in the gut" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E410" name="Locust bean gum" comment="Derived from Carob or Locust bean tree Ceratonia siliqua; used in lollies, cordials, essences, some flour products, dressings, fruit juice drinks; frequently used as a caffeine-free chocolate substitute; may lower cholesterol levels" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E412" name="Guar gum" comment="Derived from the seeds of Cyamoposis tetragonolobus of Indian origin; fed to cattle in the US; can cause nausea, flatulence and cramps, may reduced cholesterol levels" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E413" name="Tragacanth" comment="Resin form the tree Astragalus gummifer; used in foods, drugs including nasal solutions, elixirs and tablets; also used as a binder in cosmetics; possible contact allergy" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E414" name="Acacia" comment="Derived from the sap of Acacia Sengal; easily broken down by the human digestive system; possible allergen, soothes irritations of mucous membranes" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E415" name="Xanthan gum" comment="Derived from the fermentation of corn sugar with a bacterium" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E416" name="Karaya gum" comment="Derived from the tree Sterculia urens; often used in conjunction with Carob (E 410), in ice cream, custard and sweets, as a filler for its capability to multiply its volume by 100 times with the additon of water; possible allergen" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E417" name="Tara gum" comment="Derived from the tara bush, Caesalpinia Spinosa is indigenous to Equador and Peru and is grown in Kenya" />
+		<additive scd="N" ok="?" origin="" fodmaps="N" number="E420" name="Sorbitol" comment="Artificial sweetener and humectant; derived from glucose, either obtained from berries or synthesised; used in lollies, dried fruit, pastries, confectionary, low calorie foods, pharmecuetical syrups and opthalmic preparations and is the seventh most widely used preservative in cosmetics; not permitted in foods for infants and young children, can cause gastric disturbance" />
+		<additive scd="N" ok="?" origin="" fodmaps="N" number="E421" name="Mannitol" comment="Artificial sweetener and humectant; derived from seaweed or the manna ash tree; possible allergen, not permitted in infant foods due to its ability to cause diarrhea and kidney dysfunction, also may cause nausea, vomiting; typical products are low calorie foods" />
+		<additive scd="?" ok="?" origin="AD" fodmaps="N" number="E422" name="Glycerol" comment="Humectant and sweetener; oily colourless alcohol; derived by decomposition of natural fats with alkalis; usually as a by-product of soap making using animal fat or vegetable oil; can be obtained from petroleum products sometimes synthesised from propylene or fermented from sugar; used in flexible coatings on sausages and cheeses, also in crystallised and dried fruit, liqueurs and vodka. Glycerin has been shown to protect against DNA damage induced by tumor promoters, ultraviolet lights and radiation, presumably via free radical scavenging; large quantities can cause headaches, thirst, nausea and high blood sugar levels. typical products are liquers, confectionary, dried fruit, low calorie foods" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E425" name="Konjac" comment="(i) Konjac gum (ii) Konjac glucomannane. Emulsifier." />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E430" name="Polyoxyethylene (8) stearate" comment="Emulsifier, stabiliser. " />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E431" name="Polyoxyethylene (40) stearate" comment="Emulsifier. " />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="N" number="E432" name="Polysorbate 20" altname="Polyoxyethylene (20) sorbitan monolaurate" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E433" name="Polysorbate 80" altname="Polyoxyethylene (20) sorbitan monooleate" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="N" number="E434" name="Polysorbate 40" altname="Polyoxyethylene (20) sorbitan monopalmitate" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E435" name="Polyoxyethylene (20)" altname="sorbitan monostearate - Polysorbate 60" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E436" name="Polyoxyethylene (20)" altname="sorbitan tristearate - Polysorbate 65" comment="Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners; may increase the absorption of fat-soluble substances" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E440a" name="Pectin" comment="Naturally occurring in the skins of apples; used to thicken jams, jellies and sauces; large quantities may cause temporary flatulence or intestinal discomfort" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E440b" name="Amidated pectin" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E441" name="Gelatine" comment="Possible allergen, may contain 220, asthmatics and people allergic to sulphites beware!" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E442" name="Ammonium phosphatides" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E450" name="Diphosphates" comment="High intakes may upset the calcium/phosphate equilibrium" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E451" name="Triphosphates" comment="Pentasodium Triphosphate, Pentapotassium Triphosphate" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E452" name="Polyphosphates" comment="iSodium Polyphosphate, (ii)Potassium Polyphosphate, (iii)Sodium Calcium Polyphosphate, (iv)Calcium Polyphosphates, I Sodium Hexametaphosphate" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E459" name="Beta-cyclodextrine" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E460" name="Cellulose" comment="Anti-caking agent; no adverse effects known" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E461" name="Methyl cellulose" comment="Can cause flatulence, distension, intestinal obstruction" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E463" name="Hydroxypropyl cellulose" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E464" name="Hydroxypropyl methyl cellulose" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E465" name="Ethyl methyl cellulose" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E466" name="Carboxy methyl cellulose" altname="Sodium carboxy methyl cellulose" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E468" name="Cross linked sodium carboxy methyl cellulose" comment="Sweeteners" />
+		<additive scd="?" ok="?" origin="PAP" fodmaps="?" number="E469" name="Sodium caseinate" comment="Emulsifier" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E470a" name="Fatty acids salts" comment="Sodium, potassium and calcium salts of fatty acids. Emulsifier &amp; Anti-caking agent" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E470b" name="Fatty acids salts" comment="Magnesium salts of fatty acids" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E471" name="Mono- &amp; di- glycerides of fatty acids" comment="" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E472a" name="" comment="Acetic acid esters of mono- and diglycerides of fatty acids. Emulsifier." />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E472b" name="" comment="Lactic acid esters of mono- and diglycerides of fatty acids" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E472c" name="" comment="Citric acid esters of mono- and diglycerides of fatty acids" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E472d" name="" comment="Tartaric acid esters of mono- and diglycerides of fatty acids" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E472e" name="" comment="Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E472f" name="" comment="Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids" />
+		<additive scd="N" ok="?" origin="PAD" fodmaps="?" number="E473" name="Sucrose esters of fatty acids" comment="Emulsifier" />
+		<additive scd="N" ok="N" origin="PAD" fodmaps="?" number="E474" name="Sucroglycerides" comment="Emulsifier" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E475" name="Polyglycerol esters of fatty acids" comment="" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E476" name="Polyglycerol polyricinoleate" comment="" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E477" name="Propylene glycol esters of fatty acids" comment="Derived from petroleum; " />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E478" name="" comment="Lactylated fatty acid esters of gylcerol and propane-1,2-diol" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E479b" name="" comment="Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E480" name="Dioctyl sodium sulphosuccinate" comment="" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E481" name="Sodium stearoyl-2-lactylate" comment="Emulsifier" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E482" name="Calcium stearoyl-2-lactylate" comment="Emulsifier" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E483" name="Stearyl tartrate" comment="Emulsifier" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E491" name="Sorbitan monostearate" comment="Emulsifier" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E492" name="Sorbitan tristearate" comment="May increase th absorption of fat-soluble substances" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E493" name="Sorbitan monolaurate" comment="" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E494" name="Sorbitan mono-oleate" comment="" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E495" name="Sorbitan monopalmitate" comment="" />
 	</group>
 	<group range="E500 - E599" desc="Acidity Regulators &amp; Anti-Caking Agents" slug="e500-e599">
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E500" name="Sodium carbonates" comment="" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E501" name="Potassium carbonates" comment="" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E503" name="Ammonium carbonates" comment="Irritant to mucous membranes" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E504" name="Magnesium carbonate" comment="Medically used as an antacid and laxative" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E507" name="Hydrochloric acid" comment="Safe in small quantities" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E508" name="Potassium chloride" comment="Large quantities can cause gastric ulceration" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E509" name="Calcium chloride" comment="Derived from brine" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E510" name="Ammonium chloride" comment="Should be avoided by people with impaired liver or kidney function. Typical products are flour products" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E511" name="Magnesium chloride" comment="Magnesium is an essential mineral" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E513" name="Sulphuric acid" comment="" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E514" name="Sodium sulphates" comment="May upset the body's water balance" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E515" name="Potassium sulphates" comment="" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E516" name="Calcium sulphate" comment="Derived from limestone" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E518" name="Magnesium sulphate" comment="A laxative" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E519" name="Copper sulphate" comment="Essential mineral" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E520" name="Aluminium sulfate" comment="Firming Agent" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E521" name="Aluminium sodium sulfate" comment="Acidity regulator" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E522" name="Aluminium potassium sulfate" comment="Acidity regulator" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E523" name="Aluminium ammonium sulfate" comment="Acidity regulator" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E524" name="Sodium hydroxide" comment="Acidity regulator" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E525" name="Potassium hydroxide" comment="Acidity regulator" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E526" name="Calcium hydroxide" comment="Firming Agent. No adverse effects in small quantities" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E527" name="Ammonium hydroxide" comment="Acidity regulator" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E528" name="Magnesium hydroxide" comment="Acidity regulator" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E529" name="Calcium oxide" comment="Acidity regulator, Improving agent" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E530" name="Magnesium oxide" comment="Acidity regulator" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E535" name="Sodium ferrocyanide" comment="Acidity regulator, Improving agent" />
-		<additive scd="?" avoid="?" origin="SY" fodmaps="?" number="E536" name="Potassium ferrocyanide" comment="By-product of coal gas production; low toxicity" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E540" name="Dicalcium diphosphate" comment="Acidity regulator" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E541" name="Sodium aluminium phosphate" altname="Acidic" comment="Emulsifier" />
-		<additive scd="?" avoid="?" origin="AD" fodmaps="?" number="E542" name="Edible Bone phosphate" comment="Anti-caking agent; Derived from bones; used in dried milk for coffee machines" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E544" name="Calcium polyphosphates" comment="Emulsifier" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E545" name="Ammonium polyphosphates" comment="Emulsifier" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E551" name="Silicon dioxide" comment="No adverse effects are known in food use" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E552" name="Calcium silicate" comment="Derived from limestone and diatomaceous earth (the silicified skeletons of diatoms, a single celled plankton), antacid; " />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E553a" name="Magnesium silicates" comment="Anti-caking agent; (i) Magnesium silicate (ii), Magnesium trisilicate" />
-		<additive scd="?" avoid="Y" origin="MD" fodmaps="?" number="E553b" name="Talc" comment="Anti-caking agent; typical products are polished rice, chocolate, confectionary" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E554" name="Sodium aluminium silicate" comment="Anti-caking agent; Used in salt, dried milk substitutes and flours" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E556" name="Calcium aluminium silicate" comment="Anti-caking agent; Used in salt, dried milk substitutes and flours." />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E558" name="Bentonite" comment="Anti-caking agent" />
-		<additive scd="?" avoid="?" origin="MD" fodmaps="?" number="E559" name="Aluminium silicate (Kaolin)" comment="Anti-caking agent" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E570" name="Stearic acid" comment="Anti-caking agent. Possibly of animal origin; see stearates" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E572" name="Magnesium stearate" comment="Emulsifier, Anti-caking agent" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E575" name="Glucono delta-lactone" comment="Acidity regulator, Sequestrant" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E576" name="Sodium gluconate" comment="Sequestrant" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E577" name="Potassium gluconate" comment="Sequestrant" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E578" name="Calcium gluconate" comment="Firming Agent" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E579" name="Ferrous gluconate" comment="Colour-retention agent; derived from iron and glucose; used in olives, iron supplements; safe in small amounts" />
-		<additive scd="?" avoid="?" origin="PAP" fodmaps="?" number="E585" name="Ferrous lactate" comment="Colouring" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E500" name="Sodium carbonates" comment="" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E501" name="Potassium carbonates" comment="" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E503" name="Ammonium carbonates" comment="Irritant to mucous membranes" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E504" name="Magnesium carbonate" comment="Medically used as an antacid and laxative" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E507" name="Hydrochloric acid" comment="Safe in small quantities" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E508" name="Potassium chloride" comment="Large quantities can cause gastric ulceration" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E509" name="Calcium chloride" comment="Derived from brine" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E510" name="Ammonium chloride" comment="Should be avoided by people with impaired liver or kidney function. Typical products are flour products" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E511" name="Magnesium chloride" comment="Magnesium is an essential mineral" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E513" name="Sulphuric acid" comment="" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E514" name="Sodium sulphates" comment="May upset the body's water balance" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E515" name="Potassium sulphates" comment="" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E516" name="Calcium sulphate" comment="Derived from limestone" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E518" name="Magnesium sulphate" comment="A laxative" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E519" name="Copper sulphate" comment="Essential mineral" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E520" name="Aluminium sulfate" comment="Firming Agent" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E521" name="Aluminium sodium sulfate" comment="Acidity regulator" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E522" name="Aluminium potassium sulfate" comment="Acidity regulator" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E523" name="Aluminium ammonium sulfate" comment="Acidity regulator" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E524" name="Sodium hydroxide" comment="Acidity regulator" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E525" name="Potassium hydroxide" comment="Acidity regulator" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E526" name="Calcium hydroxide" comment="Firming Agent. No adverse effects in small quantities" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E527" name="Ammonium hydroxide" comment="Acidity regulator" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E528" name="Magnesium hydroxide" comment="Acidity regulator" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E529" name="Calcium oxide" comment="Acidity regulator, Improving agent" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E530" name="Magnesium oxide" comment="Acidity regulator" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E535" name="Sodium ferrocyanide" comment="Acidity regulator, Improving agent" />
+		<additive scd="?" ok="?" origin="SY" fodmaps="?" number="E536" name="Potassium ferrocyanide" comment="By-product of coal gas production; low toxicity" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E540" name="Dicalcium diphosphate" comment="Acidity regulator" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E541" name="Sodium aluminium phosphate" altname="Acidic" comment="Emulsifier" />
+		<additive scd="?" ok="?" origin="AD" fodmaps="?" number="E542" name="Edible Bone phosphate" comment="Anti-caking agent; Derived from bones; used in dried milk for coffee machines" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E544" name="Calcium polyphosphates" comment="Emulsifier" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E545" name="Ammonium polyphosphates" comment="Emulsifier" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E551" name="Silicon dioxide" comment="No adverse effects are known in food use" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E552" name="Calcium silicate" comment="Derived from limestone and diatomaceous earth (the silicified skeletons of diatoms, a single celled plankton), antacid; " />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E553a" name="Magnesium silicates" comment="Anti-caking agent; (i) Magnesium silicate (ii), Magnesium trisilicate" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E553b" name="Talc" comment="Anti-caking agent; typical products are polished rice, chocolate, confectionary" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E554" name="Sodium aluminium silicate" comment="Anti-caking agent; Used in salt, dried milk substitutes and flours" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E556" name="Calcium aluminium silicate" comment="Anti-caking agent; Used in salt, dried milk substitutes and flours." />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E558" name="Bentonite" comment="Anti-caking agent" />
+		<additive scd="?" ok="?" origin="MD" fodmaps="?" number="E559" name="Aluminium silicate (Kaolin)" comment="Anti-caking agent" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E570" name="Stearic acid" comment="Anti-caking agent. Possibly of animal origin; see stearates" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E572" name="Magnesium stearate" comment="Emulsifier, Anti-caking agent" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E575" name="Glucono delta-lactone" comment="Acidity regulator, Sequestrant" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E576" name="Sodium gluconate" comment="Sequestrant" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E577" name="Potassium gluconate" comment="Sequestrant" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E578" name="Calcium gluconate" comment="Firming Agent" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E579" name="Ferrous gluconate" comment="Colour-retention agent; derived from iron and glucose; used in olives, iron supplements; safe in small amounts" />
+		<additive scd="?" ok="?" origin="PAP" fodmaps="?" number="E585" name="Ferrous lactate" comment="Colouring" />
 	</group>
 	<group range="E600 - E699" desc="Flavour Enhancers" slug="e600-e699">
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E620" name="Glutamic acid" comment="Flavour enhancer, salt substitute; amino acid present in many animal and vegetable proteins, derived commercially from bacteria; might cause similar problems as MSG(621), young children should avoid it" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E621" name="Monosodium glutamate" altname="MSG" comment="Flavour enhancer derived from the fermentation of molasses, salt substitute; adverse effects appear in some asthmatic people, not permitted in foods for infants and young children; typical products are canned vegetables, canned tuna, dressings, many frozen foods" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E622" name="Monopotassium glutamate" comment="Can cause nausea, vomiting, diarrhea, abdominal cramps; typical products are low sodium salt substitutes" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E623" name="Calcium diglutamate" comment="Salt substitute, " />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E624" name="Monoammonium glutamate" comment="Salt substitute, " />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E625" name="Magnesium diglutamate" comment="Salt substitute, " />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E626" name="Guanylic acid" comment="May trigger gout" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E627" name="Disodium guanylate" comment="Sodium Guanylate, Flavour enhancer. Isolated from sardines or yeast extract; may trigger gout, not permitted in foods for infants and young children" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E629" name="Calcium guanylate" comment="May trigger gout" />
-		<additive scd="?" avoid="?" origin="AD" fodmaps="?" number="E631" name="Disodium inosinate" comment="May be prepared from meat or sardines; may trigger gout, not permitted in foods for infants and young children" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E633" name="Calcium inosinate" comment="May trigger gout" />
-		<additive scd="?" avoid="Y" origin="PAD" fodmaps="?" number="E635" name="Disodium 5'-ribonucleotide" comment="May be associated with itchy skin rashes up to 30 hours after ingestion; rashes may vary from mild to dramatic; the reaction is dose-related and cumulative, some individuals are more sensitive than others; typical foods include flavoured chips, instant noodles and party pies." />
-		<additive scd="?" avoid="?" origin="PSY" fodmaps="?" number="E636" name="Maltol" comment="Derived from the bark of larch trees, pine needles, chicory wood, oils and roasted malt; it may be produced synthetically" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E637" name="Ethyl maltol" comment="Derived from maltol" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="?" number="E640" name="Glycine" altname="Glycine &amp; its sodium salt" comment="Flavour enhancer" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E620" name="Glutamic acid" comment="Flavour enhancer, salt substitute; amino acid present in many animal and vegetable proteins, derived commercially from bacteria; might cause similar problems as MSG(621), young children should avoid it" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E621" name="Monosodium glutamate" altname="MSG" comment="Flavour enhancer derived from the fermentation of molasses, salt substitute; adverse effects appear in some asthmatic people, not permitted in foods for infants and young children; typical products are canned vegetables, canned tuna, dressings, many frozen foods" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E622" name="Monopotassium glutamate" comment="Can cause nausea, vomiting, diarrhea, abdominal cramps; typical products are low sodium salt substitutes" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E623" name="Calcium diglutamate" comment="Salt substitute, " />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E624" name="Monoammonium glutamate" comment="Salt substitute, " />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E625" name="Magnesium diglutamate" comment="Salt substitute, " />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E626" name="Guanylic acid" comment="May trigger gout" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E627" name="Disodium guanylate" comment="Sodium Guanylate, Flavour enhancer. Isolated from sardines or yeast extract; may trigger gout, not permitted in foods for infants and young children" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E629" name="Calcium guanylate" comment="May trigger gout" />
+		<additive scd="?" ok="?" origin="AD" fodmaps="?" number="E631" name="Disodium inosinate" comment="May be prepared from meat or sardines; may trigger gout, not permitted in foods for infants and young children" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E633" name="Calcium inosinate" comment="May trigger gout" />
+		<additive scd="?" ok="N" origin="PAD" fodmaps="?" number="E635" name="Disodium 5'-ribonucleotide" comment="May be associated with itchy skin rashes up to 30 hours after ingestion; rashes may vary from mild to dramatic; the reaction is dose-related and cumulative, some individuals are more sensitive than others; typical foods include flavoured chips, instant noodles and party pies." />
+		<additive scd="?" ok="?" origin="PSY" fodmaps="?" number="E636" name="Maltol" comment="Derived from the bark of larch trees, pine needles, chicory wood, oils and roasted malt; it may be produced synthetically" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E637" name="Ethyl maltol" comment="Derived from maltol" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="?" number="E640" name="Glycine" altname="Glycine &amp; its sodium salt" comment="Flavour enhancer" />
 	</group>
 	<group range="E900 - E999" desc="Glazing Agents &amp; Sweeteners" slug="e900-e999">
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E900" name="Dimethyl polysiloxane" comment="Silicone based" />
-		<additive scd="Y" avoid="N" origin="AP" fodmaps="?" number="E901" name="Beeswaxes" comment="Glazing agent, used to wax fruit; see bee products; occasionally causes allergic reactions" />
-		<additive scd="Y" avoid="N" origin="" fodmaps="?" number="E903" name="Carnauba wax" altname="Carnauba" comment="Derived from a South American palm; used in cosmetics and inks, and to wax fruit; occasionally causes allergic reactions" />
-		<additive scd="Y" avoid="N" origin="AD" fodmaps="?" number="E904" name="Shellac" comment="Derived from insects; occasionally causes irritations of the skin" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E905" name="Paraffins" altname="Microcrystalline wax" comment="May inhibit absorption of fats and fat soluble vitamins, mild laxative, there may be a link to bowel cancer; used on sweets, in processing yeast, vitamin tablets, dried fruit, confectionary, collagen" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E907" name="Refined microcrystalline wax" comment="" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E913" name="Lanolin" comment="Derived from sheep wool" />
-		<additive scd="?" avoid="?" origin="AD" fodmaps="?" number="E920" name="L-Cysteine hydrochloride" comment="Flour treatment agent derived from animal hair and chicken feathers" />
-		<additive scd="?" avoid="?" origin="AD" fodmaps="?" number="E921" name="L-Cysteine hydrochloride monohydrate" comment="Flour treatment agent derived from animal hair and chicken feathers" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E924" name="Potassium bromate" comment="Large quantities can cause nausea, vomiting, diarrhoea, pain. Typical products are flour products" />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E925" name="Chlorine" comment="Typical products are flour products. Possible health concerns." />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E926" name="Chlorine dioxide" comment="Typical products are flour products. Possible health concerns" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E927" name="Azodicarbonamide" comment="" />
-		<additive scd="?" avoid="Y" origin="" fodmaps="?" number="E928" name="Benzoyl peroxide" comment="Approved by FDA* for bleaching the carotenoids in refined flours; asthmatics and people with a history of allergies should avoid." />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E931" name="Nitrogen" comment="Inert gas used in freezing and vacuum packing." />
-		<additive scd="Y" avoid="?" origin="" fodmaps="?" number="E932" name="Nitrous oxide" comment="Laughing Gas. Safe in small quantities" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E950" name="Acesulphane potassium" wiki="Acesulfame_K" comment="Acesulfame K, Artificial Sweetener" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E951" name="Aspartame" comment="Artificial sweetener, too many adverse effects possible to list, some people are allergic to aspartame, migraine headaches a common reaction in these people" />
-		<additive scd="?" avoid="Y" origin="SY" fodmaps="?" number="E952" name="Cyclamic acid" altname="calcium &amp; sodium cyclamate" comment="Artificial sweetener; known to cause migraines and other reactions, can be carcinogenic, caused damage ot rats testicles and mouse embriyos in tests, banned in the US and UK due its links with cancer" />
-		<additive scd="Y" avoid="Y" origin="SY" fodmaps="?" number="E954" name="Saccharines" altname="calcium &amp; sodium saccharin" comment="Artificial sweetener derived from toluene (a known carcinogen); banned in 1977 in the US, but reinstated subject to strict labelling starting: Use of this product may be hazardous to your health, this product contains saccharin which has been determined to cause cancer in laboratory animals" />
-		<additive scd="?" avoid="?" origin="VD" fodmaps="?" number="E957" name="Thaumatin" comment="Artificial sweetener, a protein derived from the tropical plant Thaumococcus danielli; used to sweeten wines, bread and fruit" />
-		<additive scd="N" avoid="N" origin="VD" fodmaps="?" number="E965" name="Maltitol" altname="Hydrogenated glucose syrup" comment="Humectant, starch decomposed with digestive enzymes; used in confectionery, dried fruits, low-joule foods; laxative in high concentrations" />
-		<additive scd="?" avoid="N" origin="VD" fodmaps="?" number="E967" name="Xylitol" comment="Humectant, found in raspberries, plums, lettuce and endives, though produced for commercial purposes from wood pulp; used in low-joule foods and carbohydratemodified sweets, icecream and jams" />
-		<additive scd="?" avoid="N" origin="VD" fodmaps="?" number="E999" name="Quillaia extract" comment="Foaming agent, emulsifier, natural surfactant; derived from chilean soap bark tree (Quillaia Saponaria); used in beer and soda; known to promote healing and reduce excessive oilness in the skin" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E900" name="Dimethyl polysiloxane" comment="Silicone based" />
+		<additive scd="Y" ok="Y" origin="AP" fodmaps="?" number="E901" name="Beeswaxes" comment="Glazing agent, used to wax fruit; see bee products; occasionally causes allergic reactions" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E903" name="Carnauba wax" altname="Carnauba" comment="Derived from a South American palm; used in cosmetics and inks, and to wax fruit; occasionally causes allergic reactions" />
+		<additive scd="Y" ok="Y" origin="AD" fodmaps="?" number="E904" name="Shellac" comment="Derived from insects; occasionally causes irritations of the skin" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E905" name="Paraffins" altname="Microcrystalline wax" comment="May inhibit absorption of fats and fat soluble vitamins, mild laxative, there may be a link to bowel cancer; used on sweets, in processing yeast, vitamin tablets, dried fruit, confectionary, collagen" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E907" name="Refined microcrystalline wax" comment="" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E913" name="Lanolin" comment="Derived from sheep wool" />
+		<additive scd="?" ok="?" origin="AD" fodmaps="?" number="E920" name="L-Cysteine hydrochloride" comment="Flour treatment agent derived from animal hair and chicken feathers" />
+		<additive scd="?" ok="?" origin="AD" fodmaps="?" number="E921" name="L-Cysteine hydrochloride monohydrate" comment="Flour treatment agent derived from animal hair and chicken feathers" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E924" name="Potassium bromate" comment="Large quantities can cause nausea, vomiting, diarrhoea, pain. Typical products are flour products" />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E925" name="Chlorine" comment="Typical products are flour products. Possible health concerns." />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E926" name="Chlorine dioxide" comment="Typical products are flour products. Possible health concerns" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E927" name="Azodicarbonamide" comment="" />
+		<additive scd="?" ok="N" origin="" fodmaps="?" number="E928" name="Benzoyl peroxide" comment="Approved by FDA* for bleaching the carotenoids in refined flours; asthmatics and people with a history of allergies should avoid." />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E931" name="Nitrogen" comment="Inert gas used in freezing and vacuum packing." />
+		<additive scd="Y" ok="?" origin="" fodmaps="?" number="E932" name="Nitrous oxide" comment="Laughing Gas. Safe in small quantities" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E950" name="Acesulphane potassium" wiki="Acesulfame_K" comment="Acesulfame K, Artificial Sweetener" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E951" name="Aspartame" comment="Artificial sweetener, too many adverse effects possible to list, some people are allergic to aspartame, migraine headaches a common reaction in these people" />
+		<additive scd="?" ok="N" origin="SY" fodmaps="?" number="E952" name="Cyclamic acid" altname="calcium &amp; sodium cyclamate" comment="Artificial sweetener; known to cause migraines and other reactions, can be carcinogenic, caused damage ot rats testicles and mouse embriyos in tests, banned in the US and UK due its links with cancer" />
+		<additive scd="Y" ok="N" origin="SY" fodmaps="?" number="E954" name="Saccharines" altname="calcium &amp; sodium saccharin" comment="Artificial sweetener derived from toluene (a known carcinogen); banned in 1977 in the US, but reinstated subject to strict labelling starting: Use of this product may be hazardous to your health, this product contains saccharin which has been determined to cause cancer in laboratory animals" />
+		<additive scd="?" ok="?" origin="VD" fodmaps="?" number="E957" name="Thaumatin" comment="Artificial sweetener, a protein derived from the tropical plant Thaumococcus danielli; used to sweeten wines, bread and fruit" />
+		<additive scd="N" ok="Y" origin="VD" fodmaps="?" number="E965" name="Maltitol" altname="Hydrogenated glucose syrup" comment="Humectant, starch decomposed with digestive enzymes; used in confectionery, dried fruits, low-joule foods; laxative in high concentrations" />
+		<additive scd="?" ok="Y" origin="VD" fodmaps="?" number="E967" name="Xylitol" comment="Humectant, found in raspberries, plums, lettuce and endives, though produced for commercial purposes from wood pulp; used in low-joule foods and carbohydratemodified sweets, icecream and jams" />
+		<additive scd="?" ok="Y" origin="VD" fodmaps="?" number="E999" name="Quillaia extract" comment="Foaming agent, emulsifier, natural surfactant; derived from chilean soap bark tree (Quillaia Saponaria); used in beer and soda; known to promote healing and reduce excessive oilness in the skin" />
 	</group>
 	<group range="E1100 - E1199" desc="Other Chemicals" slug="e1100-e1199">
-		<additive scd="?" avoid="N" origin="" fodmaps="?" number="E1103" name="Invertase" comment="Stabiliser" />
-		<additive scd="N" avoid="?" origin="PAP" fodmaps="?" number="E1100" name="Amylase" comment="Derived from mold mushroom or pig pancreas" />
+		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E1103" name="Invertase" comment="Stabiliser" />
+		<additive scd="N" ok="?" origin="PAP" fodmaps="?" number="E1100" name="Amylase" comment="Derived from mold mushroom or pig pancreas" />
 	</group>
 	<group range="E1200 - E1299" desc="Other Chemicals" slug="e1200-e1299">
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E1200" name="Polydextrose" comment="Seems safe in small doses" />
-		<additive scd="?" avoid="?" origin="SY" fodmaps="?" number="E1201" name="Polyvinylpyrrolidone" comment="Dispersing agent, coating for tablets; used in artificial sweeteners" />
-		<additive scd="?" avoid="?" origin="SY" fodmaps="?" number="E1202" name="Polyvinylpolypyrrolidone" comment="Clarifying agent for wine, colour and colloidal stabiliser" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E1200" name="Polydextrose" comment="Seems safe in small doses" />
+		<additive scd="?" ok="?" origin="SY" fodmaps="?" number="E1201" name="Polyvinylpyrrolidone" comment="Dispersing agent, coating for tablets; used in artificial sweeteners" />
+		<additive scd="?" ok="?" origin="SY" fodmaps="?" number="E1202" name="Polyvinylpolypyrrolidone" comment="Clarifying agent for wine, colour and colloidal stabiliser" />
 	</group>
 	<group range="E1400 - E1499" desc="Starches" slug="e1400-e1499">
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E1400" name="Dextrin" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1401" name="Modified starch" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1402" name="Alkaline modified starch" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1403" name="Bleached starch" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1404" name="Oxidized starch" comment="Emulsifier and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1410" name="Monostarch phosphate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1412" name="Distarch phosphate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1413" name="Phosphated distarch phosphate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1414" name="Acetylated distarch phosphate" comment="Emulsifier and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1420" name="Acetylated starch" altname="mono starch acetate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1421" name="Acetylated starch" altname="mono starch acetate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1422" name="Acetylated distarch adipate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1423" name="Distarch glycerine" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1440" name="Hydroxy propyl starch" comment="Emulsifier and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1441" name="Hydroxy propyl distarch glycerine" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1442" name="Hydroxy propyl distarch phosphate" comment="Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="VD" fodmaps="?" number="E1450" name="Starch sodium octenyl succinate" comment="Emulsifier, Stabiliser and Thickening agent" />
-		<additive scd="N" avoid="?" origin="" fodmaps="?" number="E1451" name="Acetylated oxidised starch" comment="Emulsifier and Thickening agent" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E1400" name="Dextrin" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1401" name="Modified starch" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1402" name="Alkaline modified starch" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1403" name="Bleached starch" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1404" name="Oxidized starch" comment="Emulsifier and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1410" name="Monostarch phosphate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1412" name="Distarch phosphate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1413" name="Phosphated distarch phosphate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1414" name="Acetylated distarch phosphate" comment="Emulsifier and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1420" name="Acetylated starch" altname="mono starch acetate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1421" name="Acetylated starch" altname="mono starch acetate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1422" name="Acetylated distarch adipate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1423" name="Distarch glycerine" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1440" name="Hydroxy propyl starch" comment="Emulsifier and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1441" name="Hydroxy propyl distarch glycerine" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1442" name="Hydroxy propyl distarch phosphate" comment="Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="VD" fodmaps="?" number="E1450" name="Starch sodium octenyl succinate" comment="Emulsifier, Stabiliser and Thickening agent" />
+		<additive scd="N" ok="?" origin="" fodmaps="?" number="E1451" name="Acetylated oxidised starch" comment="Emulsifier and Thickening agent" />
 	</group>
 	<group range="E1500 - E1599" desc="Other Chemicals" slug="e1500-e1599">
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E1505" name="Triethyl citrate" comment="Foam Stabiliser, used in dried Egg Whites and as a carrier solvent." />
-		<additive scd="?" avoid="?" origin="" fodmaps="?" number="E1510" name="Ethanol" comment="Alcohol" />
-		<additive scd="?" avoid="?" origin="" fodmaps="N" number="E1517" name="Glycerol acetates" comment="Humectant and solvent derived from glycerol; used to coat fresh fruit in the US" />
-		<additive scd="?" avoid="?" origin="PAD" fodmaps="N" number="E1518" name="Glyceryl triacetate" comment="(triacetin) Humectant and solvent derived from glycerol; used to coat fresh fruit in the US" />
-		<additive scd="?" avoid="?" origin="" fodmaps="N" number="E1520" name="Propylene glycol" comment="Humectant, wetting agent, dispersing agent, petroleum based; its glycerin like taste has made it popular for children's medications and other elixirs; used in many topical creams and ointments, cosmetics, hair products and deodorants." />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E1505" name="Triethyl citrate" comment="Foam Stabiliser, used in dried Egg Whites and as a carrier solvent." />
+		<additive scd="?" ok="?" origin="" fodmaps="?" number="E1510" name="Ethanol" comment="Alcohol" />
+		<additive scd="?" ok="?" origin="" fodmaps="N" number="E1517" name="Glycerol acetates" comment="Humectant and solvent derived from glycerol; used to coat fresh fruit in the US" />
+		<additive scd="?" ok="?" origin="PAD" fodmaps="N" number="E1518" name="Glyceryl triacetate" comment="(triacetin) Humectant and solvent derived from glycerol; used to coat fresh fruit in the US" />
+		<additive scd="?" ok="?" origin="" fodmaps="N" number="E1520" name="Propylene glycol" comment="Humectant, wetting agent, dispersing agent, petroleum based; its glycerin like taste has made it popular for children's medications and other elixirs; used in many topical creams and ointments, cosmetics, hair products and deodorants." />
 	</group>
 </additives>

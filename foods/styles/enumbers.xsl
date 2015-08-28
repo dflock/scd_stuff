@@ -21,13 +21,7 @@
 		<html xml:lang="en" lang="en">
 			<head>
 				<title>E-Numbers &amp; Food Additives</title>
-				<link rel="stylesheet" href="../../styles/default.css" type="text/css" />
-				<link rel="stylesheet" href="../../styles/tables.css" type="text/css" />
 				<link rel="stylesheet" href="./styles/enumbers.css" type="text/css" />
-
-				<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-				<meta http-equiv="Content-Language" content="en-gb" />
-				<meta name="ROBOTS" content="ALL" />
 				<meta name="Copyright" content="Copyright (c) 2000-2015 Duncan Lock" />
 			</head>
 			<body>
@@ -43,7 +37,7 @@
 				<p>I have added links from substance names and enumbers to wikipedia. Many of these articles don't exist yet - feel free to create them. The substance links tend to work better than the Enumber ones
 				at the moment. I will endevour to (slowly) fix these links by adding to wikipedia.</p>
 
-				<nav>
+				<nav class="enumbers well">
 					<h3>Navigate by Group</h3>
 					<ul>
 					<xsl:call-template name="group-nav" />
@@ -60,7 +54,7 @@
 		<li>
 			<a>
 				<xsl:attribute name="href">#<xsl:value-of select="@slug" /></xsl:attribute>
-				<xsl:attribute name="title"><xsl:value-of select="@name" /></xsl:attribute>
+				<xsl:attribute name="title"><xsl:value-of select="@desc" /></xsl:attribute>
 				<xsl:value-of select="@range" />
 			</a>
 		</li>
@@ -76,7 +70,7 @@
 			<xsl:attribute name="id"><xsl:value-of select="@slug" /></xsl:attribute>
 			<xsl:value-of select="@range" />: <xsl:value-of select="@desc" />
 		</h2>
-		<table>
+		<table class="enumbers">
 			<colgroup>
 				<col width="5%" />
 				<col width="5%" />
@@ -88,17 +82,17 @@
 			</colgroup>
 			<thead>
 				<tr>
-					<th>E-Number</th>
-					<th>Generally Avoid?</th>
-					<th>SCD Ok?</th>
-					<th>FODMAPs Ok?</th>
+					<th>#</th>
+					<th>Generally OK</th>
+					<th>SCD OK</th>
+					<th>FODMAPs OK</th>
 					<th>Origin</th>
 					<th>Name</th>
 					<th>Comment</th>
 				</tr>
 			</thead>
 			<tfoot>
-				<tr><td colspan="7"><xsl:value-of select="count(.//additive)" /> additives.</td></tr>
+				<tr><td colspan="7"><xsl:value-of select="count(.//additive)" />&#160;<xsl:value-of select="@desc" />.</td></tr>
 			</tfoot>
 			<tbody>
 				<xsl:apply-templates />
@@ -113,7 +107,7 @@
 			<td>
 				<a>
 					<xsl:attribute name="href">https://en.wikipedia.org/wiki/<xsl:value-of select="@number" /></xsl:attribute>
-					<xsl:attribute name="title">Look up <xsl:value-of select="@number" /> at wikipedia.org.</xsl:attribute>
+					<xsl:attribute name="title">Look up <xsl:value-of select="@number" /> in Wikipedia</xsl:attribute>
 					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@number" /></xsl:attribute>
 					<xsl:value-of select="@number" />
 				</a>
@@ -122,11 +116,11 @@
 			<td>
 			<xsl:attribute name="class">
 				<xsl:choose>
-					<xsl:when test="@avoid[. = 'N']">good</xsl:when>
-					<xsl:when test="@avoid[. = 'Y']">bad</xsl:when>
+					<xsl:when test="@ok[. = 'N']">bad</xsl:when>
+					<xsl:when test="@ok[. = 'Y']">good</xsl:when>
 					<xsl:otherwise>unknown</xsl:otherwise>
 				</xsl:choose>
-			</xsl:attribute><xsl:value-of select="@avoid" />
+			</xsl:attribute><xsl:value-of select="@ok" />
 			</td>
 
 			<td>
@@ -172,7 +166,7 @@
 			<td>
 				<a>
 					<xsl:attribute name="href">https://en.wikipedia.org/wiki/<xsl:choose><xsl:when test="@wiki"><xsl:value-of select="@wiki" /></xsl:when><xsl:otherwise><xsl:value-of select="@name" /></xsl:otherwise></xsl:choose></xsl:attribute>
-					<xsl:attribute name="title">Look up <xsl:value-of select="@name" /> at wikipedia.org.</xsl:attribute>
+					<xsl:attribute name="title">Look up <xsl:value-of select="@name" /> in Wikipedia</xsl:attribute>
 					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@name" /></xsl:attribute>
 					<xsl:value-of select="@name" />
 				</a>
