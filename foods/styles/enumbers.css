@@ -1,15 +1,24 @@
 body {
 	background-color: #fff;
-}	
+}
 tfoot td {
 	background-color: #eee;
 }
+
+nav ul {
+	padding-left: 0;
+}
+nav li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
 .bad {
 	background-color: #f63;
 	font-weight: bolder;
 	color: #fff;
 	text-align: center;
-}	
+}
 .good {
 	background-color: #6c6;
 	font-weight: bolder;
