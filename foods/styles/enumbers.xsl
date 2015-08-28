@@ -112,7 +112,7 @@
 
 			<td>
 				<a>
-					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:value-of select="@number" /></xsl:attribute>
+					<xsl:attribute name="href">https://en.wikipedia.org/wiki/<xsl:value-of select="@number" /></xsl:attribute>
 					<xsl:attribute name="title">Look up <xsl:value-of select="@number" /> at wikipedia.org.</xsl:attribute>
 					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@number" /></xsl:attribute>
 					<xsl:value-of select="@number" />
@@ -171,7 +171,7 @@
 
 			<td>
 				<a>
-					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:choose><xsl:when test="@wiki"><xsl:value-of select="@wiki" /></xsl:when><xsl:otherwise><xsl:value-of select="@name" /></xsl:otherwise></xsl:choose></xsl:attribute>
+					<xsl:attribute name="href">https://en.wikipedia.org/wiki/<xsl:choose><xsl:when test="@wiki"><xsl:value-of select="@wiki" /></xsl:when><xsl:otherwise><xsl:value-of select="@name" /></xsl:otherwise></xsl:choose></xsl:attribute>
 					<xsl:attribute name="title">Look up <xsl:value-of select="@name" /> at wikipedia.org.</xsl:attribute>
 					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@name" /></xsl:attribute>
 					<xsl:value-of select="@name" />
