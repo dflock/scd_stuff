@@ -13,6 +13,6 @@ Currently transitioning over to http://duncanlock.net, here: http://duncanlock.n
 
 ## Building
 
-To publish the XML as HTML, you currently need [Saxon https://en.wikipedia.org/wiki/Saxon_XSLT]. For example, to publish the e-numbers do this:
+To publish the XML as HTML, you currently need [https://en.wikipedia.org/wiki/Saxon_XSLT Saxon]. For example, to publish the e-numbers do this:
 
     saxon-xslt -a -o ./enumbers.html ./enumbers.xml
