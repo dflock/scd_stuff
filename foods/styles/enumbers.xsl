@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>	
+
+<xsl:transform
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	version="1.0"
+	xmlns:saxon="http://icl.com/saxon"
+	exclude-result-prefixes="saxon xlink">
+	
+	<xsl:output
+		method="saxon:xhtml"
+		encoding="utf-8"
+		omit-xml-declaration="no"
+		doctype-public = "-//W3C//DTD XHTML 1.0 Strict//EN"
+		doctype-system = "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+		standalone="yes"
+		indent="yes"
+		media-type = "text/html" />
+	
+	<xsl:template match="/" >
+		<html xml:lang="en" lang="en">
+			<head>
+				<title>E-Numbers</title>
+				<link rel="stylesheet" href="../../styles/default.css" type="text/css" />
+				<link rel="stylesheet" href="../../styles/tables.css" type="text/css" />
+				<link rel="stylesheet" href="./styles/enumbers.css" type="text/css" />
+				
+				<link rel="Shortcut Icon" href="../../favicon.ico" type="image/x-icon" />
+				<link rel="Author" title="About the author" href="../../about/dunc.html" />
+				<link rel="Home" title="Home" href="../../index.html" />
+				
+				<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+				<meta http-equiv="Content-Language" content="en-gb" />
+				<meta name="ROBOTS" content="ALL" />
+				<meta name="Copyright" content="Copyright (c) 2000-2005 Duncan Lock" />
+				<meta name="MSSmartTagsPreventParsing" content="true" />
+			</head>
+			<body>
+				<h1>E-Numbers</h1>
+				
+				<p>This is not an authoritative list, in either sense. The SCD information
+				comes from personal experience, <abbr title="Breaking the Vicious Cycle, Elaine Gotschall, ISBN: ?">BTVC</abbr> and common sense. Please do not take it
+				as gospel, if in doubt - don't eat it. I you have any improvements or suggestions,
+				please <a href="mailto:&#101;&#110;&#117;&#109;&#98;&#101;&#114;&#115;&#64;&#100;&#102;&#108;&#111;&#99;&#107;&#46;&#99;&#111;&#46;&#117;&#107;">email me [&#101;&#110;&#117;&#109;&#98;&#101;&#114;&#115;&#64;&#100;&#102;&#108;&#111;&#99;&#107;&#46;&#99;&#111;&#46;&#117;&#107;]</a>.
+				More comprehensive information (from wikipedia) on e-numbers can be found <a target="_wikipedia" href="http://en.wikipedia.org/wiki/E_number">here.</a></p>
+				
+				<p>I have added links from substance names and enumbers to wikipedia. Many of these articles don't exist yet - feel free to create them. The substance links tend to work better than the Enumber ones
+				at the moment. I will endevour to (slowly) fix these links by adding to wikipedia.
+				</p>
+				
+				<xsl:apply-templates />
+				<div class="footer">
+					<hr />
+					<a href="http://validator.w3.org/check/referer" title="Validate XHTML"><span class="w3c">W3C</span><span class="spec">XHTML 1.0</span></a>
+					<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.dflock.co.uk%2Fcolitis%2Ffoods%2Fstyles%2Fenumbers.css&amp;warning=2&amp;profile=none&amp;usermedium=all" title="Validate CSS"><span class="w3c">W3C</span><span class="spec">CSS 1.0</span></a>
+					<a href="http://bobby.watchfire.com/bobby/bobbyServlet?URL=http%3A%2F%2Fwww.dflock.co.uk%2Fcolitis%2Ffoods%2Fenumbers.html&amp;output=Submit&amp;gl=sec508&amp;test=" title="Validate for section 508 compliance"><span class="w3c">CAST</span><span class="spec">508</span></a>
+				</div>
+			</body>
+		</html>
+	</xsl:template>
+	
+	<xsl:template match="additives">
+		<table>
+			<caption>Table of 'e-numbers': European Standard Food Additives</caption>
+			<thead>
+				<tr>
+					<th>SCD Ok?</th>
+					<th>Avoid?</th>
+					<th>GM</th>
+					<th>Origin</th>
+					<th>Number</th>
+					<th>Name</th>
+					<th>Comment</th>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr><td colspan="7"><xsl:value-of select="count(//additive)" /> rows.</td></tr>
+			</tfoot>
+			<tbody>
+				<xsl:apply-templates />
+			</tbody>
+		</table>
+	</xsl:template>
+
+	<xsl:template match="additive">
+		<tr>
+			<td>
+			<xsl:attribute name="class">
+				<xsl:choose>
+					<xsl:when test="@scd[. = 'N']">bad</xsl:when>
+					<xsl:when test="@scd[. = 'Y']">good</xsl:when>
+					<xsl:otherwise>unknown</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute><xsl:value-of select="@scd" />
+			</td>
+			
+			<td>
+			<xsl:attribute name="class">
+				<xsl:choose>
+					<xsl:when test="@avoid[. = 'N']">good</xsl:when>
+					<xsl:when test="@avoid[. = 'Y']">bad</xsl:when>
+					<xsl:otherwise>unknown</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute><xsl:value-of select="@avoid" />
+			</td>
+
+			<td>
+			<xsl:attribute name="class">
+				<xsl:choose>
+					<xsl:when test="@gm[. = 'N']">good</xsl:when>
+					<xsl:when test="@gm[. = 'Y']">bad</xsl:when>
+					<xsl:otherwise>unknown</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute><xsl:value-of select="@gm" />
+			</td>
+
+			<td>
+			<xsl:attribute name="title">
+				<xsl:choose>
+					<xsl:when test="@origin[. = '']">Unknown</xsl:when>
+					<xsl:when test="@origin[. = 'AD']">Animal derived (not acceptable to Vegitarians or Vegans)</xsl:when>
+					<xsl:when test="@origin[. = 'PAD']">Possibly Animal derived (not acceptable to Vegitarians or Vegans)</xsl:when>
+					<xsl:when test="@origin[. = 'AP']">Animal product (not acceptable to Vegans)</xsl:when>
+					<xsl:when test="@origin[. = 'PAP']">Possible Animal product (not acceptable to Vegans)</xsl:when>
+					<xsl:when test="@origin[. = 'VD']">Vegetable Derived</xsl:when>
+					<xsl:when test="@origin[. = 'PVD']">Possibly Vegetable Derived</xsl:when>
+					<xsl:when test="@origin[. = 'VP']">Vegetable Product</xsl:when>
+					<xsl:when test="@origin[. = 'PVP']">Possible Vegetable Product</xsl:when>
+					<xsl:when test="@origin[. = 'SY']">Synthetic</xsl:when>
+					<xsl:when test="@origin[. = 'PSY']">Possibly Synthetic</xsl:when>
+					<xsl:when test="@origin[. = 'MD']">Mineral or Mineral Derived</xsl:when>
+					<xsl:otherwise>Unknown</xsl:otherwise>
+				</xsl:choose>
+			</xsl:attribute><xsl:value-of select="@origin" />
+			</td>
+			
+			<td>
+				<a>
+					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:value-of select="@number" /></xsl:attribute>
+					<xsl:attribute name="title">Look up <xsl:value-of select="@number" /> at wikipedia.org.</xsl:attribute>
+					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@number" /></xsl:attribute>
+					<xsl:value-of select="@number" />
+				</a>
+			</td>
+			<td>
+				<a>
+					<xsl:attribute name="href">http://www.wikipedia.org/wiki/<xsl:choose><xsl:when test="@wiki"><xsl:value-of select="@wiki" /></xsl:when><xsl:otherwise><xsl:value-of select="@name" /></xsl:otherwise></xsl:choose></xsl:attribute>
+					<xsl:attribute name="title">Look up <xsl:value-of select="@name" /> at wikipedia.org.</xsl:attribute>
+					<xsl:attribute name="target">_wikipedia_<xsl:value-of select="@name" /></xsl:attribute>
+					<xsl:value-of select="@name" />
+				</a>
+				<xsl:if test="@altname"><br /><span class="altname"><xsl:value-of select="@altname" /></span></xsl:if>
+			</td>
+			<td><xsl:value-of select="@comment" /></td>
+		</tr>
+	</xsl:template>
+</xsl:transform>

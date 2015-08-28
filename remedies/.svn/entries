@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-05-16T12:38:56.187500Z"
+   url="file:///C:/Documents%20and%20Settings/Dunc/My%20Documents/Subversion/www.dflock.co.uk/trunk/colitis/remedies"
+   last-author="Dunc"
+   kind="dir"
+   uuid="d5a87923-9d08-3c46-b3f4-422942fe2ee2"
+   revision="2"/>
+<entry
+   committed-rev="10"
+   name="remedies.html"
+   text-time="2005-09-10T16:27:58.953125Z"
+   committed-date="2006-03-05T19:29:53.031250Z"
+   checksum="ab4a5de4d5e77b13bc9911df6d9989dd"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.890625Z"
+   revision="10"/>
+<entry
+   name="styles"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="remedies.xml"
+   text-time="2005-05-16T12:52:04.937500Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="dc3ad88cb3c1edb04e89ba5c6a539ef6"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.921875Z"/>
+</wc-entries>

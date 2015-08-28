@@ -1,0 +1,774 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet rel="stylesheet" type="text/xsl" href="./styles/foods.xsl" ?>
+
+<!--
+<scd>
+    <type name="">
+        <food ok="">
+            <name></name>
+            <altnames></altnames>
+        </food>
+    </type>
+</scd>
+-->
+
+<scd>
+    <type name="Vegetables">
+        <food ok="y">
+            <name>French Artichoke</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Jerusalem Artichoke</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Asparagus</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Beets</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Broccoli</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Brussel Sprouts</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Cabbage</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Cauliflower</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Carrots</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Celery</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Courgette</name>
+            <altnames>Zucchini</altnames>
+        </food>
+        <food ok="y">
+            <name>Cucumbers</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Aubergine</name>
+            <altnames>Eggplant</altnames>
+        </food>
+        <food ok="y">
+            <name>Garlic</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Kale</name>
+            <altnames>Greens</altnames>
+        </food>
+        <food ok="y">
+            <name>Lettuce</name>
+            <altnames></altnames>
+        </food>
+        <food ok="yo">
+            <name>Leek</name>
+            <altnames></altnames>
+        </food>        
+        <food ok="y">
+            <name>Mushrooms</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Onions - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Parsley</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Peas</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>(Chilli) Peppers - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Pumpkin</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Spinach</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>(Summer | Winter) Squash - any</name>
+            <altnames>Marrow, Vegetable Spaghetti</altnames>
+        </food>
+        <food ok="y">
+            <name>Tomatoes</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Turnips</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Watercress</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Grains - any</name>
+        </food>
+        <food ok="n">
+            <name>Potatoes</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Yams</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Parsnips</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Bean Sprouts</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Aramanth</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Quinoa</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Cottonseed</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Couscous</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Wheat germ</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Seaweed - any</name>
+            <altnames></altnames>
+        </food>
+    </type>
+    
+    <type name="Fruit">
+        <food ok="y">
+            <name>Apples</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Avocados</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Apricots</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Bananas - ripe</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Berries - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Cherries</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Coconut</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Dates</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Grapefruit</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Grapes</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Kiwi Fruit</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Kumquats</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Lemons</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Limes</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Mangoes</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Melons</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Nectarines</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Oranges</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Papayas</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Peaches</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Pears</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Pineapples</name>
+            <altnames></altnames>
+        </food>
+        <food ok="yo">
+            <name>Plums</name>
+            <altnames></altnames>
+        </food>        
+        <food ok="y">
+            <name>Prunes</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Raisins</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Rhubarb</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Tangerines</name>
+            <altnames></altnames>
+        </food>
+    </type>
+
+    <type name="Beverages">
+        <food ok="y">
+            <name>Tomato juice</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>V8</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Orange juice</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Grapefruit juice</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Grape juice</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Pineapple juice</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Apple juice</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Any allowed fruit or vegetable, juiced</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Peppermint Tea</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Spearmint Tea</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Fluid/ dried animal milk - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Buttermilk</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Cream - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Sour Cream - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Commercial Yoghurt - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Soya Milk</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Instant Tea or Coffee</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Beer</name>
+            <altnames>Porter, IPA, Stout, Ale, Larger</altnames>
+        </food>
+        <food ok="y">
+            <name>Dry Wine</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Gin</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Rye</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Whisky</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Bourbon</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Vodka</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Sherry</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Brandy</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Liqueurs - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Cordials - any</name>
+            <altnames></altnames>
+        </food>
+    </type>
+
+    <type name="Cheeses">
+        <food ok="n">
+            <name>Mozzarella Cheese</name>
+            <altnames>Pizza Cheese</altnames>
+        </food>
+        <food ok="o">
+            <name>Asiago Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Blue Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Brick Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Brie</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Camembert</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Cheddar - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Colby Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Edam</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Gorgonzola</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Gouda</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Havarti Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Limburger Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Monterey Cheese</name>
+            <altnames>Jack</altnames>
+        </food>
+        <food ok="o">
+            <name>Muenster Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Parmesan</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Port du Salut</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Roquefort</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Romano Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="o">
+            <name>Stilton</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Swiss</name>
+            <altnames>Ementhaler</altnames>
+        </food>
+        <food ok="y">
+            <name>Dry Curd Cottage Cheese</name>
+            <altnames>Uncreamed Cottage Cheese, Curd Cheese</altnames>
+        </food>
+        <food ok="n">
+            <name>Cottage Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Cream Cheese</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Feta</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Gjetost</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Gruyere</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Neufchatel</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Primost</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Ricotta</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Processed Cheese Slices/ Spreads</name>
+            <altnames></altnames>
+        </food>
+    </type>
+
+    <type name="Condiments">
+        <food ok="y">
+            <name>Mustard</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Olives</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Gherkins</name>
+            <altnames>Dill Pickles</altnames>
+        </food>
+        <food ok="y">
+            <name>Vinegar</name>
+            <altnames>White Wine Vinegar, Red Wine Vinegar, Cider Vinegar</altnames>
+        </food>
+        <food ok="n">
+            <name>Balsamic Vinegar</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Spices - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Herbs - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>(Fresh) Corriander</name>
+            <altnames>Cilantro</altnames>
+        </food>        
+        <food ok="y">
+            <name>Oils - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Starches  - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Chocolate</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Carob</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Agar-agar</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Carageenan</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Pectin</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Maple Syrup</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Molasses - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Corn Syrup</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Honey</name>
+            <altnames></altnames>
+        </food>
+        
+    </type>
+    
+    <type name="Beans">
+        <food ok="y">
+            <name>Broad Beans</name>
+            <altnames>Faba/ Fava beans</altnames>
+        </food>
+        <food ok="n">
+            <name>Chickpeas</name>
+            <altnames>Garbanzo beans</altnames>
+        </food>
+        <food ok="y">
+            <name>Haricot Beans</name>
+            <altnames>(White) Navy Beans</altnames>
+        </food>
+        <food ok="y">
+            <name>Lentils</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Split Peas</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Lima Beans</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Mung Beans</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Soya Beans</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>String Beans</name>
+            <altnames>French Beans, Runner Beans</altnames>
+        </food>
+        <food ok="y">
+            <name>Red Kidney Beans</name>
+            <altnames></altnames>
+        </food>
+        <food ok="yo">
+            <name>Pinto Beans</name>
+            <altnames></altnames>
+        </food>        
+    </type>    
+    
+    <type name="Sweeteners">
+        <food ok="n">
+            <name>Sugar</name>
+            <altnames>Sucrose, Evaporated Cane juice</altnames>
+        </food>
+        <food ok="n">
+            <name>Manitol</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Sorbitol</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Glucose</name>
+            <altnames>Dextrose</altnames>
+        </food>
+        <food ok="o">
+            <name>Aspartame</name>
+            <altnames>Nutri-Sweet</altnames>
+        </food>
+        <food ok="o">
+            <name>Saccharin</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Fructose</name>
+            <altnames>Fruit Sugar, Levulose </altnames>
+        </food>
+        <food ok="y">
+            <name>Galactose</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Maltose</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Isomaltose</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Lactose</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Xylitol</name>
+            <altnames></altnames>
+        </food>
+    </type>
+    
+    <type name="Nuts">
+        <food ok="y">
+            <name>Almonds</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Pecans</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Brazil Nuts</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Hazelnuts</name>
+            <altnames>Filberts</altnames>
+        </food>
+        <food ok="y">
+            <name>Walnuts</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Unroasted Cashews</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Chestnuts</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Peanuts</name>
+            <altnames></altnames>
+        </food>
+        <food ok="u">
+            <name>Macadmia Nuts</name>
+            <altnames></altnames>
+        </food>
+    </type>    
+    
+    <type name="Protiens">
+        <food ok="y">
+            <name>Animal protein - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Eggs - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Fish &amp; Shellfish - any</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Tofu</name>
+            <altnames></altnames>
+        </food>
+        <food ok="u">
+            <name>Quorn</name>
+            <altnames></altnames>
+        </food>
+        <food ok="y">
+            <name>Butter</name>
+            <altnames></altnames>
+        </food>
+        <food ok="n">
+            <name>Margarine</name>
+            <altnames></altnames>
+        </food>        
+    </type>
+</scd>

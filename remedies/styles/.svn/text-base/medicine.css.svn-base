@@ -1,0 +1,135 @@
+body
+	{
+		color: #333;
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 0.9em;
+		background-color: rgb(250, 250, 250);
+	}
+	
+p
+	{
+		font-size: 0.9em;
+		text-indent: 1em;
+		padding: 1em;
+	}
+
+p.comment
+	{
+		display: inline;
+		color: #fff;
+		text-indent: 0;
+		font-size: 0.8em;
+	}
+	
+p.icomment
+	{
+		color: #999;
+		font-size: 0.85em;
+	}	
+	
+h2
+	{
+		float: none;
+		border: 1px solid #fff;
+		border-bottom-color: #ccc;
+		padding-bottom: 0.3em;
+		
+	}
+	
+h3
+	{
+		display: inline;
+		color: #fff;
+		text-indent: 1em;
+	}
+	
+table
+	{
+		border-collapse: collapse;
+		margin-left: 3%;
+	}
+td
+	{
+		font-size: 0.8em;
+	}
+	
+ul
+	{
+		list-style-type: none;
+	}
+
+div
+	{
+	
+	}
+
+div.section
+	{
+		width: 100%;
+		padding: 0.5%;
+		padding-top: 1.5%;
+		clear: both;
+	}
+
+div.recipe
+	{
+		border: 1px dotted #999;
+		width: 40%;
+		float: right;
+		margin-right: 0.5%;
+		margin-bottom: 0.5%;
+		color: #fff;
+		background-color: #fff;
+	}
+	
+div.tested
+	{
+		background-color: #696;
+	}
+
+div.untested
+	{
+		background-color: #ccc;
+	}
+	
+div.notes
+	{
+		background-color: #ccc;
+	}
+
+div.contents
+	{
+		color: #333;
+		padding-top: 2%;
+		background-color: #fff;
+		height: 100%;
+	}
+
+li.tested
+	{
+		list-style-image: url(../../../images/list-dot-green-tested.gif);
+	}
+
+li.untested
+	{
+		list-style-image: url(../../../images/list-dot-untested.gif);
+	}
+
+span.tested
+	{
+		background-color: #696;
+		color: #fff;
+	}
+
+span.untested
+	{
+		background-color: #ccc;
+		color: #fff;
+	}
+
+.warning
+	{
+		color: #f30;
+		font-weight: bold;
+		text-transform: uppercase;
+	}

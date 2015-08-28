@@ -1,0 +1,26 @@
+body {
+	background-color: #fff;
+}	
+tfoot td {
+	background-color: #eee;
+}
+.bad {
+	background-color: #f63;
+	font-weight: bolder;
+	color: #fff;
+	text-align: center;
+}	
+.good {
+	background-color: #6c6;
+	font-weight: bolder;
+	color: #fff;
+	text-align: center;
+}
+.unknown {
+	text-align: center;
+	background-color: #ffc;
+}
+.altname {
+	font-size: smaller;
+	color: #666;
+}

@@ -1,0 +1,3222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipes SYSTEM "recipes.dtd">
+<?xml-stylesheet href="./styles/recipes.xsl" type="text/xsl" ?>
+
+<!--
+<recipes>
+	<section type="">
+		<recipe name=""
+			qty=""
+			uom_p=""
+			uom_s=""
+			time=""
+			tested="no"
+			rating=""
+			last-modified="08/10/2001">
+			
+			<ingredients>
+				<group id="">
+					<ingredient
+						name=""
+						qty=""
+						uom=""
+						cost="" />
+				</group>
+			</ingredients>
+			<instructions>
+			</instructions>
+			<comment>
+			</comment>
+		</recipe>
+	</section>
+</recipes>
+-->
+
+<recipes>
+	<section type="Drinks">
+		<recipe name="Banana Smoothie"
+			qty="5"
+			uom_p="cups"
+			uom_s="cup"
+			time="5 mins"
+			tested="yes"
+			rating="9"
+			last-modified="29/05/2004">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Bananas"
+						qty="4"
+						uom=""
+						cost="1.00" />
+					<ingredient
+						name="Yogurt"
+						qty="1"
+						uom="cup"
+						cost="0.70" />
+					<ingredient
+						name="Honey"
+						qty="1"
+						uom="tbsp"
+						cost="0.10" />
+					<ingredient
+						name="Vanilla"
+						qty="1"
+						uom="tsp"
+						cost="0.15" />
+					<ingredient
+						name="Coconut Milk"
+						qty="1"
+						uom="cup"
+						cost="0.20" />
+				</group>
+			</ingredients>
+			<instructions>
+				Put 'A' into a blender, blend.
+			</instructions>
+			<comment>
+			</comment>
+		</recipe>
+		<recipe name="Quick Lemonade"
+			qty="1"
+			uom_p="litres"
+			uom_s="litre"
+			time="5 mins"
+			tested="yes"
+			rating="7"
+			last-modified="21/07/2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Lemon Juice"
+						qty="250"
+						uom="ml"
+						cost="0.62" />
+					<ingredient
+						name="Water"
+						qty="700"
+						uom="ml"
+						cost="0" />
+					<ingredient
+						name="Fructose"
+						qty="4"
+						uom="tbsp"
+						cost="0.20" />
+				</group>
+			</ingredients>
+			<instructions>
+				Mix all the ingredients in a 1 litre bottle. Shake well and drink.
+				Store in a refrigerator.
+			</instructions>
+		</recipe>
+		<recipe name="Shaker Lemonade"
+			qty="2"
+			uom_p="litres"
+			uom_s="litre"
+			time="15 mins"
+			tested="yes"
+			rating="8"
+			last-modified="28/07/2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Lemons"
+						qty="6"
+						uom=""
+						cost="1.20" />
+					<ingredient
+						name="Fructose"
+						qty="0.75"
+						uom="cup"
+						cost="0.50" />
+					<ingredient
+						name="Boiling Water"
+						qty="2"
+						uom="cup"
+						cost="0" />
+					<ingredient
+						name="Cold Water"
+						qty="4"
+						uom="cups"
+						cost="0" />
+				</group>
+			</ingredients>
+			<instructions>
+				Cut lemons in half and squeeze out juice. Strain and add sugar. 
+				Pour the boiling water over the lemon rinds and let stand until cold. 
+				Strain and add cold water to juice. The hot water extracts the oil from 
+				the rinds and thus add greatly to the flavor. Add a little ice to each glass.
+			</instructions>
+		</recipe>
+	</section>
+	<section type="Yoghurt">
+		<recipe name="Homemade Yoghurt"
+			qty="2"
+			uom_p="litres"
+			uom_s="litre"
+			time="1hr + 24hrs"
+			tested="yes"
+			rating="9"
+			last-modified="26/05/2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Whole Milk"
+						qty="1.5"
+						uom="litres"
+						cost="1.04" />
+					<ingredient
+						name="Single Cream"
+						qty="0.5"
+						uom="litres"
+						cost="1.09" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Commercial Yoghurt"
+						qty="1"
+						uom="cup"
+						cost="1.00" />
+				</group>
+			</ingredients>
+			<instructions>
+				Combine A in a large pan. Slowly bring to the boil and keep at a rolling
+				boil for half a minute, stirring constantly. Leave to cool to room temperature.
+				In a cup combine B with a large spoonful of the cooled milk; mix into the cooled
+				milk. Put yoghurt mixture into yoghurt maker for 24hrs.
+			</instructions>
+			<comment>
+				Get a yoghurt maker here: http://www.lucyskitchenshop.com/ (2 liters), or here: http://www.lakelandlimited.com/ (1 litre)
+			</comment>
+		</recipe>
+	</section>
+	<section type="Cakes">
+		<recipe name="Duncs Deep-filled Apple Pie"
+			qty="1"
+			uom_p="pies"
+			uom_s="pie"
+			time="1 hr"
+			tested="yes"
+			rating="9"
+			last-modified="15/11/2004">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Apples, peeled, cored &amp; chopped."
+						qty="8"
+						uom="medium"
+						cost="1.50" />
+					<ingredient
+						name="Honey/ Fructose"
+						qty="0.3"
+						uom="cup"
+						cost="0.5" />
+					<ingredient
+						name="Water"
+						qty="0.75"
+						uom="cup"
+						cost="0" />
+					<ingredient
+						name="Cinnamon"
+						qty="0.5"
+						uom="tsp"
+						cost="0.02" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Almond Flour"
+						qty="2"
+						uom="cup"
+						cost="2.00" />
+					<ingredient
+						name="Egg"
+						qty="1"
+						uom="medium"
+						cost="0.12" />
+					<ingredient
+						name="Vanilla Extract"
+						qty="1"
+						uom="tsp"
+						cost="0.5" />
+					<ingredient
+						name="Butter"
+						qty="1"
+						uom="tbsp"
+						cost="0.12" />
+					<ingredient
+						name="Cinnamon"
+						qty="1"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Honey or Fructose"
+						qty="0.3"
+						uom="cup"
+						cost="0.5" />
+					<ingredient
+						name="Salt"
+						qty="a"
+						uom="pinch"
+						cost="0.01" />
+				</group>
+			</ingredients>
+			<instructions>
+				Heat 'A' in a pan until apple is soft and going mushy and water is reduced; mash some of the apples with a potato masher, 
+				leaving half of them in large chunks. Meanwhile, mix 'B' in a bowl until it forms a ball.
+				Add more Almond Flour, if needed, until firm and not too sticky. Smooth pieces 'B' into deep (10cm) pie dish until crust
+				coats inside. Place dish into oven at 150&deg;C; coat a buttered plate with the crust in the same way to make a lid and add to oven. Bake until
+				golden brown. Fill pie with apple mix, and put lid on. Leave to cool.
+			</instructions>
+			<comment>
+				Crust recipe is 'Dan's Awesome Pie Crust' from www.scdrecipe.com. Rest is
+				made up by me.
+			</comment>
+		</recipe>
+
+		<recipe name="New York Cheesecake"
+			qty="1"
+			uom_p="pies"
+			uom_s="pie"
+			time="2 hr"
+			tested="yes"
+			rating="9"
+			last-modified="21/12/2004">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="3"
+						uom="cups"
+						cost="2" />
+					<ingredient
+						name="Honey"
+						qty="6"
+						uom="tblsp"
+						cost="1" />
+					<ingredient
+						name="Butter"
+						qty="10"
+						uom="tblsp"
+						cost="1.20" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Homemade Yoghurt"
+						qty="5"
+						uom="cups"
+						cost="1" />
+					<ingredient
+						name="Honey"
+						qty="1"
+						uom="cup"
+						cost="0.80" />
+					<ingredient
+						name="grated Lemon Zest"
+						qty="1"
+						uom="tsp"
+						cost="0.12" />
+					<ingredient
+						name="Vanilla Extract"
+						qty="2"
+						uom="tsp"
+						cost="0.2" />
+					<ingredient
+						name="Lemon Juice"
+						qty="2"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Eggs"
+						qty="6"
+						uom="large"
+						cost="1" />
+					<ingredient
+						name="Egg Yolks"
+						qty="2"
+						uom="large"
+						cost="0.35" />
+					<ingredient
+						name="Salt"
+						qty="0.5"
+						uom="tsp"
+						cost="0.01" />
+				</group>
+			</ingredients>
+			<instructions>
+				Mix 'A' in a bowl and press into the bottom of a springform pan. Bake at 180&deg;C for 12 mins then remove from oven.
+				Increase oven temp to 250&deg;C. In a mixer, blend 'B' until smooth.
+				Butter sides of pan with base in. Pour in 'B' mixture. and bake for 10mins. Without opening oven, turn temp. down to 
+				100&deg;C and bake until thermometer reads about 65&deg;C in the middle of the filling. This takes about 1 - 1.5 hours.
+				Transfer to cooling rack and run kinfe between cake and side of pan. Cool to room temp, wrap in cling film and refrigerate
+				for at least 3 hours.
+			</instructions>
+			<comment>
+				Taken from http://www.scdrecipe.com/
+			</comment>
+		</recipe>
+
+
+		<recipe name="Soft Cinnamon Raisin Bread"
+			qty="2"
+			uom_p="loaves"
+			uom_s="loaf"
+			time="1 hour"
+			tested="yes"
+			rating="9"
+			last-modified="14 January 2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="3.5"
+						uom="cups"
+						cost="2.00" />
+					<ingredient
+						name="eggs"
+						qty="3"
+						uom=""
+						cost="0.36" />
+					<ingredient
+						name="melted Butter"
+						qty="0.25"
+						uom="cup"
+						cost="0.06" />
+					<ingredient
+						name="baking soda"
+						qty="1"
+						uom="tsp"
+						cost="0.01" />
+					<ingredient
+						name="homemade yoghurt"
+						qty="1"
+						uom="cup"
+						cost="0.70" />
+					<ingredient
+						name="Salt"
+						qty="0.25"
+						uom="tsp"
+						cost="0.01" />
+					<ingredient
+						name="Honey"
+						qty="0.75"
+						uom="cup"
+						cost="0.50" />
+					<ingredient
+						name="Cinnamon"
+						qty="2"
+						uom="tbsp"
+						cost="0.02" />
+					<ingredient
+						name="Ginger"
+						qty="2"
+						uom="tsp"
+						cost="0.05" />
+					<ingredient
+						name="Nutmeg"
+						qty="2"
+						uom="tsp"
+						cost="0.02" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Rasins"
+						qty="2"
+						uom="cups"
+						cost="0.50" />						
+				</group>
+			</ingredients>
+			<instructions>
+				pre-heat oven to 300&deg;F/ 150&deg;C.
+				Blend 'A' until smooth. Mix 'B' into the mixture by hand. Half fill 2 
+				buttered loaf tins with the mix. Bake for about 30-40 mins. Cool completely
+				and remove from tins.
+			</instructions>
+			<comment>
+				Recipe taken from SCDiet.org.
+			</comment>
+		</recipe>
+		
+		<recipe name="Linda's Apple Pie"
+			qty="1 pie"
+			time="45 mins"
+			tested="yes"
+			rating="7"
+			last-modified="08/10/2001">
+			
+			<ingredients>
+				<!--Dough:-->
+				<group id="A">
+					<ingredient
+						name="Almond flour"
+						qty="400-500"
+						uom="g" />
+					<ingredient
+						name="Butter"
+						qty="100"
+						uom="g" />
+					<ingredient
+						name="Egg"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Water"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="honey"
+						qty="0.3"
+						uom="cup" />
+					<ingredient
+						name="Salt"
+						qty="a"
+						uom="pinch" />
+				</group>
+				<group id="B">
+					<!--Filling:-->
+					<ingredient
+						name="Apples"
+						qty="7"
+						uom="medium" />
+					<ingredient
+						name="Honey"
+						qty="0.3"
+						uom="cup" />
+					<ingredient
+						name="Butter"
+						qty="2"
+						uom="tbsp" />
+					<ingredient
+						name="Cinammon"
+						qty="2"
+						uom="tsp" />
+					<ingredient
+						name="each of Walnuts, Almond &amp; Raisins"
+						qty="150"
+						uom="g" />
+					<ingredient
+						name="Lemon, juiced"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Water"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="Vanilla"
+						qty="a"
+						uom="dash" />
+				</group>
+				<group id="C">
+					<!--Topping:-->
+					<ingredient
+						name="finely sliced Apples"
+						qty="1-2"
+						uom="" />
+					<ingredient
+						name="chopped Walnuts"
+						qty="50"
+						uom="g" />
+					<ingredient
+						name="sliced blanched almonds"
+						qty="50"
+						uom="g" />
+					<ingredient
+						name="Thin Coconut Slices"
+						qty=""
+						uom="" />
+					<ingredient
+						name="Cinammon"
+						qty="a"
+						uom="pinch" />
+				</group>
+			</ingredients>
+			<instructions>
+				Dough:
+
+				Blend 'A' in a bowl and add more almond flour if necessary until the
+				dough is dry enough and not sticky to work with.
+				Place dough in fridge or freezer for approx. 15 min - 1/2 hour.
+
+				Filling:
+
+				Peel and core apples. Cut in slices.
+				Set 'B' in a heavy duty pot and cook approx.. 10 minutes 
+				until apples are a bit soft and filling is not wet.
+
+
+				Pat dough into round pie form. Add filling.
+				Decorate filling with the uncooked apples on top to form a round design.
+				Bake in slow oven 150-160&deg;C/ 305-320&deg;F for approx. 
+				30-40 minutes. Keep your eye on oven as the dough can burn.
+				The edges can be covered with aluminum foil to avoid this.
+				Approximately 5 minutes before the pie is ready, decorate with walnuts,
+				almonds, coconut slices and cinnamon. Return to oven until nicely brown.
+			</instructions>
+			<comment>
+				Recipe taken from www.scdiet.org.
+				Takes quite a while to do, and might be better without the whole
+				almonds in B.
+			</comment>
+		</recipe>
+	</section>
+	
+	<section type="Snacks">
+		<recipe name="Candied Cinnamon Pecans"
+			qty="2.3"
+			uom_p="cups"
+			uom_s="cup"
+			time="30 mins"
+			tested="no"
+			rating=""
+			last-modified="26/05/2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Pecan Nuts"
+						qty="2.3"
+						uom="cups"
+						cost="2.00" />
+					<ingredient
+						name="Honey"
+						qty="0.5"
+						uom="cup"
+						cost="0.20" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Date Sugar or Fructose"
+						qty="0.25"
+						uom="cup"
+						cost="0.15" />
+					<ingredient
+						name="Cinammon"
+						qty="2"
+						uom="tsp"
+						cost="0.10" />
+					<ingredient
+						name="Ground Cloves &amp; Nutmeg"
+						qty="1"
+						uom="pinch"
+						cost="0.05" />
+				</group>
+			</ingredients>
+			<instructions>
+				Preheat oven to 350&deg;F/ 180&deg;C.
+
+				Place pecans on cookie sheet or baking pan and lightly toast 
+				- about 6-7 minutes, depending on your oven. Nuts are done 
+				when you can smell a nutty, toasted scent.
+				Remove pecans from oven and pour honey over them. Stir to coat nuts evenly, 
+				and return to oven.
+				Mix date sugar or fructose and spices in a large bowl.
+				Pecans are ready to be removed from the oven when all the honey is warm and coating them.
+
+				Pour the hot pecans into the large bowl of spiced date sugar. 
+				Toss well until the pecans are thoroughly coated with the 
+				mixture. Spread on a cookie sheet in a single layer 
+				and allow to "set." Enjoy warm or at room temperature. 
+			</instructions>
+			<comment>
+				Note: Walnuts, almonds, cashews, hazlenuts and even peanuts are also delicious 
+				when prepared in this way!
+			</comment>
+		</recipe>
+		
+		<recipe name="Dan's Pancakes"
+			qty="10-16"
+			uom_p="pancakes"
+			uom_s="pancake"
+			time="20 mins"
+			tested="yes"
+			rating="8"
+			last-modified="04 September 2002">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Ripe Bananas"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Eggs"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Almond Flour"
+						qty="0.25"
+						uom="cup" />
+					<ingredient
+						name="Baking Soda"
+						qty="0.125"
+						uom="tsp" />
+				</group>
+			</ingredients>
+			<instructions>
+				Blend 'A' until smooth. Use large frying pan heated to medium.
+				Put some butter in pan to prevent sticking and pour mix into pan to thinly cover about
+				half of the pan. Shake pan to evenly spread mix. Flip cooked pancake into other half of pan.
+				After the first pancake is done, turn the heat down a little to prevent burning. 
+				Always use more butter before each batch - just enough to cover pan.
+			</instructions>
+			<comment>
+				Recipe taken from SCDiet.org.
+				Goes well with Honey Butter Syrup or any of the other syrup recipes.
+				The pancakes don't flip very well but you ought to be able to do it if they're
+				cooked properly.
+			</comment>
+		</recipe>
+		
+		<recipe name="Pancakes (III)"
+			qty=""
+			time="20 mins"
+			tested="No"
+			rating=""
+			last-modified="01 September 2002">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="0.75"
+						uom="cup" />
+					<ingredient
+						name="Egg"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Baking Soda"
+						qty="0.25"
+						uom="tsp" />
+					<ingredient
+						name="Yogurt"
+						qty="0.3"
+						uom="cup" />
+					<ingredient
+						name="Melted Butter"
+						qty="1"
+						uom="tbsp" />
+				</group>
+			</ingredients>
+			
+			<instructions>
+				Blend 'A' until smooth. Add a little more yogurt or a little water if it is too stiff.
+				Add a little more flour if it is too thin. The batter should be fairly thick - 
+				should drop in blobs when spooned onto the hot griddle. (If too thin it is hard 
+				to turn them.) Also works great as waffles - add 2 more (total of 3) tbsp melted butter 
+				and cook in waffle iron.
+			</instructions>
+		</recipe>
+		
+		<recipe name="John's Pizza recipe #2"
+			qty="1"
+			uom_s="pizza"
+			uom_p="pizza"
+			time="45 mins"
+			tested="yes"
+			rating="9"
+			last-modified="27/05/2004">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="1"
+						uom="cup"
+						cost="1.00" />
+					<ingredient
+						name="Egg"
+						qty="1"
+						uom=""
+						cost="0.12" />
+					<ingredient
+						name="Salt"
+						qty="0.3"
+						uom="tsp"
+						cost="0.01" />
+					<ingredient
+						name="Olive Oil"
+						qty="1"
+						uom="tsp"
+						cost="0.01" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="sliced Mushrooms"
+						qty="0.75"
+						uom="tin"
+						cost="0.45" />
+					<ingredient
+						name="chopped Bacon"
+						qty="3-4"
+						uom="rashers"
+						cost="0.30" />
+					<ingredient
+						name="Butter"
+						qty="1"
+						uom="lump"
+						cost="0.10" />
+				</group>
+				<group id="C">
+					<ingredient
+						name="tomato puree/ passata"
+						qty="0.75"
+						uom="cup"
+						cost="0.20" />
+					<ingredient
+						name="chopped Garlic"
+						qty="1-2"
+						uom="clove"
+						cost="0.05" />
+					<ingredient
+						name="each of Basil &amp; Oregano"
+						qty="1"
+						uom="tsp"
+						cost="0.10" />
+				</group>
+				<group id="D">
+					<ingredient
+						name="grated Cheese"
+						qty="1-2"
+						uom="cup"
+						cost="0.55" />
+					<ingredient
+						name="herbs, to taste."
+						qty=""
+						uom=""
+						cost="0.10" />
+				</group>
+			</ingredients>
+			
+			<instructions>
+				Mix 'A' in a bowl, adding more flour as needed to form a ball that doesn't stick to
+				your hands. Press dough onto a cookie sheet/ pizza pan to form a pizza crust, 
+				the thinner the better. Preheat oven to 350&deg;F/ 180&deg;C with the crust in the oven. 
+				Meanwhile fry 'B' in a pan until browning. Remove crust from oven. Mix C in a bowl and 
+				spread onto crust. Spread 'B' on top of tomato and sprinkle cheese and herbs (D) on top. 
+				Bake for 10 mins.
+			</instructions>
+			<comment>
+				Taken from Elaine Gottchall's Breaking the Vicious cycle, IBSN: 0-9692768-1-8
+			</comment>
+		</recipe>
+		<recipe name="Granola Chews"
+			qty="16 chews"
+			time="45 mins"
+			tested="yes"
+			rating="8.5"
+			last-modified="08/10/2001">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Butter"
+						qty="0.3"
+						uom="cup" />
+					<ingredient
+						name="Honey"
+						qty="0.5"
+						uom="cup" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Raisins"
+						qty="0.5"
+						uom="cup" />
+					<ingredient
+						name="Unsweetened dessicated Coconut"
+						qty="0.5"
+						uom="cup" />
+					<ingredient
+						name="Coarsely chopped Nuts (Almonds, Pecans, Walnuts)"
+						qty="1"
+						uom="cup" />
+					<ingredient
+						name="Salt"
+						qty="0.5"
+						uom="tsp" />
+					<ingredient
+						name="Baking powder"
+						qty="0.5"
+						uom="tsp" />
+				</group>
+			</ingredients>
+			<instructions>
+				Stir A in a pan over a low heat until melted &amp; blended.
+				Remove from heat and mix in B. Spread mixture in a 20cm/ 8&#034;
+				baking tin; Spread thinner in the centre.
+				Bake at 350&deg;F/ 180&deg;C for about 15-20 mins until
+				golden brown and setting. Turn down heat to 300&deg;F/150&deg;C.
+				Tap out air bubbles, cook until chestnut brown &amp; set. Cool, cut into squares.
+			</instructions>
+			<comment>
+				The addition of baking soda makes the mixture bubble and rise
+				while being heated. I've found that the air bubbles help the mixture
+				to cook evenly. Be careful not to burn the chews.
+				
+				Adapted from Elaine Gottchall's Breaking the Vicious cycle, IBSN: 0-9692768-1-8
+			</comment>
+		</recipe>
+		<recipe name="Cheese Snacks"
+			qty="9 crackers"
+			time="30 mins"
+			tested="yes"
+			rating="7"
+			last-modified="02/10/2001">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Cheese"
+						qty="1.5-2"
+						uom="cups" />
+					<ingredient
+						name="Almond flour"
+						qty="1"
+						uom="cup" />
+					<ingredient
+						name="Salt"
+						qty="0.5"
+						uom="tsp" />
+					<ingredient
+						name="Sage"
+						qty="0.25"
+						uom="tsp" />
+					<ingredient
+						name="Thyme"
+						qty="0.25"
+						uom="tsp" />
+					<ingredient
+						name="Cayenne Pepper"
+						qty="0.125"
+						uom="tsp" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Olive Oil"
+						qty="0.25"
+						uom="cup" />
+					<ingredient
+						name="Water"
+						qty="1"
+						uom="tbsp" />
+				</group>
+				<group id="C">
+					<ingredient
+						name="Sesame Seeds/ Poppy Seeds."
+						qty="1"
+						uom="tbsp" />			
+				</group>
+			</ingredients>
+			<instructions>
+				Mix A together. Add B. Mix, adding more flour as needed
+				to form into a firm ball. Refrigerate until firm (15 mins).
+				Press/ roll flat, sprinkle on C and press in.
+				Cut into 5cm squares and place onto a baking sheet. Bake for 15 mins
+				at 350 &deg;F/ 180 &deg;C
+			</instructions>
+			<comment>
+				recipe taken from http://www.scdiet.org/
+			</comment>
+		</recipe>
+	</section>
+	
+	<section type="Fish">
+		<recipe name="Haddock Bubbly Bake"
+			qty="6 servings"
+			time="5 mins + 40 mins"
+			tested="no"
+			rating=""
+			last-modified="19/03/2001">
+			<ingredients>
+				<ingredient
+					name="Haddock fillets"
+					qty="2"
+					uom="pounds" />
+				<ingredient
+					name="Onion, thinley sliced"
+					qty="1"
+					uom="" />
+				<ingredient
+					name="Mushrooms, diced"
+					qty="2"
+					uom="cups" />
+				<ingredient
+					name="Homemade Yoghurt"
+					qty="1"
+					uom="cup" />
+				<ingredient
+					name="Water"
+					qty="1"
+					uom="cup" />			
+				<ingredient
+					name="Salt &amp; Pepper"
+					qty=""
+					uom="" />
+				<ingredient
+					name="Cheddar cheese, grated"
+					qty="1"
+					uom="cup" />
+			</ingredients>
+			<instructions>
+				Preheat oven to 350&deg;F/ 175&deg;C. Lightly butter one deep 9'x9' casserole dish.
+				Layer fish fillets into the bottom of the prepared pan and sprinkle with salt and pepper to taste. 
+				Layer onion slices over fish. Spread blended mushroom, yoghurt &amp; water over all and 
+				sprinkle with the grated cheese.
+				Bake at 350&deg;F/ 175&deg;C for about 40 minutes or until bubbly and fish is flaky.	
+			</instructions>
+			<comment />
+		</recipe>
+	
+		<recipe name="Thai Prawn Soup with Lemongrass 'Tom Yum Goong'"
+			qty="5 servings"
+			time="20 minutes"
+			tested="no"
+			rating=""
+			last-modified="19/03/2001">
+			<ingredients>
+				<ingredient
+					name="Prawns"
+					qty="20"
+					uom="Medium" />
+				<ingredient
+					name="Water"
+					qty="4-5"
+					uom="cups" />
+				<ingredient
+					name="Shallots, finely chopped"
+					qty="3"
+					uom="" />
+				<ingredient
+					name="Lemon Grass, pounded and chopped into 1' lengths"
+					qty="2"
+					uom="stalks" />
+				<ingredient
+					name="Fish Sauce"
+					qty="2"
+					uom="tbsp" />
+				<ingredient
+					name="Galangal Root"
+					qty="2"
+					uom="slices" />
+				<ingredient
+					name="Mushrooms, halved"
+					qty="20"
+					uom="small" />
+				<ingredient
+					name="Zest of Lime"
+					qty="2-3"
+					uom="tsp" />
+				<ingredient
+					name="Lime Juice"
+					qty="3"
+					uom="tbsp" />
+				<ingredient
+					name="(Habanera or Birdseye) Chilli peppers"
+					qty="2-3"
+					uom="" />
+				<ingredient
+					name="Coriander leaves and spring onions"
+					qty="5"
+					uom="" />
+			</ingredients>
+			<instructions>
+				Wash the prawns and shell them without removing the tails. Pour the water
+				into a pan adding the shallots, lemon grass, fish sauce and galangal root.
+				Boil for 3 minutes. Add the prawns and mushrooms, and cook until the prawns
+				turn pink. Add the lime zest, lime juice and chilli peppers. Cover and
+				remove from the heat. Sprinkle with coriander leaves and chopped spring
+				onion and serve hot.
+			</instructions>
+			<comment />
+		</recipe>
+	
+		<recipe name="Fish Soup"
+      		qty="6 servings"
+      		time=""
+      		tested="no"
+      		rating=""
+      		last-modified="19/03/2001">
+  			<ingredients>
+  				<ingredient
+  					name="Cod fillets "
+  					qty="1"
+  					uom="lb" />
+  				<ingredient
+  					name="Bacon"
+  					qty="4"
+  					uom="slices" />
+  				<ingredient
+  					name="Chopped Onion"
+  					qty="0.5"
+  					uom="cup" />
+  				<ingredient
+  					name="diced Acorn Squash"
+  					qty="1"
+  					uom="cup" />
+  				<ingredient
+  					name="Water"
+  					qty="2"
+  					uom="cups" />
+  				<ingredient
+  					name="Almond Flour"
+  					qty="0.25"
+  					uom="cup" />
+  				<ingredient
+  					name="Clam juice"
+  					qty="0.5"
+  					uom="cup" />
+  				<ingredient
+  					name="Homemade yoghurt"
+  					qty="1 - 1.5"
+  					uom="cups" />
+  				<ingredient
+  					name="Butter"
+  					qty="3"
+  					uom="tbs" />
+  				<ingredient
+  					name="Salt"
+  					qty="1"
+  					uom="tsp" />
+  				<ingredient
+  					name="Pepper"
+  					qty="0.25"
+  					uom="tsp" />
+			</ingredients>
+			<instructions>
+				Rinse fish with cold water; pat dry. Cut fish into 1/2-inch cubes;
+				In small skillet, saute bacon until crisp. Remove bacon from skillet; blot with paper towels and crumble. 
+				Discard all but 2 tablespoons bacon drippings from skillet. Add onion to skillet; saute until
+				tender but not brown. Remove from heat. In deep saucepan, combine onion and squash. Add water; cover
+				and bring to gentle boil. Reduce heat and simmer for 10 minutes. Add fish; cover and bring to boil again.
+				Reduce heat and cook for additional 10 minutes, or until fish and potatoes are done. In small bowl,
+				combine flour and clam juice; stir with fork until smooth. Add to fish and squash mixture, stirring
+				constantly to blend flour. Stir in evaporated yoghurt, butter, salt and pepper. Continue heating over
+				medium heat until chowder thickens. Garnish with crumbled bacon before serving.
+			</instructions>
+			<comment />
+		</recipe>
+
+		<recipe name="Gourmet Fish"
+			qty=""
+			time=""
+			tested=""
+			rating=""
+			last-modified="04/12/00">
+			<ingredients>
+				<ingredient
+					name="grated parmesan cheese "
+					qty="0.75"
+					uom="cup" />
+				<ingredient
+					name="butter, softened "
+					qty="0.5"
+					uom="cup" />
+				<ingredient
+					name="chopped green onions "
+					qty="3"
+					uom="tbsp" />
+				<ingredient
+					name="mayonnaise"
+					qty="3"
+					uom="tbsp" />
+				<ingredient
+					name="chives "
+					qty="2"
+					uom="tsp" />
+				<ingredient
+					name="Grouper fillets (or other mild white fish) "
+					qty="6"
+					uom="" />
+				<ingredient
+					name="lemon juice "
+					qty="3"
+					uom="tbsp" />
+				<ingredient
+					name="pepper"
+					qty="0.25"
+					uom="tsp" />
+			</ingredients>
+			<instructions>
+				Combine cheese, butter, green onions, mayonnaise, and chives; 
+				mix well and set aside. Place grouper in a single layer in a 
+				greased baking dish. Pour lemon juice over fish; sprinkle with pepper. 
+				Broil fillets 6-8 minutes or until fish flakes easily. Remove from oven; 
+				spread top of fillets with cheese mixture. Broil fillets an additional 
+				2-3 minutes or until cheese is lightly browned and bubbly.
+			</instructions>
+		</recipe>
+		<recipe name="Breaded Catfish Fillets"
+			qty=""
+			time=""
+			tested="no"
+			rating=""
+			last-modified="04/12/2000">
+			
+			<ingredients>
+				<ingredient
+					name="Almond flour"
+					qty="1.5"
+					uom="cups" />
+				<ingredient
+					name="Egg"
+					qty="1"
+					uom="" />
+				<ingredient
+					name="catfish fillets (red snapper would be good as well)"
+					qty="3"
+					uom="good size" />
+				<ingredient
+					name="garlic powder"
+					qty=""
+					uom="" />
+				<ingredient
+					name="salt &amp; pepper"
+					qty=""
+					uom="" />
+				<ingredient
+					name="cayenne"
+					qty=""
+					uom="" />
+				<ingredient
+					name="oregano"
+					qty=""
+					uom="" />
+				<ingredient
+					name="olive oil"
+					qty=""
+					uom="" />
+			</ingredients>
+			<instructions>
+				Break egg in a bowl and scramble with a fork. Put aside. Put almond flour in a pie plate and 
+				season with plenty of salt and garlic, cayenne, and oregano to taste. Cut fillets into serving 
+				size portions, dip them in egg, roll them in flour, and fry them in olive oil until browned, 
+				turning once. Catfish is thick, and might not be done through at this point, so line a pan with foil, 
+				put the browned fish in it, and cover it with more foil (or if you don't mind the clean up, 
+				put it in a covered casserole). Put it in the oven at 300&deg;F/ 150&deg;C. for about 20 minutes. 
+				If you have flour leftover, put egg in it, form it into patties, and fry it up for mock hush puppies
+			</instructions>
+		</recipe>
+		<recipe name="Fish Cakes"
+			qty="6"
+			uom_s="patty"
+			uom_p="patties"
+			time="30 mins"
+			tested="yes"
+			rating="8"
+			last-modified="27/05/2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Salmon/ Tuna/ other fish"
+						qty="1"
+						uom="can"
+						cost="0.55" />
+					<ingredient
+						name="Almond Flour"
+						qty="0.6"
+						uom="cup"
+						cost="0.55" />
+					<ingredient
+						name="Eggs, beaten"
+						qty="2"
+						uom=""
+						cost="0.24" />
+					<ingredient
+						name="Parsley"
+						qty="3"
+						uom="tsp"
+						cost="0.05" />
+					<ingredient
+						name="Salt &amp; Pepper"
+						qty="2"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Basil"
+						qty="1.5"
+						uom="tsp"
+						cost="0.02" />
+				</group>
+			</ingredients>
+
+			<instructions>
+				Drain Fish. Combine all ingredients together. 
+				Form 6 patties. Fry in olive oil over medium/ low
+				heat about 4 minutes on each side or until browned.
+			</instructions>
+		</recipe>
+		<recipe name="Salmon Patties"
+			qty="6 patties"
+			time=""
+			tested=""
+			rating=""
+			last-modified="04/12/00">
+			
+			<ingredients>
+				<ingredient
+					name="Salmon"
+					qty="1"
+					uom="14 oz can" />
+				<ingredient
+					name="yogurt"
+					qty="0.5"
+					uom="cup" />
+				<ingredient
+					name="Almond Flour"
+					qty="0.6"
+					uom="cup" />
+				<ingredient
+					name="Cucumber, seeded and finely chopped"
+					qty="0.25"
+					uom="small" />
+				<ingredient
+					name="Water"
+					qty="0.25"
+					uom="cup" />
+				<ingredient
+					name="Eggs, beaten"
+					qty="2"
+					uom="" />
+			</ingredients>
+
+			<instructions>
+				Drain salmon. Combine all ingredients together. 
+				Form 6 patties. Cook in butter in skillet over medium
+				heat about 4 minutes on each side or until browned.
+			</instructions>
+		</recipe>
+	</section>
+	
+	<section type="Syrups">
+		<recipe name="Honey Butter Syrup"
+			qty="1 cup"
+			time="5 mins"
+			tested="yes"
+			rating="8"
+			last-modified="01 September 2002">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Honey"
+						qty="0.75"
+						uom="cup"/>
+					<ingredient
+						name="Butter"
+						qty="1"
+						uom="tbsp" />
+				</group>
+			</ingredients>
+			<instructions>
+				Melt the butter in a cup in the microwave. Add the honey and stir until mixed.
+			</instructions>
+			<comment>
+				Came from the recipe for Dan's pancakes on scdiet.org. Could be done in a pan
+				on a hob, if no microwave. in which case you'd probably want to make a bit more.
+			</comment>
+		</recipe>
+	
+	</section>
+	
+	<section type="Sauces">
+		<recipe name="Hoi-Sin Sauce"
+			qty="2"
+			uom_s="cup"
+			uom_p="cups"
+			time="1 hr"
+			tested="yes"
+			rating="8"
+			last-modified="18/05/2003">
+	
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="sesame oil"
+						qty="2"
+						uom="tbsp"
+						cost="0.30" />
+					<ingredient
+						name="garlic cloves"
+						qty="4"
+						uom=""
+						cost="0.20" />
+					<ingredient
+						name="dried hot chili peppers"
+						qty="4"
+						uom=""
+						cost="0.20" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Unsweetened Red Kidney Beans"
+						qty="0.5"
+						uom="cup"
+						cost="0.45" />
+					<ingredient
+						name="salt"
+						qty="1"
+						uom="tsp"
+						cost="0.01" />
+					<ingredient
+						name="Dark Honey"
+						qty="2"
+						uom="tbsp"
+						cost="0.75" />
+					<ingredient
+						name="synthi-soy sauce"
+						qty="2"
+						uom="tbsp"
+						cost="0.50" />
+					<ingredient
+						name="distilled white vinegar"
+						qty="3"
+						uom="tbsp"
+						cost="0.05" />
+					<ingredient
+						name="water"
+						qty="3"
+						uom="tbsp"
+						cost="0" />
+				</group>
+			</ingredients>
+				
+			<instructions>
+				In a small saucepan, heat the oil and add the garlic and peppers. 
+				Stir and cook over medium heat for 2 minutes, or until the flavors 
+				are released and the garlic browns slightly. Be careful not to burn 
+				the garlic.
+				Remove and discard the peppers. Blend or mash the kindey beans into a paste.
+				Add the bean paste and stir until blended, then add the remaining ingredients, 
+				continuing to stir until blended. Simmer over very low heat for 30 to 40 minutes,
+				or until the sauce thickens slightly.
+				Pour the sauce into a food processor and blend until smooth, or 
+				mash by hand into a smooth paste. Pour into a clean jar with an airtight 
+				lid. Cover and store in the refrigerator to use as needed.
+			</instructions>
+		</recipe>
+	
+		<recipe name="Dunc's Guacamole"
+			qty="250g?"
+			time=""
+			tested="yes"
+			rating="7"
+			last-modified="02/10/01">
+			
+			<ingredients>
+				<ingredient
+					name="Ripe Avocados, pureed"
+					qty="2"
+					uom="medium" />
+				<ingredient
+					name="Tomato, de-seeded &amp; finely diced"
+					qty="1"
+					uom="" />
+				<ingredient
+					name="Onion, finely chopped"
+					qty="0.5"
+					uom="small" />
+				<ingredient
+					name="Garlic, diced finely"
+					qty="1"
+					uom="clove" />				
+				<ingredient
+					name="Salt"
+					qty="0.5"
+					uom="tsp" />
+				<ingredient
+					name="Coriander"
+					qty="1"
+					uom="tsp" />
+			</ingredients>
+			<instructions>
+				Mix all ingredients well.
+			</instructions>
+		</recipe>
+		
+		<recipe name="Cucumber Dill Sauce"
+			qty=""
+			time=""
+			tested="no"
+			rating=""
+			last-modified="04/12/00">
+			<instructions>
+				Mix all ingredients well.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Tomato, diced fine"
+					qty="0.5"
+					uom="small" />
+				<ingredient
+					name="Onion, finely chopped"
+					qty="3"
+					uom="tbsp" />					
+				<ingredient
+					name="Fresh Dill"
+					qty="1"
+					uom="tbsp" />
+				<ingredient
+					name="Salt &amp; Pepper"
+					qty="0.5"
+					uom="tsp" />
+				<ingredient
+					name="Dried Dill"
+					qty="0.5"
+					uom="tsp" />
+				<ingredient
+					name="Butter"
+					qty="2"
+					uom="tsp" />
+			</ingredients>
+		</recipe>
+		
+		<recipe name="Tomato Ketchup"
+			qty="3 tbsp"
+			time="1 min"
+			tested="yes"
+			rating="8"
+			last-modified="04/12/00">
+			<instructions>
+				Mix all ingredients well.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Tomato puree"
+					qty="2"
+					uom="tbsp" />
+				<ingredient
+					name="Cider vinegar"
+					qty="0.5"
+					uom="tbsp" />
+				<ingredient
+					name="Salt &amp; Pepper"
+					qty="0.25"
+					uom="tsp" />
+				<ingredient
+					name="Honey"
+					qty="0.5"
+					uom="tsp" />
+				<ingredient
+					name="Paprika"
+					qty="a"
+					uom="pinch" />
+			</ingredients>
+			<comment>
+				Recipe created by me.
+			</comment>
+		</recipe>
+		
+		<recipe name="Synthi-Soy Sauce"
+			qty=""
+			time="5 mins"
+			tested="yes"
+			rating="7"
+			last-modified="31/01/2003">
+			<instructions>
+				Blend all ingredients well.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Marmite or Yeast Extract"
+					qty="1"
+					uom="tsp" />
+				<ingredient
+					name="Salt"
+					qty="1.5"
+					uom="tsp" />
+				<ingredient
+					name="Hot Water"
+					qty="3"
+					uom="tbsp" />
+				<ingredient
+					name="Chinese Wine/ dry Sherry"
+					qty="2"
+					uom="tbsp" />
+			</ingredients>
+			<comment>
+				Recipe created by me. Not bad, slightly unsatisfactory but better than nothing.
+			</comment>
+		</recipe>
+		
+		<recipe name="Blueberry Sauce"
+			qty=""
+			time="8 mins"
+			tested="no"
+			rating=""
+			last-modified="24/10/2000">
+			<instructions>
+				Combine all ingredients in a saucepan and bring to a boil. Simmer for 3
+				minutes. Chill before using.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Blueberries"
+					qty="1-1.5"
+					uom="cups" />
+				<ingredient
+					name="Honey"
+					qty="0.25"
+					uom="cup" />
+				<ingredient
+					name="Lemon juice"
+					qty="1"
+					uom="tbsp" />
+			</ingredients>
+		</recipe>
+		
+		<recipe name="Basic Banana Yogurt Cream"
+			qty="2"
+			uom_p="cups"
+			uom_s="cup"
+			time="2 mins"
+			tested="yes"
+			rating="8.5"
+			last-modified="24/10/2000">
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Egg"
+						qty="1"
+						uom=""
+						cost="0.12" />
+					<ingredient
+						name="Honey"
+						qty="0.25"
+						uom="cup"
+						cost="0.20" />
+					<ingredient
+						name="Banana, mashed"
+						qty="1"
+						uom=""
+						cost="0.50" />
+					<ingredient
+						name="Homemade creamy Yoghurt"
+						qty="1"
+						uom="cup"
+						cost="0.38" />
+					<ingredient
+						name="Vanilla Essence"
+						qty="0.75"
+						uom="tsp"
+						cost="0.10"/>
+				</group>
+			</ingredients>
+			<instructions>
+				Blend all the ingredients thoroughly.
+			</instructions>
+			<comment>
+				recipe taken from http://www.scdiet.org/
+			</comment>
+		</recipe>		
+	</section>
+	
+	<section type="Cookies">
+		<recipe name="Ratfias"
+			qty="14-16 blobs"
+			time="30 mins"
+			tested="yes"
+			rating="8"
+			last-modified="19/02/2002">
+			
+			<instructions>
+				Preheat oven to 175&deg;C/ 325&deg;F, gas mark 3.
+				In a bowl, mix A into a paste.
+				Using a teaspoon dipped into the cold water drop small
+				mounds of the mixture onto a cookie sheet, about 4cm apart.
+				
+				Bake for about 20 mins, until browned and firm.
+			</instructions>
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="120"
+						uom="g" />
+					<ingredient
+						name="Pure Almond extract"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="Egg whites"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Fructose/ Glucose/ Mild Honey"
+						qty="0.5"
+						uom="cup" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Cold Water"
+						qty="1"
+						uom="cup of" />
+				</group>
+			</ingredients>
+			<comment>
+				Amalgamated from various sources.
+			</comment>
+		</recipe>
+		<recipe name="Almond Pecan Cookies"
+			qty="16"
+			uom_p="cookies"
+			uom_s="cookie"
+			time="30 mins"
+			tested="yes"
+			rating="9"
+			last-modified="20/06/2004">
+			<instructions>
+				Preheat Oven to 150&deg;C/ 300&deg;F (gas mark 2).
+				Stir (don't blend) all of the ingredients in a bowl. Cook until they just start to get a little brown (10 min). 
+				Turn oven down low (around 70&deg;C) and cook until golden brown (20 mins) and beginning to feel firm.
+			</instructions>
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="2"
+						uom="cups"
+						cost="1.80" />
+					<ingredient
+						name="Melted Butter"
+						qty="0.5"
+						uom="cup"
+						cost="0.25" />
+					<ingredient
+						name="Honey"
+						qty="0.75"
+						uom="cup"
+						cost="0.80" />
+					<ingredient
+						name="Egg"
+						qty="1"
+						uom=""
+						cost="0.12" />
+					<ingredient
+						name="Baking Soda"
+						qty="0.5"
+						uom="tsp"
+						cost="0.01" />
+					<ingredient
+						name="Salt"
+						qty="a"
+						uom="pinch"
+						cost="0.01" />
+					<ingredient
+						name="Vanilla"
+						qty="0.75"
+						uom="tsp"
+						cost="0.05" />
+					<ingredient
+						name="Raisins"
+						qty="0.75"
+						uom="cup"
+						cost="0.50" />
+					<ingredient
+						name="Chopped Pecans or Walnuts"
+						qty="1"
+						uom="cup"
+						cost="1.00" />
+					<ingredient
+						name="Unwseetened desiccated Coconut"
+						qty="0.75"
+						uom="cup"
+						cost="0.80" />
+					<ingredient
+						name="Cinnamon, Ground Ginger, Nutmeg"
+						qty="2"
+						uom="tsp each of"
+						cost="0.50" />
+					<ingredient
+						name="Ground Allspice"
+						qty="0.75"
+						uom="tsp"
+						cost="0.05" />
+				</group>
+			</ingredients>
+			<comment>
+				Cookie dough should be wet and sticky. Make into large 1 tsp-ish sized blobs and 
+				flatten with a wet hand or spoon.
+				Cook slow and long to get crunchy but not too long - keep checking them; make sure you do NOT
+				overcook them.
+				
+				Modified from Elaine Gottchall's Breaking the Vicious cycle, IBSN: 0-9692768-1-8
+			</comment>
+		</recipe>
+		
+		<recipe name="Honey-Almond Biscotti"
+			qty="16-18 biscotti"
+			time="45 mins"
+			tested="yes"
+			rating="8.5"
+			last-modified="20/07/2001">
+			
+			<instructions>
+				Preheat oven to 175&deg;C/ 325&deg;F.
+				In a large bowl, beat A until light and fluffy.
+				In a medium bowl, mix together B until well distributed.
+				Mix A &amp; B until well blended. Gather dough into a ball; cut in half.
+				On a greased cookie sheet, shape each half of dough into a
+				10-by-3-by1-inch log. Bake for around 20. min. or until lightly 
+				browned and slightly firm. Remove from oven; cool 5 min. 
+				Move logs to a cutting surface. Reduce oven temp. to 133&deg;C/ 275&deg;F 
+				Cut each log into 1/2 inch strips; return to baking sheet, 
+				arranging slices cut side up. Bake for about 20 minutes, turning, 
+				until crisp throughout. Cool completely on wire racks.
+				Store in tightly covered container.
+			</instructions>
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Butter, softened"
+						qty="0.5"
+						uom="cup" />
+					<ingredient
+						name="Honey"
+						qty="0.75"
+						uom="cup" />
+					<ingredient
+						name="Eggs"
+						qty="2"
+						uom="medium" />
+					<ingredient
+						name="Vanilla"
+						qty="1"
+						uom="tsp" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Almond flour"
+						qty="3.5"
+						uom="cups" />
+					<ingredient
+						name="Cinnamon"
+						qty="2"
+						uom="tsp" />
+					<ingredient
+						name="Baking soda"
+						qty="1"
+						uom="tsp" />				
+					<ingredient
+						name="Ground Ginger, Allspice, Nutmeg &amp; Salt"
+						qty="0.5"
+						uom="tsp" />
+					<ingredient
+						name="Sliced almonds"
+						qty="1"
+						uom="cup" />
+					<ingredient
+						name="Rasins"
+						qty="0.75"
+						uom="cup" />
+				</group>
+			</ingredients>
+			<comment>
+				I usually place what I'm baking on two cookie sheets so things don't brown too fast. 
+				If the top browns too fast, swap sheets over in the over or cover it with a sheet of foil. 
+				The low oven temp. more dries them out than cooks them-so they get crunchy.
+				Cook long and slow for best results.
+			</comment>
+		</recipe>
+	</section>
+	
+	<section type="Meat">
+		<recipe name="Moroccan Lamb Stew"
+			qty="4"
+			uom_p="servings"
+			uom_s="serving"
+			time="1 hour 30 mins"
+			tested="yes"
+			rating="7"
+			last-modified="08/10/2001">
+
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Cumin Seeds"
+						qty="0.5"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Coriander Seeds"
+						qty="1"
+						uom="tbsp"
+						cost="0.20" />
+					<ingredient
+						name="Fennel Seeds"
+						qty="1"
+						uom="tsp"
+						cost="0.10" />
+					<ingredient
+						name="Dried Chillies"
+						qty="3-4"
+						uom="small"
+						cost="0.20" />
+					<ingredient
+						name="Chopped Rosemary Leaves"
+						qty="1"
+						uom="tbsp"
+						cost="0.20" />
+					<ingredient
+						name="Grated Ginger"
+						qty="2"
+						uom="tsp"
+						cost="0.30" />
+					<ingredient
+						name="Salt &amp; Pepper"
+						qty="1"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Olive Oil"
+						qty="1"
+						uom="tbsp"
+						cost="0.10" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Lamb Neck Fillets"
+						qty="2"
+						uom="small"
+						cost="2.00" />
+				</group>
+				<group id="C">
+					<ingredient
+						name="Butternut Squash, diced."
+						qty="1"
+						uom="medium"
+						cost="1.60" />
+					<ingredient
+						name="Red Onions, chopped."
+						qty="2"
+						uom=""
+						cost="0.40" />
+					<ingredient
+						name="Garlic, crushed."
+						qty="4"
+						uom="cloves"
+						cost="0.20" />
+				</group>
+				<group id="D">
+					<ingredient
+						name="Plum tomatoes, chopped"
+						qty="2"
+						uom="tins"
+						cost="0.60" />
+					<ingredient
+						name="Cinnamon"
+						qty="1"
+						uom="stick"
+						cost="0.50" />
+					<ingredient
+						name="Bay Leaves"
+						qty="2"
+						uom=""
+						cost="0.20" />
+					<ingredient
+						name="Dried Apricots"
+						qty="1"
+						uom="handful"
+						cost="0.60" />
+				</group>
+				<group id="E">
+					<ingredient
+						name="Fresh Coriander, chopped."
+						qty="1"
+						uom="bunch"
+						cost="1.25" />
+					<ingredient
+						name="Homemade Yoghurt"
+						qty="4"
+						uom="tbsp"
+						cost="0.12" />
+				</group>
+			</ingredients>
+			<instructions>
+				Preheat oven to 190&deg;C/375&deg;F/gas mark 5. Pound 'A' into a paste.
+				Dice 'B' and mix with half of marinade and set aside. Mix the other half of
+				the marinade with 'C'. Borwn the marinated meat in a large pan with some olive oil.
+				Remove the meat from the pan and replace with the veg. mixture. Fry for about 4 minutes,
+				until the onions are soft. Stir in 'D' and braise, uncovered, in the pre-heated oven
+				for 1 hour 15 mins. Stir in the coriander from 'E' and serve with the yoghurt.
+			</instructions>
+			<comment>
+				Adapted from a Jamie Oliver book. I forget which one.
+			</comment>
+		</recipe>
+			
+			
+		<recipe name="Marvelous chilli-cheese meatballs"
+			qty="16"
+			time="30 mins"
+			tested="yes"
+			rating="8.5"
+			last-modified="19/10/2001">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="lean minced Pork or Beef"
+						qty="225"
+						uom="g" />
+					<ingredient
+						name="Salad Onions, finely chopped"
+						qty="4"
+						uom="" />
+					<ingredient
+						name="Garlic cloves, finely chopped"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Red chilli, finely chopped"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="grated Parmesan"
+						qty="2"
+						uom="tblsp" />
+					<ingredient
+						name="Thyme"
+						qty="2"
+						uom="tsp" />
+					<ingredient
+						name="Salt &amp; Pepper"
+						qty=""
+						uom="" />
+					<ingredient
+						name="Olive Oil"
+						qty="1"
+						uom="tblsp" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Red Wine"
+						qty="100"
+						uom="ml" />
+				</group>
+				<group id="C">
+					<ingredient
+						name="chopped Tomatoes"
+						qty="1"
+						uom="can" />
+					<ingredient
+						name="Bay Leaf"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Salt &amp; Pepper"
+						qty=""
+						uom="" />
+				</group>
+			</ingredients>
+			<instructions>
+				Mix together 'A' and shape into 12-15 small firm balls, adding more parmesan if 
+				not firm enough. Heat the oil in a large pan and fry the meatballs for 3-4 mins, 
+				shaking the pan frequently, until well browned. 
+				Add the Red wine and boil for 2 mins. Add 'C', boil &amp; simmer for 10 mins until cooked.
+			</instructions>
+			<comment>
+				Adapted from Ainsly Harriots Meals in minutes, ISBN: 0-563-38427-1
+			</comment>
+		</recipe>
+		
+		<recipe name="Cantonese Sweet &amp; Sour Pork"
+			qty="3-5 servings"
+			time="2 hrs"
+			tested="yes"
+			rating="8.5"
+			last-modified="19/05/2001">		
+			<instructions>
+				Cut meat into 2cm cubes. Mix it with A and marinate for at least 30 minutes,
+				overnight, if possible. Cut peppers (remove seeds and membranes) into 2cm
+				squares. Peel carrot and slice diagonally into thin slices.
+				Peel onion and cut into 2cm cubes. Drain pineapple. Set each aside
+				separately. Mix C together in a bowl and set aside. Heat 4 to 6 cups
+				of oil to deep frying temperature in a deep skillet or wok. While oil
+				is heating, individually coat each piece of meat, removing excess
+				marinade, with the almond flour (D). When oil is hot, add meat and
+				cook until golden brown, about 4 minutes. Remove meat from skillet
+				and drain well. Put 2 Tbsp. of oil in a clean wok and heat it up good
+				and hot. A carrot and cook 1 minute, then add onions for 2 minutes,
+				green peppers for 1 minute and pineapple for 1 minute -- 5 minutes
+				total. Pour in C and cook until thickened. Turn off heat.  Add meat
+				and stir well. Serve immediately.
+			</instructions>
+			
+			<ingredients>
+				<group>
+					<ingredient
+						name="Pork, Chicken or shelled Shrimp"
+						qty="0.5"
+						uom="kg" />
+				</group>
+				<group id="A">
+					<ingredient
+						name="Salt"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="Yeast Extract (Marmite)"
+						qty="0.5"
+						uom="tsp" />
+					<ingredient
+						name="Sake"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="Almond Flour"
+						qty="1"
+						uom="tbsp" />
+					<ingredient
+						name="Cold Water"
+						qty="1"
+						uom="tbsp" />
+					<ingredient
+						name="Egg Yolk"
+						qty="1"
+						uom="" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Red/ Green Pepper"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Carrots"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Onions"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Pineapple chunks"
+						qty="1"
+						uom="can" />
+				</group>
+				<group id="C">
+					<ingredient
+						name="Vinegar"
+						qty="4"
+						uom="tbsp" />
+					<ingredient
+						name="Tomato puree"
+						qty="3"
+						uom="tbsp" />
+					<ingredient
+						name="Honey"
+						qty="1.5"
+						uom="tbsp" />
+					<ingredient
+						name="Cold Water"
+						qty="4"
+						uom="tbsp" />
+					<ingredient
+						name="Pineapple juice"
+						qty="5"
+						uom="tbsp" />
+					<ingredient
+						name="cube of Onion"
+						qty="2"
+						uom="cm" />
+					<ingredient
+						name="Salt"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="Toasted Sesame Oil"
+						qty="1"
+						uom="tsp" />
+				</group>
+				<group id="D">
+					<ingredient
+						name="Almond Flour"
+						qty="1-2"
+						uom="cups" />
+				</group>
+			</ingredients>
+			<comment>
+				Adapted from recipe found on http://www.chopstix.com/
+			</comment>
+		</recipe>
+			
+		<recipe name="Quick Chinese Sweet &amp; Sour Pork"
+			qty="3-5 servings"
+			time="35 mins"
+			tested="yes"
+			rating="8"
+			last-modified="12/06/2001">			
+			<ingredients>
+				<group>
+					<ingredient
+						name="Pork, Chicken or shelled Shrimp"
+						qty="0.5"
+						uom="kg" />
+				</group>
+				<group id="A">
+					<ingredient
+						name="Red/ Green Pepper"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Carrots"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Onions"
+						qty="2"
+						uom="" />
+					<ingredient
+						name="Pineapple chunks"
+						qty="1"
+						uom="can" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Vinegar"
+						qty="1"
+						uom="cup" />
+					<ingredient
+						name="Tomato puree"
+						qty="6"
+						uom="tbsp" />
+					<ingredient
+						name="Honey"
+						qty="3"
+						uom="tbsp" />
+					<ingredient
+						name="Cold Water"
+						qty="1"
+						uom="cup" />
+					<ingredient
+						name="Pineapple juice"
+						qty="1.5"
+						uom="up" />
+					<ingredient
+						name="cube of Onion"
+						qty="4"
+						uom="cm" />
+					<ingredient
+						name="Salt"
+						qty="1"
+						uom="tsp" />
+					<ingredient
+						name="Toasted Sesame Oil"
+						qty="2"
+						uom="tsp" />
+					<ingredient
+						name="Synthi-soy Sauce"
+						qty="2"
+						uom="tbsp" />
+					<ingredient
+						name="Ginger root"
+						qty="1"
+						uom="cm cubed" />
+				</group>
+			</ingredients>
+			<instructions>
+				If using pork or chicken cut meat into 2cm cubes, 
+				stir-fry with oil until golden brown.
+				Cut peppers (remove seeds and membranes) 
+				into 2cm squares.  Peel carrot and slice diagonally into thin slices.
+				Peel onion and cut into 2cm cubes.  Drain pineapple.  Set each aside
+				separately.  Blend B together and set aside. 
+				Put 2 Tbsp. of oil in a clean wok and heat it up good and hot.  
+				Add carrot and cook 1 minute, then add onions for 2 minutes,
+				green peppers for 1 minute and pineapple for 1 minute - 5 minutes
+				total. Pour in C, add meat and stir well (if using shrimp, add now).
+				Heat through. Serve immediately.
+			</instructions>
+			<comment>
+				Adapted from recipe found on http://www.chopstix.com/
+			</comment>
+		</recipe>
+		
+		<recipe name="Frances's Bolognaise"
+			qty="1 kg (approx)"
+			time="35-40 min"
+			tested="yes"
+			rating="8"
+			last-modified="23/11/2000">
+			<instructions>
+				Chop the onions &amp; garlic finely; fry until just browning in butter &amp; olive oil with
+				half the herbs. Add the sliced bacon. While it's frying, cook the beef in a separate large pan 
+				until brown (10-15mins). Drain fat from beef and add onion mixture from the other pan. 
+				Add the (sliced) carrots, mushrooms, remaining herbs and tinned tomatoes. 
+				Simmer for 20-30 mins covered &amp; 10+ mins uncovered to reduce. Stir occasionally.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Olive Oil"
+					qty="1"
+					uom="tbsp" />
+				<ingredient
+					name="Butter"
+					qty="2"
+					uom="tsp" />				
+				<ingredient
+					name="Onions"
+					qty="2"
+					uom="Small" />
+				<ingredient
+					name="Garlic Cloves"
+					qty="4"
+					uom="Large" />
+				<ingredient
+					name="Minced Beef"
+					qty="1"
+					uom="kg" />
+				<ingredient
+					name="Carrots"
+					qty="1-2"
+					uom="" />
+				<ingredient
+					name="Mushrooms"
+					qty="2"
+					uom="handfulls" />
+				<ingredient
+					name="Chopped Tinned Tomatoes"
+					qty="2"
+					uom="cans" />
+				<ingredient
+					name="Bacon"
+					qty="3-4"
+					uom="rashers" />	
+				<ingredient
+					name="Herbs (Basil, Oregano, Bay leaves, Salt, Pepper, Italian Seasoning)"
+					qty="3-4"
+					uom="tbsp" />				
+			</ingredients>
+			<comment>
+				Frances Turners bolognaise recipe.
+			</comment>
+		</recipe>
+		
+		<recipe name="Chicken Croquettes"
+			qty="5-8 patties."
+			time="35-40 min"
+			tested="yes"
+			rating="7"
+			last-modified="06/09/2000">
+			<instructions>
+				Blend all ingredients until smooth. Using your hands, shape the mixture 
+				into burgers, about the size of your palm. It should be stiff enough to shape, 
+				if not add more almond flour, a little at a time until it can be handled easily.
+				Fry in butter over a medium heat, turning, until golden brown both sides.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="cooked, boneless, trimmed Chicken, Pork or Turkey"
+					qty="2"
+					uom="cups" />
+				<ingredient
+					name="Almond Flour"
+					qty="2-3"
+					uom="tbsp" />
+				<ingredient
+					name="Egg"
+					qty="1"
+					uom="" />
+				<ingredient
+					name="Onion"
+					qty="1"
+					uom="small" />
+				<ingredient
+					name="Salt, Pepper, Herbs"
+					qty=""
+					uom="" />
+				<ingredient
+					name="Butter for frying"
+					qty="2-3"
+					uom="tbsp" />
+			</ingredients>
+			<comment>
+				Taken from Elaine Gottchall's Breaking the Vicious cycle, IBSN: 0-9692768-1-8
+			</comment>
+		</recipe>
+		
+		<recipe name="Crunchy Almond Chicken"
+			qty=""
+			time="1 hr"
+			tested="yes"
+			rating="8"
+			last-modified="23/11/2000">
+			<instructions>
+				Cut chicken into small McNugget sized pieces.
+				Mix almonds, garlic, ginger, salt, paprika, cumin and pepper. Dip chicken pieces into butter; 
+				roll in almond mixture. Place chicken in ungreased baking pan. 
+				Cook uncovered in 375&deg;F/ 190&deg;C
+				oven until thickest pieces are done, 45 to 60 minutes. 
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Chicken, skinless, boneless &amp; trimmed "
+					qty="2-3"
+					uom="lbs" />
+				<ingredient
+					name="Almond Flour"
+					qty="1"
+					uom="cup" />
+				<ingredient
+					name="Garlic"
+					qty="1"
+					uom="clove" />
+				<ingredient
+					name="Ground Ginger"
+					qty="0.25"
+					uom="tsp" />
+				<ingredient
+					name="Salt"
+					qty="1"
+					uom="tsp" />
+				<ingredient
+					name="Paprika"
+					qty="1"
+					uom="tsp" />
+				<ingredient
+					name="Ground Cumin"
+					qty="0.25"
+					uom="tsp" />
+				<ingredient
+					name="Pepper"
+					qty="0.25"
+					uom="tsp" />
+				<ingredient
+					name="Butter"
+					qty="0.3"
+					uom="cup" />
+			</ingredients>
+			<comment>
+				Takes too long. I think these need to be battered. 
+				Maybe use more butter and an egg and blend the mixture
+				together?
+			</comment>
+		</recipe>
+		
+		<recipe name="Dunc's Chicken &amp; Shrimp gumbo"
+			qty=""
+			time="10 mins prep + 1 hr cooking"
+			tested="yes"
+			rating="6"
+			last-modified="14/12/00">
+			<ingredients>
+				<ingredient
+					name="Chicken thighs"
+					qty="6-8"
+					uom="" />
+				<ingredient
+					name="Bacon, smoked"
+					qty="2"
+					uom="rashers" />
+				<ingredient
+					name="Prawns"
+					qty="1"
+					uom="jug ?" />					
+				<ingredient
+					name="Carrots"
+					qty="2-3"
+					uom="" />
+				<ingredient
+					name="Squash"
+					qty="1"
+					uom="cup" />
+				<ingredient
+					name="Tomato puree"
+					qty="1"
+					uom="tbsp" />
+				<ingredient
+					name="Butter &amp; Olive Oil"
+					qty="2"
+					uom="tbsp" />
+				<ingredient
+					name="Onions"
+					qty="3"
+					uom="" />
+				<ingredient
+					name="Garlic"
+					qty="5"
+					uom="cloves" />
+				<ingredient
+					name="Leek"
+					qty="0.5"
+					uom="medium" />
+				<ingredient
+					name="each of Marjoram, Basil, Sage, Thyme, Corriander &amp; Pepper"
+					qty="2"
+					uom="tsp" />
+				<ingredient
+					name="each of Cayenne Pepper &amp; salt"
+					qty="0.5"
+					uom="tsp" />				
+			</ingredients>
+			<instructions>
+				Dice two onions and the garlic and sweat in the olive oil &amp; butter for about 5 mins, 
+				adding the herbs and bacon. When bacon is done add the tomato puree and boiling water and
+				stir. Add the chicken, carrots, squash and last onion, quartered. Top up pan with boiling water.
+				Simmer for 45 mins, part covered. Add the prawns and cook uncovered for 5-10 mins.
+			</instructions>
+			<comment>
+				This isn't really gumbo. I ought to investigate Cajun cooking really, although it's hard
+				to get the proper ingredients here.
+				Recipe created by me.
+			</comment>
+		</recipe>		
+	</section>
+	
+	<section type="Muffins">
+		<recipe name="Blueberry Muffins"
+			qty="16"
+			uom_p="muffins"
+			uom_s="muffin"
+			time="35-40 min"
+			tested="yes"
+			rating="9.95"
+			last-modified="26/05/2003">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Almond Flour"
+						qty="2.5"
+						uom="cups"
+						cost="2.00" />
+					<ingredient
+						name="Melted butter/ homemade yoghurt"
+						qty="0.25"
+						uom="cup"
+						cost="0.10" />
+					<ingredient
+						name="Honey"
+						qty="0.5"
+						uom="cup"
+						cost="0.40" />
+					<ingredient
+						name="Baking Soda"
+						qty="0.5"
+						uom="tsp"
+						cost="0.01" />
+					<ingredient
+						name="Salt (optional)"
+						qty="a"
+						uom="pinch"
+						cost="0.01" />
+					<ingredient
+						name="Eggs"
+						qty="3"
+						uom=""
+						cost="0.36" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Frozen Bluberries"
+						qty="125"
+						uom="g"
+						cost="1.25" />
+				</group>
+			</ingredients>
+			<instructions>
+				Blend 'A' until smooth, except for the blueberries.
+				Stir blueberries in to the batter. Line muffin tray with paper muffin cases.
+				Spoon batter into cases filling them about halfway.
+				Bake at 375&deg;F/ 190&deg;C for about 15-20 minutes or until the muffins
+				spring back when pressed.
+			</instructions>
+			<comment>
+				They come out more moist if you use yoghurt but that's about it.
+				Taken from Elaine Gottchall's Breaking the Vicious cycle, IBSN: 0-9692768-1-8
+			</comment>
+		</recipe>
+	</section>
+	
+	<section type="Fruit">
+		<recipe name="Peach yogurt Sherbet"
+			qty=""
+			time="35-40 min"
+			tested="no"
+			rating=""
+			last-modified="11/09/2000">
+			<instructions>
+				Blanche the peaches in boiling water for 20 seconds. Refresh under cold water
+				and remove skins. Remove pits and slice. Peel and slice the banana.
+				Freeze the fruit in plastic bags. When frozen, remove from the freezer, thaw a little
+				and break into chunks. Place the yogurt, honey, and vanilla in a food processor and 
+				add the frozen fruit. Using the pulse action, process until the fruit is mashed. 
+				Then blend until smooth. It will keep several weeks in the freezer. 
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="ripe Peaches"
+					qty="4-5"
+					uom="" />
+				<ingredient
+					name="Banana, medium ripe"
+					qty="1"
+					uom="small" />
+				<ingredient
+					name="homemade Yoghurt"
+					qty="1"
+					uom="cup" />
+				<ingredient
+					name="Honey"
+					qty="2-3"
+					uom="tbsp" />
+				<ingredient
+					name="Vanilla extract"
+					qty="2"
+					uom="tsp" />
+			</ingredients>
+		</recipe>
+		
+		<recipe name="Plums Poached in Apple Juice"
+			qty="approx. 8 portions"
+			time="60 mins"
+			tested="yes"
+			rating="9"
+			last-modified="23/11/2000">
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="ripe Plums"
+						qty="1"
+						uom="kg" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Apple Juice"
+						qty="1"
+						uom="ltr" />
+					<ingredient
+						name="Cinnamon Stick"
+						qty="1"
+						uom="" />
+					<ingredient
+						name="Honey"
+						qty="170"
+						uom="g" />
+				</group>
+				<group id="C">
+					<ingredient
+						name="Homemade Yoghurt"
+						qty=""
+						uom="" />	
+				</group>
+			</ingredients>
+			<instructions>
+				Preheat Oven to 150&deg;C/ 300&deg;F (gas mark 2). 
+				Put the Apple Juice, Cinnamon Stick &amp; honey into a saucepan, bring to the boil
+				and simmer for 10 mins, stirring, to make a light syrup.
+				Arrange the halved and stoned plums in a snug single layer in a roasting tin. Pour the honey
+				syrup over the plums and place in oven for 25-30 mins, basting twice. Remove the plums 
+				from the tin and reduce the juices by half on the hob, boiling hard. Pour over the plums
+				and leave to cool. Serve cold with creamy homemade yoghurt.
+			</instructions>
+			<comment>
+				Modified from a recipe in Country Living magazine.
+			</comment>
+		</recipe>
+	</section>
+	
+	<section type="Soups">
+		<recipe name="Split Pea &amp; Ham Soup"
+			qty="4"
+			uom_p="bowls"
+			uom_s="bowl"
+			time="24hrs + 1hr"
+			tested="yes"
+			rating="7"
+			last-modified="10/01/2003">
+			
+			<instructions>
+				Stir 'A' into a pan, and boil, adding 'B' while it heats up. 
+				Skim off any scum from the peas which forms on the surface using a spoon.
+				Simmer from about an hour, stirring occasionally.
+			</instructions>
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Vegetable Stock"
+						qty="0.5"
+						uom="ltr"
+						cost="0.05"/>
+					<ingredient
+						name="Garlic"
+						qty="2"
+						uom="cloves"
+						cost="0.20" />
+					<ingredient
+						name="Pepper"
+						qty=""
+						uom=""
+						cost="0.01" />
+					<ingredient
+						name="Tomato Juice"
+						qty="0.25 - 0.5"
+						uom="can"
+						cost="0.40" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Split Peas"
+						qty="500"
+						uom="g"
+						cost="0.49" />
+					<ingredient
+						name="Gammon or bacon"
+						qty="750"
+						uom="g"
+						cost="3.98" />
+				</group>
+			</ingredients>
+			<comment>
+				Modified from the back of a bag of Sainsbury's split green peas.
+			</comment>
+		</recipe>
+	</section>
+	
+	<section type="Beans">
+		<recipe name="Beans &amp; Bacon"
+			qty="8"
+			uom_p="servings"
+			uom_s="serving"
+			time="3-4 hours, + overnight"
+			tested="yes"
+			rating="8"
+			last-modified="13/01/2003">
+			<instructions>
+				Put A in a saucepan, bring slowly to the boil and simmer for 1-1.5 hours until 
+				almost tender. Drain the beans, saving the liquid.
+				Fry B for 3-4 minutes, turning once or twice, transfer to a deep casserole dish.
+				Put the onion (D) into the dish and pour the beans (A) in on top.
+				Blend C and pour over the beans. Cover the pot and bake at 300&deg;F for 2-3 hours, 
+				adding more water if necessary. 
+				Remove the lid for the last 30 minutes to brown the top.
+			</instructions>
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Haricot beans, soaked overnight"
+						qty="500"
+						uom="g"
+						cost="0.50"/>
+					<ingredient
+						name="Water to cover"
+						qty=""
+						uom=""
+						cost="0"/>
+				</group>
+				<group id="B">
+					<ingredient
+						name="Unsalted Butter"
+						qty="25"
+						uom="g"
+						cost="0.06"/>
+					<ingredient
+						name="sliced Gammon or Bacon"
+						qty="300"
+						uom="g"
+						cost="3.98"/>
+				</group>
+				<group id="C">					
+					<ingredient
+						name="English Mustard Powder/ mustard"
+						qty="2"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Water from cooking the Beans"
+						qty=""
+						uom=""
+						cost="0"/>
+					<ingredient
+						name="Unsalted Butter"
+						qty="25"
+						uom="g"
+						cost="0.06" />
+					<ingredient
+						name="Dark, strong, Honey"
+						qty="2"
+						uom="tsp"
+						cost="0.10" />
+					<ingredient
+						name="Salt"
+						qty="a"
+						uom="pinch"
+						cost="0.01" />
+					<ingredient
+						name="Tomato Juice/ Passata"
+						qty="3"
+						uom="cups"
+						cost="0.40" />
+					<ingredient
+						name="Marmite/ yeast extract"
+						qty="0.5"
+						uom="tsp"
+						cost="0.02" />
+				</group>
+				<group id="D">
+					<ingredient
+						name="Onion, quartered"
+						qty="1"
+						uom="medium"
+						cost="0.04" />
+				</group>
+			</ingredients>
+			<comment>
+				Pretty good pseudo tinned baked beans if you leave out the
+				gammon.
+			</comment>
+		</recipe>
+
+		<recipe name="Homemade Refried Beans"
+			qty="4"
+			uom_s="serving"
+			uom_p="servings"
+			time="24 hrs + 2h:15m"
+			tested="no"
+			rating=""
+			last-modified="11/09/2000">
+			<instructions>
+				Put beans in dutch oven or large pot. Cover beans with water and soak overnight. 
+				Drain. Cover with fresh water and cook on low heat until soft, about 2 hours. Drain.
+				
+				After cooked, place 1 1/2 - 2 cups of beans with the other ingredients in blender. 
+				Blend until smooth (some chunky beans will remain). 
+				One small bag will make about 4 batches, which can be frozen and used when needed.
+			</instructions>
+			<ingredients>
+				<group id="">
+					<ingredient
+						name="Pinto Beans"
+						qty="500"
+						uom="g"
+						cost="0.70" />
+					<ingredient
+						name="Butter"
+						qty="2"
+						uom="tsp"
+						cost="0.02" />
+					<ingredient
+						name="Homemade Yoghurt"
+						qty="1"
+						uom="tbsp"
+						cost="0.50" />
+					<ingredient
+						name="Galic Powder"
+						qty="0.125"
+						uom="tbsp"
+						cost="0.02" />
+					<ingredient
+						name="Salt &amp; Pepper"
+						qty=""
+						uom=""
+						cost="0.01" />
+				</group>
+			</ingredients>
+			<comment>
+				recipe taken from http://www.scdiet.org/
+			</comment>
+		</recipe>
+	</section>
+<!--
+	<section type="Sweets">
+		<recipe name="Nougat"
+			qty="1.5 lbs"
+			time="60 mins"
+			tested="no"
+			rating=""
+			last-modified="14/01/2001"
+			scd-legal="no">
+			<instructions>
+				Wet the inside of a 12"x4" or 7"x7" tin and line with rice paper. Melt the honey
+				in a basin over hot water, add the stiffly beaten egg whites and continue to beat until
+				the mixture is pale and thick. Add the cherries and angelica to the almonds. Dissolve the sugar
+				in the water in a small heavy-bottomed pan. Add the glucose and boil to 266&deg;F/ 130&deg;C 
+				(soft crack stage) Pour this syrup on to the honey mixture, add the vanilla essence and continue 
+				beating over hot water until a little of the mixture forms a hard when tested in cold water.
+				This may take 30-40 minutes, but is very important if the nougat is to set firmly. add the fruit and
+				nuts and put the mixture in the tin. Cover with rice paper, put some weights on top and leave until 
+				quite cold. Cut into pieces and wrap in waxed paper.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Rice Paper"
+					qty=""
+					uom="" />
+				<ingredient
+					name="Honey"
+					qty="3"
+					uom="oz" />
+				<ingredient
+					name="Egg Whites"
+					qty="3"
+					uom="" />
+				<ingredient
+					name="Glace Cherries, chopped"
+					qty="2"
+					uom="oz" />
+				<ingredient
+					name="Angelica, chopped"
+					qty="1"
+					uom="oz" />
+				<ingredient
+					name="Almonds, chopped"
+					qty="5"
+					uom="oz" />
+				<ingredient
+					name="Sugar"
+					qty="12"
+					uom="oz" />
+				<ingredient
+					name="Water"
+					qty="1"
+					uom="pt" />
+				<ingredient
+					name="Glucose"
+					qty="2"
+					uom="oz" />
+				<ingredient
+					name="Vanilla Essence"
+					qty="a"
+					uom="dash" />					
+			</ingredients>
+		</recipe>
+		<recipe name="Coconut Ice"
+			qty="1.5 lbs"
+			time=""
+			tested="no"
+			rating=""
+			last-modified="14/01/2001"
+			scd-legal="no">
+			<instructions>
+				Grease a 8"x6" tin. Dissolve the sugar in the milk over a low heat, Bring to the 
+				boil and boil gently for 10 minutes, or until a temperature of 240&deg;F/ 115&deg;C
+				is reached (soft ball stage). Remove from heat and stir in the coconut. Pour half the
+				mixture quickly into the tin, colour the second half and pour quickly over the first layer.
+				Leave until half set, mark into bars and cut or break when cold.
+			</instructions>
+			<ingredients>
+				<ingredient
+					name="Sugar"
+					qty="1"
+					uom="lb" />
+				<ingredient
+					name="Milk"
+					qty="1"
+					uom="pt" />
+				<ingredient
+					name="Desiccated coconut"
+					qty="5"
+					uom="oz" />
+				<ingredient
+					name="Colouring"
+					qty=""
+					uom="" />			
+			</ingredients>
+		</recipe>
+	</section>
+	-->
+</recipes>
+
+<!--
+New, not yet added:
+_______________________________________________________________
+
+Baked Seafood Au Gratin
+Submitted by: Katy B. Minchew     
+ 
+Makes 8 servings  
+Prep Time: 20 Minutes
+Cook Time: 1 Hour 35 Minutes
+Ingredients    
+ 
+1 onion, chopped 
+1 green bell pepper, chopped 
+1 cup butter 
+1 cup all-purpose flour 
+1 pound fresh crab meat 
+4 cups water 
+1 pound medium shrimp - peeled and deveined 
+1/2 pound bay scallops 
+1/2 pound flounder fillets 
+3 cups milk 
+1 cup shredded sharp Cheddar cheese 
+1 tablespoon distilled white vinegar 
+1 teaspoon Worcestershire sauce 
+1/2 teaspoon salt 
+1 pinch ground black pepper 
+1 dash hot pepper sauce 
+1/2 cup grated Parmesan cheese 
+ 
+
+Directions    
+ 
+1 Lightly grease one 13x9x2 inch baking dish. 
+2 In a heavy skillet, saute the onion and the pepper in 1/2 cup of the
+butter or margarine. Cook until tender. Stir in 1/2 cup of the flour and cook over medium heat for 10 minutes, stirring
+frequently. Add the crabmeat and stir well. Press this mixture into the bottom of the prepared baking dish and set aside.
+3 In a large Dutch oven, bring the water to a boil. Add the shrimp, scallops and flounder. Simmer for 3 minutes. Drain
+and reserve 1 cup of the cooking liquid and set the seafood aside. 
+4 Preheat oven to 350 degrees F (175 degrees C). 
+5 In a heavy saucepan, melt the remaining 1/2 cup butter over low heat. Stir in the remaining 1/2 cup flour. Cook and stir
+constantly for 1 minute. Gradually add the milk plus the 1 cup reserved cooking liquid. Raise heat to medium and cook,
+stirring constantly, until the mixture is thickened and bubbly. Stir in the shredded Cheddar cheese, vinegar,
+Worcestershire sauce, salt, pepper, and hot sauce. Add the cooked seafood and stir gently. 
+6 Spoon the seafood mixture
+over the crabmeat crust and sprinkle with the Parmesan cheese. Bake in the preheated oven for 30 minutes or until lightly
+browned. Serve immediately.
+
+_______________________________________________________________
+
+
+Gingerade - Traditional Shaker recipe
+1 1/2 to 2 tablespoons minced fresh ginger
+1/2 tablespoon grated lemon zest
+5 cups boiling water                  
+2 tablespoons freshly squeezed lemon juice or more to taste
+4 tablespoons honey or to taste
+
+Put the ginger 
+and lemon zest in a pitcher and pour in the boiling water. 
+Stir, then let seep about 1 hour. Strain the liquid. Stir 
+in the lemon juice and honey. Taste and add more lemon juice 
+or honey if desired. Serve chilled.
+Serves 4-6
+
+_______________________________________________________________
+
+
+Almond-Honey Crisps Variation
+
+1.5 cup pecan meal or groung almonds
+1/4 c. butter
+1/3 -1/2 c. honey
+1 t. vanilla (unsweetened)
+Mix together and spread in a greased round pan, about 15cm diameter. Put an
+upturned cup in the center and fill the dish, making a ring. Remove the cup.
+Cover with blueberries, sliced apples, rasberries or rhubarb drizzle  with honey
+and bake at 375 degrees F. ~15 min.- until crisp.
+                  
+_______________________________________________________________
+
+
+> beans
+
+Sweet Hot Pinto Beans
+
+1 (16-oz) package  dried pinto beans
+2-3 dried red chiles, washed, stemmed, and seeded
+4 slices bacon, chopped
+2 teaspoons salt 
+1 large onion, quartered 
+1 medium green pepper, chopped
+1/4 cup honey Sort and wash beans; soak overnight. 
+Drain off soak water and add fresh water to cover beans. Add chiles, bacon, salt, 
+Bring to a boil; cover, reduce heat, and simmer 1 1/2 hours. Add remaining ingredients
+and additional water, if needed; cover and simmer 30 minutes or until beans are tender. 
+Remove chiles before serving. NOTE: To make refried beans, heat 1 tablespoon vegetable 
+oil per cup of cooked beans in large, heavy skilled.
+
+Add beans, and mash to desired consistency, stirring as needed until thoroughly heated. 
+Add additional cooking liquid from beans, if necessary.
+
+Editor's note: Pinto beans are not listed in BTVC. We suggest using a SCD-legal bean instead.
+
+
+> beans
+
+White / Navy Bean Skordalia
+
+(for all you Greek food fans!)
+
+1 can navy beans (rinsed, soaked 24+ hours, drained)
+3 cloves garlic (or more to taste)
+juice of 1/4 lemon
+2 T. olive oil
+
+
+
+
+
+Place all ingredients in a blender and puree until smooth - 
+can add water by the teaspoon if mixture is too thick.
+
+This is a great dip for all sorts of veggies.
+
+Baked Beans
+
+ 2 lb Pea navy beans
+      1 c  White sugar
+    1/2 c  Syrup or honey
+    1/2 ts Mustard
+      1    Pork "honk"
+           -=OR=-
+    3/4 lb Salt pork, rinsed
+    
+
+
+
+Haricot Bean Salad, Grecian Style 
+
+Ingredients:
+8 oz (225 gm) haricot beans 
+1 bayleaf 
+8 Tbs olive oil or half olive, half vegetable oil 
+juice of 1 lemon 
+1/2 pint (150 ml) water 
+2 cloves garlic, crushed, 
+1 onion, peeled 
+1 tsp sea salt 
+freshly ground black pepper 
+2 tsp tomato puree 
+2 sprigs thyme 
+
+Directions:
+Soak the beans for a couple of hours or so, then drain them and rinse 
+them and cook them in plenty of water until nearly tender; drain. 
+Heat the oil in a good sized saucepan, add the beans and cook them 
+very gently for about 10 minutes, then stir in the garlic, sea salt, 
+tomato puree, thyme, bayleaf and water (you can use some of the water 
+in which the beans were cooked) and simmer gently, without a lid, until
+the liquid has reduced to a thick, terracotta-coloured sauce and the beans are tender. 
+Cool, then add the lemon juice and the onion, sliced into thin rounds. 
+Season with more sea salt and freshly ground black pepper if necessary. 
+Chill the salad and serve sprinkled with chopped parsley. 
+
+
+
+Pumpkin and Haricot Bean Soup
+Prep and cook time: 30 mins to 1 hour
+Serves: 4
+
+Ingredients
+675g (1 1/2lb) pumpkin flesh, cubed
+400g (14oz) haricot beans, rinced and drained
+450g (1lb) sweet potatoes, peeled and cubed
+1 tbsp olive oil
+1 large onion, chopped
+2 cloves garlic, crushed
+1 tsp mixed dried herbs
+1 tsp sage, chopped
+1 1/2 litres (2 1/2 pints) vegetable stock
+salt and freshly ground black pepper
+Method
+Heat the oil in a large saucepan and fry the onion and garlic 
+for about 10 minutes until softened and starting to colour.
+Add the pumpkin, sweet potato and herbs and cook for a further 5 minutes.
+Add the vegetable stock and bring to the boil. Cover the pan and simmer 
+for 30 minutes, until the vegetables are cook until tender.
+Add the haricot beans and season to taste with salt and pepper. 
+Cook for 5 minutes, then serve hot with crusty bread. 
+Recipe courtesy of The Vegetarian Society's Simply Good Food Cookbook (GBP19.99, Harper Collins)
+
+
+
+Boston Baked Bean Soup
+Serves: 4
+Ingredients
+1 small onion, finely chopped
+2 x 400g (14oz) cans of chopped tomatoes
+1 heaped tbsp tomato puree
+110g (4oz) haricot beans soaked overnight and cooked until tender in boiling water or
+1x 400g can of canellini beans, rinsed with water and drained well
+570ml (1 pint) chicken stock
+2 medium potatoes, peeled and chopped
+110g (4oz) cooked ham, chopped into thick pieces
+ground black pepper
+Method
+Preheat the oven to 180&deg;C/350&deg;F/gas mark 4
+Place the onion on a flameproof casserole dish with a little water to prevent sticking. 
+Cover and cook over a gentle heat for about 10 minutes until tender.
+Add the chopped tomatoes and tomato pur&eacute;e. Raise the heat slightly, 
+uncover and simmer gently reducing the liquid until it becomes a thick sauce.
+Pour the beans into the casserole dish with a quarter of the stock. 
+Cover with a lid and bake in the oven for 20 minutes.
+Pour the rest of the stock into a saucepan and add the potatoes. 
+Bring to the boil and cook until the potatoes are tender.
+Pour the potato mixture into a food processor and pur&eacute;e.
+When the beans have finished baking add the pur&eacute;ed potato 
+and cook in the oven until thoroughly hot. 
+Season with black pepper and garnish with the ham.
+
+
+
+
+Chinese Plum Sauce 
+Makes about 1 1/4 cups
+Ingredients:
+1 12-ounce jar plum preserves
+2 tablespoons vinegar
+1 tablespoon brown sugar
+1 tablespoon minced onion
+1 teaspoon minced ginger
+1 teaspoon minced red chile or crushed red pepper
+1 clove garlic, minced
+Directions:
+Combine all ingredients in a saucepan. 
+Bring to a boil, stirring constantly, then simmer a few 
+minutes to blend flavors.
+Let cool, then chill. Tastes best if refrigerated, covered, 
+overnight to allow seasonings to mellow. 
+Will keep refrigerated for several days. 
+
+
+
+
+Plum Sauce
+
+2 heaping spoonfuls plum jam (about 1/4 cup, I think)
+1-2 Tbsp soy sauce
+1/2 tsp hot chili oil
+1 tsp sesame oil
+1/4 tsp freshly grated ginger
+(1 tsp rice vinegar or sherry)
+The plum jam I used was very sweet (compared to the stuff I used to get), 
+so I added more soy sauce and some rice vinegar to cut the sugar. 
+The soy and chili oil are the most important additions.
+If the result is too thin, mix (maybe a teaspoon) cornstarch with 
+enough water to make a paste, add that, and then cook the mixture till 
+it bubbles a little. It should thicken upon cooling. (The plum jam will 
+thin out when heated, so it ends up thinner when warm than before you 
+added the cornstarch. Fear not.) You can make it all ahead of time and 
+store in the refrigerator, so there's time to make adjustments.
+
+
+'Healthfull' Carrot Cake
+
+INGREDIENTS
+3 cups grated carrots
+1 cup soaked, chopped dry fruit
+1 cup chopped nuts
+0.5 cup honey
+1 teaspoon cinnamon
+0.25 teaspoon nutmeg
+Wheat germ (optional)
+Mix ingredients together, adding wheat germ if necessary so mixture is not 
+too moist. Press into a rounded bowl and turn out onto a plate. Chill well 
+to set shape. For a festive air, you can frost this with yogurt sprinkled 
+with nuts and surround the plate with fresh evergreens. Enjoy!
+
+
+Almond Soup Balls 
+
+2 eggs, separated 
+dash salt 
+1 tsp grated lemon rind 
+1/4 lb ground almonds 
+
+Beat egg yolks and add ground almonds, 
+salt and lemon rind. Mix. Fold in stiffly 
+beaten egg whites. Heat oil 1 inch deep 
+in skillet. Drop batter by teaspoonful 
+into skillet and fry until golden brown. 
+Drain on brown paper. Serve in soup.
+-->

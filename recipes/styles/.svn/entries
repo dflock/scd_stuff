@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-05-16T12:38:56.187500Z"
+   url="file:///C:/Documents%20and%20Settings/Dunc/My%20Documents/Subversion/www.dflock.co.uk/trunk/colitis/recipes/styles"
+   last-author="Dunc"
+   kind="dir"
+   uuid="d5a87923-9d08-3c46-b3f4-422942fe2ee2"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="recipes.xsl"
+   text-time="2005-05-16T12:52:03.921875Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="66d172901c9742ccecdbf10412e56dc9"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.828125Z"/>
+<entry
+   committed-rev="2"
+   name="recipes.css"
+   text-time="2005-05-16T12:52:03.921875Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="2ac719f9632b21d336ba42a5da258740"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.843750Z"/>
+<entry
+   committed-rev="2"
+   name="recipe old.xsl"
+   text-time="2005-05-16T12:52:03.984375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="ae481c2847d75bbe2318d0e89fba41dd"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.890625Z"/>
+</wc-entries>

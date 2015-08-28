@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-05-16T12:38:56.187500Z"
+   url="file:///C:/Documents%20and%20Settings/Dunc/My%20Documents/Subversion/www.dflock.co.uk/trunk/colitis/foods"
+   last-author="Dunc"
+   kind="dir"
+   uuid="d5a87923-9d08-3c46-b3f4-422942fe2ee2"
+   revision="2"/>
+<entry
+   committed-rev="10"
+   name="enumbers.xml"
+   text-time="2006-01-12T20:14:37.328125Z"
+   committed-date="2006-03-05T19:29:53.031250Z"
+   checksum="19fc00a74a55dc435b5645f92d72088b"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.140625Z"
+   revision="10"/>
+<entry
+   name="styles"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="enumbers.html"
+   text-time="2005-05-16T12:52:03.328125Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="51f8a17d35fa8af257f47792ef9f4e57"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.156250Z"/>
+<entry
+   committed-rev="2"
+   name="foods lite.xml"
+   text-time="2005-05-16T12:52:03.406250Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="bba1e0622274c84725fdb8b071f43e9d"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.265625Z"/>
+<entry
+   committed-rev="7"
+   name="foods.xml"
+   text-time="2005-08-27T13:39:54.203125Z"
+   committed-date="2005-09-01T02:07:26.265625Z"
+   checksum="29c6421d2edfd7226750bf32274358d4"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.281250Z"
+   revision="7"/>
+<entry
+   committed-rev="2"
+   name=".htaccess"
+   text-time="2005-05-16T12:52:03.421875Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="b3542c515456a0a32c7d94d60d0a6f71"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.281250Z"/>
+<entry
+   committed-rev="2"
+   name="enumbers.tsv"
+   text-time="2005-05-16T12:52:03.421875Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="caf59e8c6823d256929836f46b636b94"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.296875Z"/>
+<entry
+   committed-rev="7"
+   name="foods.html"
+   text-time="2005-08-27T13:39:57.953125Z"
+   committed-date="2005-09-01T02:07:26.265625Z"
+   checksum="26447b1b4dff61d26cbb1e4b66ca8c9f"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.296875Z"
+   revision="7"/>
+<entry
+   committed-rev="2"
+   name="enumbers.wml"
+   text-time="2005-05-16T12:52:03.437500Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="87da45d926ee89f2c95fb7c52a377115"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.312500Z"/>
+</wc-entries>

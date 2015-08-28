@@ -1,0 +1,1044 @@
+<html>
+
+<head>
+  <SCRIPT language="JavaScript">
+<!--
+/*
+Disable right mouse click Script (By Crash @
+http://walk.to/crash)
+Submitted to and permission granted to Dynamicdrive.com to feature script in it's archive
+For full source code to this script and 100's more, visit http://dynamicdrive.com
+*/
+var message="Sorry! This is a No Right Click Zone!";
+function click(e) {
+if (document.all) {
+if (event.button==2||event.button==3) {
+alert(message);
+return false;
+}
+}
+if (document.layers) {
+if (e.which == 3) {
+alert(message);
+return false;
+}
+}
+}
+if (document.layers) {
+document.captureEvents(Event.MOUSEDOWN);
+}
+document.onmousedown=click;
+// -->
+  </SCRIPT>
+<title>Conversion Chart from Real Food for Real People</title>
+<meta name="Microsoft Border" content="tb">
+</head>
+
+<body background="images/realbkgrd.jpg" bgcolor="#FFFFFF" text="#800000" link="#000000"
+vlink="#C0C0C0" alink="#0000FF"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#E7CEC7">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" background="_borders/rusticheck.jpg"
+height="220">
+  <tr>
+    <td width="100%" height="220">&nbsp;<div align="center"><center><table border="0"
+    cellpadding="0" cellspacing="0" width="94%" background="_borders/rusticbkgrd.jpg">
+      <tr>
+        <td width="19%"><p align="center"><a href="index.html"><img border="0"
+        src="_borders/rusticlogo.jpg" align="absbottom" width="123" height="137"></a><br>
+        </td>
+        <td width="60%"><p align="center">
+        <applet code="Banner.class" height="75" width="468"
+        codebase="http://www.cyberbounty.com/adserver/">
+          <param name="window" value="_blank">
+          <param name="c" value="1061">
+        </applet>
+        </p>
+        <p align="center"><MAP NAME="FrontPageMap"><AREA SHAPE="RECT" COORDS="384, 6, 447, 40" HREF="faqs.html" TARGET="_blank"><AREA SHAPE="RECT" COORDS="365, 41, 432, 72" HREF="homepage.html" TARGET="_blank"><AREA SHAPE="RECT" COORDS="290, 6, 366, 41" HREF="index.html"><AREA SHAPE="RECT" COORDS="191, 7, 267, 38" HREF="contact.html" TARGET="_blank"><AREA SHAPE="RECT" COORDS="176, 39, 300, 71" HREF="books.html" TARGET="_blank"><AREA SHAPE="RECT" COORDS="102, 7, 175, 40" HREF="order.html" TARGET="_blank"><AREA SHAPE="RECT" COORDS="57, 38, 140, 70" HREF="sub.html" TARGET="_blank"><AREA SHAPE="RECT" COORDS="10, 7, 92, 38" HREF="sponsor.html" TARGET="_blank"></MAP><a href="_vti_bin/shtml.exe/convert.html/map"><img src="_borders/rusticmenu.jpg" alt="rusticmenu.jpg (11547 bytes)" border="0" ismap usemap="#FrontPageMap"></a><br>
+        &nbsp; </td>
+        <td width="21%"><p align="center"><img border="0" src="_borders/rusticspoonjar.jpg"
+        align="absbottom" width="130" height="130"><br>
+        </td>
+      </tr>
+    </table>
+    </center></div><p>&nbsp;</td>
+  </tr>
+</table>
+</center></div>
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><!--msnavigation--><td valign="top">
+
+<table border="0" width="698">
+  <tr>
+    <td width="694"><p align="center"><a
+    name="Conversion &amp; Ingredient Tables"><strong><font face="Arial" size="5" color="#800000">Conversion &amp; Ingredient Tables</font></strong></a></p>
+    <blockquote>
+      <blockquote>
+        <hr>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="694"><blockquote>
+      <blockquote>
+        <p><u><strong><font face="Arial" size="4" color="#606060">Conversion Tables</font></strong></u></p>
+        <p><strong><font face="Arial" color="#606060"><a
+        href="convert.html#Oven Temperature Conversions"><font size="2">Oven Temperatures Conversions</font></a><font size="2"><br>
+        <a href="convert.html#US Liquid Measurements">US Liquid Measurements</a><br>
+        <a href="convert.html#US Can Sizes">US Can Sizes</a><br>
+        <a href="convert.html#International Liquid Measurements">International Liquid Measurements</a><br>
+        <a href="convert.html#British Measurements">British Measurements</a><br>
+        <a href="convert.html#Australian Measurements">Australian Measurements</a><br>
+        <a href="convert.html#Metric Spoon Conversions">Metric Spoon Conversions</a></font><font
+        face="Arial" size="3"><br>
+        </font></font></strong></p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="694"><blockquote>
+      <blockquote>
+        <p><a
+        href="convert.html#Substitutions &amp; Equivalents"><u><strong><font face="Arial" size="4" color="#606060">Substitutions and
+        Equivalents</font> </strong></u></a></p>
+        <p style="letter-spacing: normal"><strong><a
+        href="convert.html#Flours~"><font face="Arial" size="2" color="#606060">Flours</font></a><font face="Arial" size="2" color="#606060"><br>
+        <a href="convert.html#Dairy Products~">Dairy Products</a><br>
+        <a href="convert.html#Sugars &amp; other Sweeteners~">Sugar and Other Sweeteners</a><br>
+        <a href="convert.html#Leavening Agents~">Leavening Agents</a><br>
+        <a href="convert.html#Starches~">Starches</a><br>
+        <a href="convert.html#Fats~">Fats</a><br>
+        <a href="#Chocolates~">Chocolates</a></font><font face="Arial" size="2" color="#000080"><br>
+        </font>
+        </strong></p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="694"><p align="center"><font color="#990000" size="6" face="Arial"><strong>Conversion
+    Tables</strong></font></p>
+    <blockquote>
+      <blockquote>
+        <hr>
+        <p align="center"><font size="4" face="Arial"><a name="Oven Temperature Conversions"><strong>Oven
+        Temperature Conversions</strong></a></font></p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="694"><div align="center"><center><table border="1" width="92%"
+    bordercolor="#800000" height="23" align="right">
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><u><strong>Farenheit</strong></u></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><u><strong>Centigrade</strong></u></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><u><strong>Gas Mark</strong></u></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><u><strong>Description</strong></u></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>225 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>105 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>1/4</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Very Cool</strong></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>250 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>120 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>1/2</strong></font></td>
+        <td width="25%" height="17" align="center"></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>275 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>130 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>1</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Cool</strong></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>300 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>150 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>2</strong></font></td>
+        <td width="25%" height="17" align="center"></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>325 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>165 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>3</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Very
+        Moderate</strong></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>350 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>180 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>4</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Moderate</strong></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>375 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>190 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>5</strong></font></td>
+        <td width="25%" height="17" align="center"></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>400 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>200 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>6</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Moderately
+        Hot</strong></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>425 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>220 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>7</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Hot</strong></font></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>450 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>230 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>8</strong></font></td>
+        <td width="25%" height="17" align="center"></td>
+      </tr>
+      <tr>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>475 F</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>245 C</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>9</strong></font></td>
+        <td width="25%" height="17" align="center"><font face="Arial" size="2"><strong>Very Hot</strong></font></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+
+<p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+
+<table border="0" width="90%">
+  <tr>
+    <td width="100%"><p align="center"><font size="4" face="Arial"><a
+    name="US Liquid Measurements"><strong>US Liquid Measurements</strong></a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="1" width="93%"
+    bordercolor="#800000" align="right">
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 gallon</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">4 quarts</font></strong></td>
+        <td width="46%"><strong><font face="Arial" size="2" color="#606060">3.79 L&nbsp; (can
+        round to 4L)</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 quart</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">2 pints</font></strong></td>
+        <td width="46%"><strong><font face="Arial" size="2" color="#606060">.95 L&nbsp; (can round
+        to 1L)</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 pint</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">2 cups</font></strong></td>
+        <td width="46%"><strong><font face="Arial" size="2" color="#606060">16 fl. oz. or 450 ml</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 cup</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">8 fl oz</font></strong></td>
+        <td width="46%"><strong><font face="Arial" size="2" color="#606060">225 ml (can round to
+        250ml)</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 tablespoon&nbsp;
+        (Tbsp.)</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">1/2 fl oz</font></strong></td>
+        <td width="46%"><strong><font face="Arial" size="2" color="#606060">16 ml (can round to 15
+        ml)</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 teaspoon (tsp.)</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">1/3 tablespoon</font></strong></td>
+        <td width="46%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+  <tr>
+    <td width="100%"><p align="center"><a
+    href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+    <p align="center"><font size="4" face="Arial"><a name="US Can Sizes"><strong>US Can Sizes</strong></a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="1" width="87%"
+    bordercolor="#800000">
+      <tr>
+        <td width="28%" align="center"><u><strong><font face="Arial" size="2" color="#606060">Can
+        Size</font></strong></u></td>
+        <td width="41%" align="center"><u><strong><font face="Arial" size="2" color="#606060">Contents</font></strong></u></td>
+        <td width="31%" align="center"><u><strong><font face="Arial" size="2" color="#606060">Approx.
+        Cups</font></strong></u></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">5 ounce</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">5 oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">5/8</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">8 ounce</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">8 oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">Picnic</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">10 1/2
+        to 12&nbsp; oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1 1/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">12 oz.
+        vacuum</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">12 oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">No. 300</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">14 - 16
+        oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">No. 303</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">16 - 17
+        oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">No. 2</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">1 lb. 4
+        oz. or 1 pint 2 fl. oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">2 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">No. 2
+        1/2</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">1 lb.
+        13 oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">3 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">No. 3</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">46 fl.
+        oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1 1/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">Condensed
+        Milk</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">14 fl.
+        oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1 1/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center"><strong><font face="Arial" size="2" color="#606060">Evaporated
+        Milk</font></strong></td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">5 1/3
+        fl. oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">2/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%" align="center">&nbsp;</td>
+        <td width="41%" align="center"><strong><font face="Arial" size="2" color="#606060">13 fl.
+        oz.</font></strong></td>
+        <td width="31%" align="center"><strong><font face="Arial" size="2" color="#606060">1 2/3</font></strong></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+  <tr>
+    <td width="100%"><p align="center"><a
+    href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+    <p align="center"><font size="4" face="Arial"><a name="International Liquid Measurements"><strong>International
+    Liquid Measurements</strong></a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="1" width="88%"
+    bordercolor="#800000">
+      <tr>
+        <td width="25%" align="center"><strong><font face="Arial" size="2" color="#606060">Country</font></strong></td>
+        <td width="24%" align="center"><strong><font face="Arial" size="2" color="#606060">Standard
+        Cup</font></strong></td>
+        <td width="26%" align="center"><strong><font face="Arial" size="2" color="#606060">Standard
+        Teaspoon</font></strong></td>
+        <td width="25%" align="center"><strong><font face="Arial" size="2" color="#606060">Standard
+        Tablespoon</font></strong></td>
+      </tr>
+      <tr>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">Canada</font></strong></td>
+        <td width="24%"><strong><font face="Arial" size="2" color="#606060">250 ml</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">15 ml</font></strong></td>
+      </tr>
+      <tr>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">Australia</font></strong></td>
+        <td width="24%"><strong><font face="Arial" size="2" color="#606060">250 ml</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">20 ml</font></strong></td>
+      </tr>
+      <tr>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">UK</font></strong></td>
+        <td width="24%"><strong><font face="Arial" size="2" color="#606060">250 ml</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">15 ml</font></strong></td>
+      </tr>
+      <tr>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">New Zealand</font></strong></td>
+        <td width="24%"><strong><font face="Arial" size="2" color="#606060">250 ml</font></strong></td>
+        <td width="26%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+        <td width="25%"><strong><font face="Arial" size="2" color="#606060">15 ml</font></strong></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+
+<p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+
+<table border="0" width="90%">
+  <tr>
+    <td width="100%"><p align="center"><font size="4" face="Arial"><a
+    name="British Measurements"><strong>British Measurements</strong></a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="1" width="82%"
+    bordercolor="#800000">
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 UK pint</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">6 dl</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 UK liquid oz</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">0.96 US liquid oz</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 pint</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">570 ml</font></strong></td>
+        <td width="40%"><strong><font face="Arial" size="2" color="#606060">20 fl oz</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 breakfast cup</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">10 fl oz</font></strong></td>
+        <td width="40%"><strong><font face="Arial" size="2" color="#606060">1/2 pint</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 tea cup</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">1/3 pint</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">15 ml</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 dessert spoon</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">10 ml</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 teaspoon</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+        <td width="40%"><strong><font face="Arial" size="2" color="#606060">1/3 Tablespoon</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 ounce</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">28.4 g</font></strong></td>
+        <td width="40%"><strong><font face="Arial" size="2" color="#606060">can round to 25 or 30</font></strong></td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 pound</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">454 g</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="28%"><strong><font face="Arial" size="2" color="#606060">1 kg</font></strong></td>
+        <td width="32%"><strong><font face="Arial" size="2" color="#606060">2.2 pounds</font></strong></td>
+        <td width="40%">&nbsp;</td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+
+<p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+
+<table border="0" width="90%">
+  <tr>
+    <td width="100%"><p align="center"><font size="4" face="Arial"><a
+    name="Australian Measurements"><strong>Australian Measurements</strong></a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="1" width="83%"
+    bordercolor="#800000">
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">Metric Cups</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">Grams</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">Ounces</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup butter</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">250</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">8 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup biscuit (cookie)
+        crumbs</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">110</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">3 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup breadcrumbs,
+        soft</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">60</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup breadcrumbs, dry</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">125</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">4 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup cheese, grated</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">125</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">4 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup cocoa</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">110</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">3 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup cornflour
+        (cornstarch)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">125</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">4 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup cornflakes</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">30</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">1</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup rice bubbles
+        (rice krispies)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">30</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">1</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup coconut (flaked)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">95</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">3 1/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup dried split peas
+        or lentils</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">200</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">7</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup dried fruit</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">160</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">5 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup dates (chopped)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">150</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">5 1/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup flour (plain or
+        self-rising)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">125</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">4 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup flour (whole
+        wheat)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">135</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">4 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup golden syrup,
+        honey or glucose</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">360</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">12 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup jam</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">330</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">11 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup nuts (chopped)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">125</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">4 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup oats (rolled)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">90</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">3 1/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup rice (short
+        grain)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">210</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">7 1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup rice (long
+        grain)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">200</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">7</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup salt or crystal
+        sugar</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">250</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">8 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup castor sugar
+        (superfine)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">220</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">7 3/4</font></strong></td>
+      </tr>
+      <tr>
+        <td width="55%"><strong><font face="Arial" size="2" color="#606060">1 cup soft brown sugar
+        (packed)</font></strong></td>
+        <td width="23%"><strong><font face="Arial" size="2" color="#606060">170</font></strong></td>
+        <td width="22%"><strong><font face="Arial" size="2" color="#606060">6</font></strong></td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+
+<p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+
+<table border="0" width="90%">
+  <tr>
+    <td width="100%"><p align="center"><font size="4" face="Arial"><a
+    name="Metric Spoon Conversions"><strong>Metric Spoon Conversions</strong></a></font></td>
+  </tr>
+  <tr>
+    <td width="100%"><div align="center"><center><table border="1" width="87%"
+    bordercolor="#800000">
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon peanut
+        butter</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">20</font></strong></td>
+        <td width="15%"><strong><font face="Arial" size="2" color="#606060">2/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon baking
+        powder, bicarb soda, cream of tartar, gelatin, rice or sago</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">15</font></strong></td>
+        <td width="15%"><strong><font face="Arial" size="2" color="#606060">1/2</font></strong></td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon cocoa,
+          corn flour, custard powder or nuts</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">10</font></strong></td>
+        <td width="15%"><strong><font face="Arial" size="2" color="#606060">1/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon golden
+        syrup, treacle, honey or glucose</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">30</font></strong></td>
+        <td width="15%"><strong><font face="Arial" size="2" color="#606060">1</font></strong></td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon sugar or
+        salt</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">20</font></strong></td>
+        <td width="15%"><strong><font face="Arial" size="2" color="#606060">2/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon yeast,
+        compressed</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">20</font></strong></td>
+        <td width="15%"><strong><font face="Arial" size="2" color="#606060">2/3</font></strong></td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 Tablespoon =</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">20 ml</font></strong></td>
+        <td width="15%">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="68%"><strong><font face="Arial" size="2" color="#606060">1 teaspoon =</font></strong></td>
+        <td width="17%"><strong><font face="Arial" size="2" color="#606060">5 ml</font></strong></td>
+        <td width="15%">&nbsp;</td>
+      </tr>
+    </table>
+    </center></div></td>
+  </tr>
+</table>
+
+<p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+
+<table border="0" width="90%">
+  <tr>
+    <td width="100%"><p align="center"><a
+    name="Substitutions &amp; Equivalents"><u><strong><font size="5" face="Arial" color="#800000">Substitutions &amp; Equivalents</font></strong></u></a></td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <hr>
+        <p align="left"><strong><font face="Arial" size="2" color="#800000">Have you ever been
+        right in the middle of a recipe and you realize you are missing one of the ingredients
+        which you 'thought' you had?&nbsp; Here are a few ideas which may help you to 'save the
+        day'.</font></strong></p>
+        <hr>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <font face="Lucida Casual" size="4"><strong><p><a name="Flours~"><font color="#800000">Flours~</font></a></p>
+        </strong></font><p><strong><font face="Arial" size="2" color="#800000">US &amp; UK all
+        purpose and plain flour can be interchanged without any adjustments.&nbsp; US cake flour
+        is lighter however, and can be substituted with 1 cup minus 3 Tbsp. of all purpose/plain
+        flour, and add 3 Tbsp. of cornstarch or potato flour to make the full cup.&nbsp; Self
+        rising flour can be made by substituting 1 cup of all purpose/plain flour minus 2 tsp.,
+        and add 1 1/2 tsp. baking powder and 1/2 tsp. salt to make the full cup.&nbsp; US whole
+        wheat flour is interchangeable with UK wholemeal flour.</font></strong></p>
+        <p align="center"><a
+        href="convert.html#Conversion &amp; Ingredient Tables"><font size="3" color="#800000">back to top</font></a></p>
+        <p align="center">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <font face="Lucida Casual" size="4"><strong><p><a name="Dairy Products~">Dairy Products~</a></p>
+        </strong></font><p><strong><font face="Arial" size="2">Evaporated milk &amp; Condensed
+        Sweetened milk are both sold in cans.&nbsp; Both are similar in consistency and color, but
+        they are not the same.&nbsp; Condensed Sweetened milk (such as Eagle brand) is mixed with
+        sugar and a higher concentrate of dry milk.&nbsp; A recipe for a homemade version of this
+        can be found by doing a search on our website by <a href="homepage.html">clicking here</a>
+        and scrolling down to the search box.</font></strong></p>
+        <p><strong><font face="Arial" size="2">Recipes calling for buttermilk or cultured milk can
+        be made by creating your own 'sour milk' substitute.&nbsp; Add one Tbsp. of vinegar or
+        lemon juice to each cup of sweet milk, then let stand for about 5 minutes.&nbsp; Use as
+        directed in your recipe, and you won't be able to tell the difference.</font></strong></p>
+      </blockquote>
+    </blockquote>
+    <blockquote>
+      <blockquote>
+        <p><strong><font face="Arial" size="2">The table below will give you an idea of the
+        percentage of milk fat in each type of milk product.</font></strong></p>
+      </blockquote>
+    </blockquote>
+    <blockquote>
+      <blockquote>
+        <div align="center"><center><table border="1" width="451" bordercolor="#800000">
+          <tr>
+            <td width="209" align="center"><font face="Arial" size="2" color="#800000"><strong>Dairy
+            Product</strong></font></td>
+            <td width="116" align="center"><font face="Arial" size="2" color="#800000"><strong>US</strong></font></td>
+            <td width="108" align="center"><font face="Arial" size="2" color="#800000"><strong>UK</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Whipping Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>30%</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>35%</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Whipped Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>n/a</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>35%</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Clotted Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>n/a</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>55%</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Double Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>n/a</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>48%</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Heavy Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>36%</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>n/a</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Half Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>'Half &amp; Half'</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>12%</strong></font></td>
+          </tr>
+          <tr>
+            <td width="209"><font face="Arial" size="2" color="#800000"><strong>Single Cream</strong></font></td>
+            <td width="116"><font face="Arial" size="2" color="#800000"><strong>'Light Cream'</strong></font></td>
+            <td width="108"><font face="Arial" size="2" color="#800000"><strong>18%</strong></font></td>
+          </tr>
+        </table>
+        </center></div><font size="3"><p align="left">&nbsp;</p>
+        </font>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="90%">
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <p><font face="Arial" size="2" color="#800000"><strong>Quark (or Quarg) Is a soft,
+        unripened cheese with the texture and flavor of sour cream. Quark comes in both lowfat and
+        nonfat. The calories are the same (35 per ounce) in both types, the texture of lowfat
+        Quark is richer than that of lowfat sour cream. It has a milder flavor and richer texture
+        than lowfat yogurt. Quark can be used as a sour cream substitute to top baked potatoes,
+        and in a variety of dishes including cheesecakes, dips, salads and sauces.</strong></font></p>
+        <p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables"><font size="3">back
+        to top</font></a></p>
+        <p align="center">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <p><a
+        name="Sugars &amp; other Sweeteners~"><strong><font face="Lucida Casual" size="4" color="#606060">Sugars &amp; other Sweeteners~</font></strong></a></p>
+        <p><strong><font face="Arial" size="2" color="#606060">US superfine sugar can be used in
+        place of UK castor sugar.&nbsp; These sugars are finer than regular granulated
+        sugar.&nbsp; Most times, you can use regular granulated sugar in place of castor sugar
+        with no ill effects. &nbsp; UK/Aust/NZ icing sugar can be used in place of US
+        confectioner's/powdered sugar. &nbsp; You will occasionally find one of these which
+        contains 5% cornstarch or corn flour.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#606060">Sugar or golden syrup can by
+        substituted for US corn syrup.&nbsp; You will find that corn syrup comes in two forms-
+        light and dark. &nbsp; Dark corn syrup is similar in texture and flavor to molasses, and
+        can be used in place of molasses if needed.&nbsp; Many times recipes will list light corn
+        syrup as 'Karo' brand syrup.&nbsp; Golden syrup is a thick, light brown byproduct of the
+        sugar cane refining process.&nbsp; Many times recipes will list golden syrup as 'Lyle's'
+        brand syrup, or 'Chelsea' brand syrup.&nbsp; Light corn syrup is an acceptable substitute,
+        or a homemade version can be quickly mixed up by mixing 2 cups sugar and 1 cup water, then
+        boiling for 1 minute.&nbsp; Be certain to cool your homemade version before using it in
+        any recipe.&nbsp; You may also find blackstrap molasses listed in a recipe or two, and may
+        substitute black treacle for it if needed.</font></strong></p>
+        <p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables"><font size="3">back
+        to top</font></a></p>
+        <p align="center">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <strong><font face="Arial" size="3"><p></font><a name="Leavening Agents~"><font face="Lucida Casual" size="4"
+        color="#800000">Leavening Agents~</font></a><font face="Arial"
+        size="3"></p>
+        </font></strong><p><strong><font face="Arial" size="2" color="#800000">Baking soda is made
+        from 'sodium bicarbonate'.&nbsp; Recipes listing this as an ingredient always contain some
+        type of acidic ingredient, because this is what activates the baking soda.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Baking powder is made from a
+        powdered acid and baking soda, and can be activated in a recipe without adding any other
+        acidic ingredients. &nbsp; A substitute for baking powder can be made as follows:</font></strong></p>
+        <p><strong><font face="Lucida Casual" size="4" color="#800000">Baking Powder Substitute~</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Mix 1/4 tsp. Baking Soda plus 1/2
+        tsp. Cream of Tartar&nbsp;&nbsp; This mixture can be used to substitute 1 tsp. baking
+        powder.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Eggs are often times used as
+        leavening agents in recipes, and so it is important to never add or remove eggs from the
+        recipe until you know if this is why they have been included in the recipe.&nbsp; An egg
+        substitute which can be used in a pinch is as follows:</font></strong></p>
+        <p><strong><font face="Arial" size="3" color="#800000">~Egg Substitute</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">For use in baking only, soften 1
+        tsp. unflavored gelatin in 1 Tbsp. cold water.&nbsp; Add 2 Tbsp. plus 1 tsp. boiling water
+        and mix. &nbsp; This mixture may be used to substitute for 1 egg when baking.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Another good egg substitute to use
+        in baking only, is to use 1 heaping Tbsp. Soy Flour dissolved in 2 Tbsp. water.&nbsp; This
+        mixture may be used to substitute for 1 egg when baking.</font></strong></p>
+        <p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables"><font size="3">back
+        to top</font></a></p>
+        <p align="center">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <strong><font face="Arial" size="3"><p></font><font face="Lucida Casual" size="4"
+        color="#606060"><a name="Starches~">Starches~</a></font><font face="Arial" size="3"></p>
+        </font></strong><p><font face="Arial" size="2" color="#606060"><strong>US cornstarch and
+        UK corn flour may be interchanged.&nbsp; Potato flour is a starch as well and may be
+        substituted for cornstarch.&nbsp; US corn flour is actually finely ground cornmeal, and
+        this may be confusing in many recipes.&nbsp; Double check with the author of your recipe
+        if you are in doubt as to whether your recipe calls for US or UK corn flour.&nbsp;
+        Generally, US corn flour/cornmeal is used in larger amounts as a major ingredient in a corn
+        bread type recipe, or as a coating for fried/baked meats or vegetables.&nbsp; UK
+        corn flour/cornstarch is used in small amounts as a thickening agent in baked goods or
+        puddings and gravies. &nbsp; If your recipe calls for cornstarch/corn flour as a thickening
+        agent, you may substitute twice the amount called for in flour, and get the same results,
+        if the recipe is being heated to a boil.&nbsp; Flour will give a cloudier result however,
+        so if you need a clear result, do not use it as a substitute.</strong></font></p>
+        <p><strong><font face="Arial" size="2" color="#606060">Arrowroot is a white powder
+        extracted from the root of a West Indian plant.&nbsp; It looks and feels like
+        cornstarch.&nbsp; Arrowroot has no flavor and may also be used as a thickening agent for
+        sauces, pies, puddings and glazes. &nbsp;&nbsp; Arrowroot mixtures thicken at a lower
+        temperature than mixtures made with flour or cornstarch.&nbsp; Mix arrowroot with cool
+        liquids before adding hot liquids, then cook until mixture thickens.&nbsp; Remove from
+        heat immediately to prevent mixture from thinning.&nbsp; 2 tsp. of arrowroot can be&nbsp;
+        substituted for 1 Tbsp. of cornstarch. &nbsp; Arrowroot makes clear, shimmering fruit gels
+        and prevents ice crystals from forming on homemade ice cream.</font><font face="Arial"
+        size="2" color="#000080"><br>
+        </font></strong></p>
+        <p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+        <p align="center">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <strong><font face="Arial" size="3"><p></font><a name="Fats~"><font face="Lucida Casual" size="4"
+        color="#800000">Fats~</font></a><font face="Arial" size="3"></p>
+        </font></strong>
+      </blockquote>
+    </blockquote>
+    <blockquote>
+      <blockquote>
+        <p><strong><font face="Arial" size="2" color="#800000">A 'stick' or 'cube' or 'square' of
+        butter or margarine is equal to 1/2 cup US or 4 ounces or approximately 100 grams.&nbsp;
+        There are 8 Tbsp. to each 1/4 pound 'stick' of butter or margarine.&nbsp; Many times
+        manufacturers mark the paper wrapper with measurements so you can slice off the exact
+        amount of butter or margarine needed without the use of a measuring spoon or measuring
+        cup.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Shortening is a solid, white
+        colored fat made from hydrogenated vegetable oil.&nbsp; (A common US brand is Crisco, and
+        this may be used to name this ingredient in many US recipes.)&nbsp; Shortening is sold in
+        both plain and butter flavors in the US.&nbsp; Many times you may substitute butter or
+        margarine for shortening in recipes, but this will result in a different flavor due to the
+        fact that vegetable shortening has a very bland, nondescript flavor.&nbsp;</font> </strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Another substitution which may be
+        used is Lard. &nbsp; Lard is rendered and clarified pork fat.&nbsp; The quality of lard
+        depends on the area of the pig which the fat came from.&nbsp; The very best is 'leaf lard'
+        which comes from the fat around the animal's kidneys.&nbsp; Unprocessed lard has quite a
+        strong flavor and a soft texture.&nbsp; Lard can be processed in many ways, including
+        filtering, bleachin, hydrogenation and emulsification.&nbsp; In general, processed lard is
+        firmer (about the consistency of shortening) and has a milder, nutlike flavor.&nbsp; Lard
+        can also have a longer shelf life than butter, margarine or shortening.&nbsp; Lard is
+        richer than many other fats, and therefore makes extremely tender, flaky biscuits and
+        pastries. &nbsp; It's a flavorful fat for frying and is widely used throughout South
+        America and many European countries.&nbsp; When substituting lard for butter in baking,
+        reduce the amount by 20 to 25 percent.&nbsp; All lard should be tightly wrapped to prevent
+        absorbtion of other flavors.&nbsp; It may be stored at room temperature or in the
+        refrigerator, depending on how it has been processed.&nbsp; Always check the label for
+        storage directions.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Copra is a solid fat derived from
+        coconuts. &nbsp; It is fairly saturated and used in recipes where it is melted, combined
+        with other ingredients and left to set.&nbsp; This is sometimes referred to as coconut or
+        palm leaf lard.</font></strong></p>
+        <p><strong><font face="Arial" size="2" color="#800000">Deep frying requires fats/oils with
+        heat tolerant properties.&nbsp; Butter and margarine, as well as lard &amp; olive oil are
+        not good candidates for this type of cooking.&nbsp; Canola, Vegetable, Corn and Peanut
+        oils are widely used for deep frying.</font></strong></p>
+        <p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables"><font size="3">back
+        to top</font></a></p>
+        <p align="center">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%"><blockquote>
+      <blockquote>
+        <strong><font face="Arial" size="3"><p></font><a name="Chocolates~"><font face="Lucida Casual" size="4"
+        color="#606060">Chocolates~</font></a><font face="Arial" size="3"></p>
+        </font></strong>
+      </blockquote>
+    </blockquote>
+    <blockquote>
+      <blockquote>
+        <p><strong><font face="Arial" size="2" color="#606060">In recipes calling for unsweetened
+        baking chocolate, you may substitute 3 Tbsp. of unsweetened cocoa powder + 1 Tbsp. of
+        vegetable or olive oil, for each 1 ounce square.&nbsp; US dark chocolate and UK plain
+        chocolate are the same, the darkest, sweetest of eating chocolates.&nbsp; This chocolate
+        is also referred to as 'bittersweet',&nbsp; 'semi-sweet' or 'sweet dark'.&nbsp; US milk
+        chocolate and UK milk, or plain chocolate are also the same.&nbsp; When following a
+        recipe, please remember that chocolate chips contain an ingredient which slows the melting
+        process, and bar chocolates do not contain this same ingredient.&nbsp; 'Bitter' chocolate
+        is a term used in the UK for high quality plain chocolate.</font></strong></p>
+      </blockquote>
+    </blockquote>
+    </td>
+  </tr>
+</table>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <hr>
+    </blockquote>
+      <p align="center"><strong><font face="Arial" size="3" color="#800000">If the information
+      you were looking for was not found on this webpage please <a href="faqs.html">click here</a>
+      to go to our Frequently Asked Cooking Questions.</font></strong></p>
+  </blockquote>
+</blockquote>
+
+<p align="center"><a href="convert.html#Conversion &amp; Ingredient Tables">back to top</a></p>
+
+<blockquote>
+  <blockquote>
+    <hr>
+  </blockquote>
+</blockquote>
+&nbsp;<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td bgcolor="#E7CEC7">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" background="_borders/rusticheck.jpg"
+height="128">
+  <tr>
+    <td width="100%" height="128"><br>
+    <div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="95%"
+    background="images/rusticbkgrd.jpg">
+      <tr>
+        <td width="20%"><p align="center"><img src="_borders/rustic6.jpg" alt="rustic6.jpg (2708 bytes)" width="100" height="100"></td>
+        <td width="54%">&nbsp;<p align="center"><b><font face="Arial" size="1" color="#400000">copy
+        right Kaylin White/Real Food for Real People&nbsp; 1994-2002 &nbsp;&nbsp; <a
+        href="disclaimer.htm" target="_blank">Real Food for Real People</a></font></b></p>
+        <blockquote>
+          <blockquote>
+            <p align="center"><b><font face="Arial" size="1" color="#400000">The recipes and material
+            offered on this site are for personal use only and may not be copied or used for any other
+            purpose without written permission of list/site owner.</font></b></p>
+          </blockquote>
+        </blockquote>
+        <p align="center"><font face="Arial" size="1"><span lang="en-us"><a target="_blank"
+        href="terms.html">List Terms</a><br>
+        </span></font></td>
+        <td width="26%"><p align="center"><img src="_borders/rustic3.jpg" alt="rustic3.jpg (3373 bytes)" width="100" height="100"></td>
+      </tr>
+      <tr>
+        <td width="20%"><a target="_top" href="http://y.extreme-dm.com/s/?tag=realfood"><font
+        size="1" color="white"><img src="http://y1.extreme-dm.com/i/" height="38" border="0"
+        width="41" alt></font></a></td>
+        <td width="54%"><font face="Arial" size="1"><span lang="en-us"><p align="center"></span></font><img
+        src="images/WebDesignbyKaylin.jpg" alt="WebDesignbyKaylin.jpg (3684 bytes)" width="250" height="35"><font
+        face="Arial" size="1"><span lang="en-us"></span></font></td>
+        <td width="26%"><p align="center"><img src="_vti_bin/fpcount.exe/?Page=_borders/bottom.htm|Image=4" alt="Hit Counter"></td>
+      </tr>
+    </table>
+    </center></div><p>&nbsp;</td>
+  </tr>
+</table>
+</td></tr><!--msnavigation--></table></body>
+</html>

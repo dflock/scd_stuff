@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>Conversions</title>
+		<link rel="stylesheet" href="../../styles/default.css" />
+		<link rel="stylesheet" href="../../styles/tables.css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" xml:lang="x-Latin1" lang="x-Latin1" />
+
+		<style>
+			body { background-color: #fff; }
+		</style>
+	</head>
+
+	<body>
+		<h1>Conversions</h1>
+
+		<h2>Temperature</h2>
+
+		<p>
+		<math xmlns="http://www.w3.org/1998/Math/MathML">
+			<mrow>
+				<mi>&deg;F</mi>
+				<mo>=</mo>
+				<mn>1.8</mn>
+				<mo>*</mo>
+				<mi>&deg;C</mi>
+				<mo>+</mo>
+				<mn>32</mn>
+			</mrow>
+		</math>
+		</p>
+
+		<p>
+		<math xmlns="http://www.w3.org/1998/Math/MathML">
+			<mrow>
+				<mi>&deg;C</mi>
+				<mo>=</mo>
+				<mo>(</mo>
+				<mi>&deg;F</mi>
+				<mo>-</mo>
+				<mn>32</mn>
+				<mo>)</mo>
+				<mo>/</mo>
+				<mn>1.8</mn>
+			</mrow>
+		</math>
+		</p>
+		<br />
+		<table>
+			<tr>
+				<th>fahrenheit</th>
+				<th>centigrade (celcius)</th>
+				<th>gas mark</th>
+				<th>temperature</th>
+			</tr>
+			<tr>
+				<td>150</td>
+				<td>70</td>
+				<td>1/4</td>
+				<td rowspan="4" valign="middle">cool</td>
+			</tr>
+			<tr>
+				<td>175</td>
+				<td>80</td>
+				<td>1/4</td>
+			</tr>
+			<tr>
+				<td>200</td>
+				<td>100</td>
+				<td>1/2</td>
+			</tr>
+			<tr>
+				<td>225</td>
+				<td>110</td>
+				<td>1/2</td>
+			</tr>
+			<tr>
+				<td>250</td>
+				<td>130</td>
+				<td>1</td>
+				<td rowspan="2">very
+				low</td>
+			</tr>
+			<tr>
+				<td>275</td>
+				<td>140</td>
+				<td>1</td>
+			</tr>
+			<tr>
+				<td>300</td>
+				<td>150</td>
+				<td>2</td>
+				<td>low</td>
+			</tr>
+			<tr>
+				<td>325</td>
+				<td>170</td>
+				<td>3</td>
+				<td rowspan="2">moderate</td>
+			</tr>
+			<tr>
+				<td>350</td>
+				<td>180</td>
+				<td>4</td>
+			</tr>
+			<tr>
+				<td>375</td>
+				<td>190</td>
+				<td>5</td>
+				<td>moderately hot&nbsp;&nbsp;</td>
+			</tr>
+			<tr>
+				<td>400</td>
+				<td>200</td>
+				<td>6</td>
+				<td>fairly hot</td>
+			</tr>
+			<tr>
+				<td>425</td>
+				<td>220</td>
+				<td>7</td>
+				<td>hot</td>
+			</tr>
+			<tr>
+				<td>450</td>
+				<td>230</td>
+				<td>8</td>
+				<td rowspan="2">very hot</td>
+			</tr>
+			<tr>
+				<td>475</td>
+				<td>240</td>
+				<td>8</td>
+			</tr>
+			<tr>
+				<td>500</td>
+				<td>250</td>
+				<td>9</td>
+				<td rowspan="3">extremely hot</td>
+			</tr>
+			<tr>
+				<td>525</td>
+				<td>270</td>
+				<td>9</td>
+			</tr>
+			<tr>
+				<td>550</td>
+				<td>290</td>
+				<td>9</td>
+			</tr>
+		</table>
+<!--
+	Validator currently has a problem with MathML, or at least my MathML.
+		<br />
+		<br />
+		<a href="http://validator.w3.org/check/referer"><img	style="border:0; width:66px; height:23px" src="../../images/vxhtml10 small.gif" alt="valid xhtml 1.0!" height="23" width="66" /></a>
+		<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0; width:66px; height:23px" src="../../images/vcss small.gif" alt="valid css!" /></a>
+-->
+	</body>
+</html>

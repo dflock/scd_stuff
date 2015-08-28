@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./styles/remedies.xsl" type="text/xsl" ?>
+
+<!--
+<remedies>
+	<section type="">
+		<remedy name=""
+			qty=""
+			time=""
+			tested="no"
+			rating=""
+			last-modified="02 September 2002">
+			
+			<ingredients>
+				<group id="">
+					<ingredient
+						name=""
+						qty=""
+						uom="" />
+				</group>
+			</ingredients>
+			<instructions>
+			</instructions>
+			<comment>
+			</comment>
+		</remedy>
+	</section>
+</remedies>
+-->
+
+<remedies>
+	<section type="Throats">
+		<remedy name="Sage Gargle"
+			qty="1 cup"
+			time="5 mins"
+			tested="yes"
+			rating="8"
+			last-modified="02/09/2002">
+			
+			<ingredients>
+				<ingredient
+					name="Fresh Sage Leaves"
+					qty="a"
+					uom="few" />
+				<ingredient
+					name="Boiling Water"
+					qty="1"
+					uom="cup" />
+				<ingredient
+					name="Cider Vinegar"
+					qty="a"
+					uom="dash" />
+
+			</ingredients>
+			<instructions>
+				Pour boiling water into a cup. Add sage leaves and leave to
+				soak for 5 mins. Strain, leave to cool a little and add cider
+				vinegar. Garlge with mixture for relief of sore throats.
+			</instructions>
+			<comment>
+				You can use 1 tsp of dried sage instead of the fresh leaves, 
+				but it's not quite so effective.
+			</comment>
+		</remedy>
+		
+		<remedy name="Honey &amp; Lemon"
+			qty="1 cup"
+			time="10 mins"
+			tested="yes"
+			rating="7"
+			last-modified="20/06/2004">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Honey"
+						qty="1"
+						uom="tbsp" />
+					<ingredient
+						name="Lemon, juiced"
+						qty="1"
+						uom="large" />
+					<ingredient
+						name="Hot water"
+						qty=""
+						uom="" />
+				</group>
+			</ingredients>
+			<instructions>
+				Juice the lemon and pour into a large mug. Add Honey and top up with hot but not
+				boiling water. Drink.
+			</instructions>
+			<comment>
+			</comment>
+		</remedy>
+	</section>
+	
+	<section type="Colds &amp; Flu">
+		<remedy name="Tea for Flu"
+			qty="1 cup"
+			time="10 mins"
+			tested="yes"
+			rating="7"
+			last-modified="02/09/2002">
+			
+			<ingredients>
+				<group id="A">
+					<ingredient
+						name="Fresh Sage"
+						qty="2"
+						uom="tsp" />
+					<ingredient
+						name="Boiling Water"
+						qty="1"
+						uom="cup" />
+				</group>
+				<group id="B">
+					<ingredient
+						name="Juice of 1 Lemon"
+						qty=""
+						uom="" />
+					<ingredient
+						name="Cayenne Pepper"
+						qty="a"
+						uom="pinch" />
+					<ingredient
+						name="Honey"
+						qty="1"
+						uom="tsp" />
+				</group>
+			</ingredients>
+			<instructions>
+				Put sage into a cup, add boiling water. Leave for steep for 10 mins.
+				Strain and add 'B', stir and drink hot.
+			</instructions>
+			<comment>
+			</comment>
+		</remedy>
+	</section>
+</remedies>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-05-16T12:38:56.187500Z"
+   url="file:///C:/Documents%20and%20Settings/Dunc/My%20Documents/Subversion/www.dflock.co.uk/trunk/colitis/recipes"
+   last-author="Dunc"
+   kind="dir"
+   uuid="d5a87923-9d08-3c46-b3f4-422942fe2ee2"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="Lamb Curry with Nuts and Coconut Milk.txt"
+   text-time="2005-05-16T12:52:04.656250Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="e6ad32292889d33ef470926ea9972ff1"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.546875Z"/>
+<entry
+   committed-rev="2"
+   name="Dictionary of Units.html"
+   text-time="2005-05-16T12:52:04.687500Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="54c579dfa4a46eaf88ca3796bfef3626"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.546875Z"/>
+<entry
+   committed-rev="2"
+   name="Keema Matar - Ground Lamb with Tomatoes and Peas.txt"
+   text-time="2005-05-16T12:52:04.703125Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="57520d89a6bbdc9a4872c6b2a1f05fe0"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.671875Z"/>
+<entry
+   committed-rev="2"
+   name="test.html"
+   text-time="2005-05-16T12:52:04.765625Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="9175f89d818de237bbd0164ae97a8533"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.671875Z"/>
+<entry
+   committed-rev="2"
+   name="sweet and sour pork.html"
+   text-time="2005-05-16T12:52:04.765625Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="074e139df8971d21e781439e54ca7371"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.671875Z"/>
+<entry
+   committed-rev="2"
+   name="Madhur Jaffrey&apos;s Lemony Chicken with Fresh Coriander.txt"
+   text-time="2005-05-16T12:52:04.781250Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="55a1048b31e621b7dbfda66fcb28cf45"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.703125Z"/>
+<entry
+   committed-rev="2"
+   name="convert.html"
+   text-time="2005-05-16T12:52:04.765625Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="b59b36309b751391bc90cd5376dc8b11"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.687500Z"/>
+<entry
+   name="styles"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="Szegediner Gulasch.txt"
+   text-time="2005-05-16T12:52:04.781250Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="b53c7017892a15d88f3977b6a5d78967"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.031250Z"/>
+<entry
+   committed-rev="6"
+   name="dictunit.html"
+   text-time="2005-05-25T10:22:58.234375Z"
+   committed-date="2005-05-25T10:25:39.296875Z"
+   checksum="c4f74bffba3ed19937ed8cf3c7f430fc"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.062500Z"
+   revision="6"/>
+<entry
+   committed-rev="2"
+   name="soups.txt"
+   text-time="2005-05-16T12:52:04.812500Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="372570db419edbab24384db6434d36ae"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.062500Z"/>
+<entry
+   committed-rev="2"
+   name="recipes_original.dtd"
+   text-time="2005-05-16T12:52:04.812500Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="6c6707a98dcc50738b4aeb351ba46f40"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.062500Z"/>
+<entry
+   committed-rev="10"
+   name="recipes.xml"
+   text-time="2006-01-17T01:40:41.718750Z"
+   committed-date="2006-03-05T19:29:53.031250Z"
+   checksum="fab6d930a908610e2657945bf411cc31"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.078125Z"
+   revision="10"/>
+<entry
+   committed-rev="2"
+   name="Murgh Korma.txt"
+   text-time="2005-05-16T12:52:04.812500Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="6267f07fabd26ca76813ecb1cdb9e801"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.093750Z"/>
+<entry
+   committed-rev="2"
+   name="making yoghurt.html"
+   text-time="2005-05-16T12:52:04.828125Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="7184f7bbf3eeea9dc6623caed55d2f00"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.093750Z"/>
+<entry
+   committed-rev="2"
+   name="recipes.html"
+   text-time="2005-05-16T12:52:04.828125Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="314e6a556fa016b757af909cea322f91"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.109375Z"/>
+<entry
+   committed-rev="2"
+   name="Coriander Fish.txt"
+   text-time="2005-05-16T12:52:04.843750Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="68fd69c0422c73b4d5b101803859d804"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.625000Z"/>
+<entry
+   name="cdkeys.txt"
+   kind="file"
+   deleted="true"
+   revision="10"/>
+<entry
+   committed-rev="2"
+   name="recipes.dtd"
+   text-time="2005-05-16T12:52:04.859375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="518715beddd07c8e9625099feebef1a3"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.640625Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="Curried Lamb.txt"
+   text-time="2005-05-16T12:52:04.859375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="b35d424c6783ef80b04d14215eedba8e"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.640625Z"/>
+<entry
+   committed-rev="2"
+   name="publish.cmd"
+   text-time="2005-05-16T12:52:04.859375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="eb38998b8d04b0f28a85522b3fa42906"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.640625Z"/>
+<entry
+   committed-rev="10"
+   name="conversions.html"
+   text-time="2006-02-28T22:24:19.796875Z"
+   committed-date="2006-03-05T19:29:53.031250Z"
+   checksum="fffeb56bc60ffeab20aa79ac2aeb007f"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:04.656250Z"
+   revision="10"/>
+</wc-entries>

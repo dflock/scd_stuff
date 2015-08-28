@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>A Dictionary of Measures, Units &amp; Conversions</title>
+		<link rel="stylesheet" href="../../styles/default.css" type="text/css" />
+		<link rel="stylesheet" href="../../styles/tables.css" type="text/css" />
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" xml:lang="x-Latin1" lang="x-Latin1" />
+		<style type="text/css">
+		/*<![CDATA[*/
+			body { background-color: #fff; }
+			.conv { font-weight: bold; }
+			div { margin-left: 1.5em; }
+		/*]]>*/
+		</style>
+	</head>
+	<body>
+		<h1>A Dictionary of Units</h1>
+
+		<div>
+			<p>This provides a summary of most of the units of measurement to be found in use around the world
+			today, together with the appropriate conversion factors needed to
+			change them into a &#39;standard&#39; SI unit.</p>
+
+			<h2>Summary of common conversion factors</h2>
+
+			<table summary="Ths table of conversion factors for common units, consists of two groups of
+							three columns. Each group contains a column for: source unit, destination unit
+							and their conversion factor">
+				<caption>Summary table of conversion factors most often required</caption>
+
+				<colgroup class="left-cols">
+					<col span="2" />
+					<col align="char" char"." class="conv" />
+				</colgroup>
+				<colgroup class="right-cols">
+					<col span="2" />
+					<col align="char" char"." class="conv" />
+				</colgroup>
+				<thead>
+					<tr>
+						<th>To change</th>
+						<th>into</th>
+						<th>do this</th>
+						<th>To change</th>
+						<th>into</th>
+						<th>do this</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>acres</td>
+						<td>hectares</td>
+						<td>x 0.4047</td>
+						<td>kilograms</td>
+						<td>ounces</td>
+						<td>x 35.3</td>
+					</tr>
+					<tr>
+						<td>acres</td>
+						<td>sq. kilometres</td>
+						<td>/ 247</td>
+						<td>kilograms</td>
+						<td>pounds</td>
+						<td>x 2.2046</td>
+					</tr>
+					<tr>
+						<td>acres</td>
+						<td>sq. metres</td>
+						<td>x 4047</td>
+						<td>kilograms</td>
+						<td>tonnes</td>
+						<td>/ 1000 #</td>
+					</tr>
+					<tr>
+						<td>acres</td>
+						<td>sq. miles</td>
+						<td>/ 640 #</td>
+						<td>kilograms</td>
+						<td>tons (UK/long)</td>
+						<td>/ 1016</td>
+					</tr>
+					<tr>
+						<td>barrels (oil)</td>
+						<td>cubic metres</td>
+						<td>/ 6.29</td>
+						<td>kilograms</td>
+						<td>tons (US/short)</td>
+						<td>/ 907</td>
+					</tr>
+					<tr>
+						<td>barrels (oil)</td>
+						<td>gallons (UK)</td>
+						<td>x 34.97</td>
+						<td>kilometres</td>
+						<td>metres</td>
+						<td>x 1000 #</td>
+					</tr>
+					<tr>
+						<td>barrels (oil)</td>
+						<td>gallons (US)</td>
+						<td>x 42 #</td>
+						<td>kilometres</td>
+						<td>miles</td>
+						<td>x 0.6214</td>
+					</tr>
+					<tr>
+						<td>barrels (oil)</td>
+						<td>litres</td>
+						<td>x 159</td>
+						<td>litres</td>
+						<td>cubic inches</td>
+						<td>x 61.02</td>
+					</tr>
+					<tr>
+						<td>centimetres</td>
+						<td>feet</td>
+						<td>/ 30.48 #</td>
+						<td>litres</td>
+						<td>gallons (UK)</td>
+						<td>x 0.2200</td>
+					</tr>
+					<tr>
+						<td>centimetres</td>
+						<td>inches</td>
+						<td>/ 2.54 #</td>
+						<td>litres</td>
+						<td>gallons (US)</td>
+						<td>x 0.2642</td>
+					</tr>
+					<tr>
+						<td>centimetres</td>
+						<td>metres</td>
+						<td>/ 100 #</td>
+						<td>litres</td>
+						<td>pints (UK)</td>
+						<td>x 1.760</td>
+					</tr>
+					<tr>
+						<td>centimetres</td>
+						<td>millimetres</td>
+						<td>x 10 #</td>
+						<td>litres</td>
+						<td>pints (US liquid)</td>
+						<td>x 2.113</td>
+					</tr>
+					<tr>
+						<td>cubic cm</td>
+						<td>cubic inches</td>
+						<td>x 0.06102</td>
+						<td>metres</td>
+						<td>yards</td>
+						<td>/ 0.9144 #</td>
+					</tr>
+					<tr>
+						<td>cubic cm</td>
+						<td>litres</td>
+						<td>/ 1000 #</td>
+						<td>metres</td>
+						<td>centimetres</td>
+						<td>x 100 #</td>
+					</tr>
+					<tr>
+						<td>cubic cm</td>
+						<td>millilitres</td>
+						<td>x 1 #</td>
+						<td>miles</td>
+						<td>kilometres</td>
+						<td>x 1.609</td>
+					</tr>
+					<tr>
+						<td>cubic feet</td>
+						<td>cubic inches</td>
+						<td>x 1728 #</td>
+						<td>millimetres</td>
+						<td>inches</td>
+						<td>/ 25.4 #</td>
+					</tr>
+					<tr>
+						<td>cubic feet</td>
+						<td>cubic metres</td>
+						<td>x 0.0283</td>
+						<td>ounces</td>
+						<td>grams</td>
+						<td>x 28.35</td>
+					</tr>
+					<tr>
+						<td>cubic feet</td>
+						<td>cubic yards</td>
+						<td>/ 27 #</td>
+						<td>pints (UK)</td>
+						<td>litres</td>
+						<td>x 0.5683</td>
+					</tr>
+					<tr>
+						<td>cubic feet</td>
+						<td>gallons (UK)</td>
+						<td>x 6.229</td>
+						<td>pints (UK)</td>
+						<td>pints (US liquid)</td>
+						<td>x 1.201</td>
+					</tr>
+					<tr>
+						<td>cubic feet</td>
+						<td>gallons (US)</td>
+						<td>x 7.481</td>
+						<td>pints (US liquid)</td>
+						<td>litres</td>
+						<td>x 0.4732</td>
+					</tr>
+					<tr>
+						<td>cubic feet</td>
+						<td>litres</td>
+						<td>x 28.32</td>
+						<td>pints (US liquid)</td>
+						<td>pints (UK)</td>
+						<td>x 0.8327</td>
+					</tr>
+					<tr>
+						<td>cubic inches</td>
+						<td>cubic cm</td>
+						<td>x 16.39</td>
+						<td>pounds</td>
+						<td>kilograms</td>
+						<td>x 0.4536</td>
+					</tr>
+					<tr>
+						<td>cubic inches</td>
+						<td>litres</td>
+						<td>x 0.01639</td>
+						<td>pounds</td>
+						<td>ounces</td>
+						<td>x 16 #</td>
+					</tr>
+					<tr>
+						<td>cubic metres</td>
+						<td>cubic feet</td>
+						<td>x 35.31</td>
+						<td>square cm</td>
+						<td>sq. inches</td>
+						<td>x 0.1550</td>
+					</tr>
+					<tr>
+						<td>feet</td>
+						<td>centimetres</td>
+						<td>x 30.48 #</td>
+						<td>square feet</td>
+						<td>sq. inches</td>
+						<td>x 144 #</td>
+					</tr>
+					<tr>
+						<td>feet</td>
+						<td>metres</td>
+						<td>x 0.3048 #</td>
+						<td>square feet</td>
+						<td>sq. metres</td>
+						<td>x 0.0929</td>
+					</tr>
+					<tr>
+						<td>feet</td>
+						<td>yards</td>
+						<td>/ 3 #</td>
+						<td>square inches</td>
+						<td>square cm</td>
+						<td>x 6.4516 #</td>
+					</tr>
+					<tr>
+						<td>fl.ounces (UK)</td>
+						<td>fl.ounces (US)</td>
+						<td>x 0.961</td>
+						<td>square inches</td>
+						<td>square feet</td>
+						<td>/ 144 #</td>
+					</tr>
+					<tr>
+						<td>fl.ounces (UK)</td>
+						<td>millilitres</td>
+						<td>x 28.41</td>
+						<td>square km</td>
+						<td>acres</td>
+						<td>x 247</td>
+					</tr>
+					<tr>
+						<td>fl.ounces (US)</td>
+						<td>fl.ounces (UK)</td>
+						<td>x 1.041</td>
+						<td>square km</td>
+						<td>hectares</td>
+						<td>x 100 #</td>
+					</tr>
+					<tr>
+						<td>fl.ounces (US)</td>
+						<td>millilitres</td>
+						<td>x 29.57</td>
+						<td>square km</td>
+						<td>square miles</td>
+						<td>x 0.3861</td>
+					</tr>
+					<tr>
+						<td>gallons</td>
+						<td>pints</td>
+						<td>x 8 #</td>
+						<td>square metres</td>
+						<td>acres</td>
+						<td>/ 4047</td>
+					</tr>
+					<tr>
+						<td>gallons (UK)</td>
+						<td>cubic feet</td>
+						<td>x 0.1605</td>
+						<td>square metres</td>
+						<td>hectares</td>
+						<td>/ 10 000 #</td>
+					</tr>
+					<tr>
+						<td>gallons (UK)</td>
+						<td>gallons (US)</td>
+						<td>x 1.2009</td>
+						<td>square metres</td>
+						<td>square feet</td>
+						<td>x 10.76</td>
+					</tr>
+					<tr>
+						<td>gallons (UK)</td>
+						<td>litres</td>
+						<td>x 4.54609 #</td>
+						<td>square metres</td>
+						<td>square yards</td>
+						<td>x 1.196</td>
+					</tr>
+					<tr>
+						<td>gallons (US)</td>
+						<td>cubic feet</td>
+						<td>x 0.1337</td>
+						<td>square miles</td>
+						<td>acres</td>
+						<td>x 640 #</td>
+					</tr>
+					<tr>
+						<td>gallons (US)</td>
+						<td>gallons (UK)</td>
+						<td>x 0.8327</td>
+						<td>square miles</td>
+						<td>hectares</td>
+						<td>x 259</td>
+					</tr>
+					<tr>
+						<td>gallons (US)</td>
+						<td>litres</td>
+						<td>x 3.785</td>
+						<td>square miles</td>
+						<td>square km</td>
+						<td>x 2.590</td>
+					</tr>
+					<tr>
+						<td>grams</td>
+						<td>kilograms</td>
+						<td>/ 1000 #</td>
+						<td>square yards</td>
+						<td>square metres</td>
+						<td>/ 1.196</td>
+					</tr>
+					<tr>
+						<td>grams</td>
+						<td>ounces</td>
+						<td>/ 28.35</td>
+						<td>tonnes</td>
+						<td>kilograms</td>
+						<td>x 1000 #</td>
+					</tr>
+					<tr>
+						<td>hectares</td>
+						<td>acres</td>
+						<td>x 2.471</td>
+						<td>tonnes</td>
+						<td>tons (UK/long)</td>
+						<td>x 0.9842</td>
+					</tr>
+					<tr>
+						<td>hectares</td>
+						<td>square km</td>
+						<td>/ 100 #</td>
+						<td>tonnes</td>
+						<td>tons (US/short)</td>
+						<td>x 1.1023</td>
+					</tr>
+					<tr>
+						<td>hectares</td>
+						<td>square metres</td>
+						<td>x 10000 #</td>
+						<td>tons (UK/long)</td>
+						<td>kilograms</td>
+						<td>x 1016</td>
+					</tr>
+					<tr>
+						<td>hectares</td>
+						<td>square miles</td>
+						<td>/ 259</td>
+						<td>tons (UK/long)</td>
+						<td>tonnes</td>
+						<td>x 1.016</td>
+					</tr>
+					<tr>
+						<td>hectares</td>
+						<td>square yards</td>
+						<td>x 11 960</td>
+						<td>tons (US/short)</td>
+						<td>kilograms</td>
+						<td>x 907.2</td>
+					</tr>
+					<tr>
+						<td>inches</td>
+						<td>centimetres</td>
+						<td>x 2.54 #</td>
+						<td>tons (US/short)</td>
+						<td>tonnes</td>
+						<td>x 0.9072</td>
+					</tr>
+					<tr>
+						<td>inches</td>
+						<td>feet</td>
+						<td>/ 12 #</td>
+						<td>yards</td>
+						<td>metres</td>
+						<td>x 0.9144 #</td>
+					</tr>
+				</tbody>
+			</table>
+
+		</div>
+
+		<p><strong>x</strong> means &#39;multiply by&#39;
+		<strong>/</strong> means &#39;divide by&#39;
+		<strong>#</strong> means it is an exact value<br />
+		All other values given to an appropriate degree of accuracy.</p>
+
+		<p>Taken from <a href="http://www.ex.ac.uk/cimt/dictunit/dictunit.htm">
+		A Dictionary of Measures, Units &amp; Conversions</a> by <em>Frank Tapson</em></p>
+
+		<br />
+		<br />
+		<a href="http://validator.w3.org/check/referer"><img	style="border:0; width:66px; height:23px" src="../../images/vxhtml10 small.gif" alt="valid xhtml 1.0!" height="23" width="66" /></a>
+		<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0; width:66px; height:23px" src="../../images/vcss small.gif" alt="valid css!" /></a>
+	</body>
+</html>

@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE wml
+  PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+   <card id="index" title="Index">
+      <p>E-number:<input name="mEnum" size="10" /></p>
+      <do type="accept" label="Find">
+         <go href="#$(mEnum)"></go>
+      </do>
+   </card>
+   	
+   <card id="E100" title="E100">
+      <p><b>E100</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:VD</p>
+      <p>Curcumin, orange-yellow color</p>
+      <p>Derived from the root of the curcuma (turmeric) plant, but can be artificially produced; used in cheese, margarine, baked
+         sweets and fish fingers
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E101" title="E101">
+      <p><b>E101</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:PAD</p>
+      <p>Riboflavin, lactoflavin, vitamin B2</p>
+      <p>Occurs naturally in green vegetables, eggs, milk, liver and kidney; used in margarine and cheese</p><a href="#index">Index</a></card>
+   	
+   <card id="E101a" title="E101a">
+      <p><b>E101a</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:PAD</p>
+      <p>Riboflavin-5'-phosphate</p>
+      <p>Occurs naturally in green vegetables, eggs, milk, liver and kidney; used in margarine and cheese</p><a href="#index">Index</a></card>
+   	
+   <card id="E102" title="E102">
+      <p><b>E102</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Tartrazine, FD&amp;C Yellow No.5</p>
+      <p>Known to provoke asthma attacks (though the US FDA** do not recognise this) and urticaria (nettle rash) in children (the US
+         FDA** estimates 1:10 000); also linked to thyroid tumors, chromosomal damage, urticaria (hives) and hyperactivity; tartrazine
+         sensitivity is also linked to aspirin sensitivity; used to colour drinks, sweets, jams, cereals, snack foods, canned fish,
+         packaged soups; banned in Norway and Austria
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E104" title="E104">
+      <p><b>E104</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Quinoline Yellow, FD&amp;C Yellow No.10</p>
+      <p>Used in lipsticks hair products, colognes; also in a wide range of medications; cause dermatitis; banned in Australia, USA
+         and Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E107" title="E107">
+      <p><b>E107</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Yellow 7G, yellow color</p>
+      <p>The HACSG* recommends to avoid it; people who suffer Asthma may also show an allergic reaction to it; typical products are
+         soft drinks; banned in Australia and USA
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E110" title="E110">
+      <p><b>E110</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Sunset Yellow FCF, Orange Yellow S, FD&amp;C Yellow No.6</p>
+      <p>Used in cereals, bakery, sweets, snack foods, ice cream, drinks and canned fish; synthetic; also in many medications including
+         Berocca, Polaramine, Ventolin syrup; side effects are urticaria (hives), rhinitis (runny nose), nasal congestion, allergies,
+         hyperactivity, kidney tumors, chromosomal damage, abdominal pain, nausea and vomiting, indigestion, distaste for food; seen
+         increased incidence of tumours in animals; banned in Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E120" title="E120">
+      <p><b>E120</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:AD</p>
+      <p>Cochineal, Carminic acid, Carmines</p>
+      <p>Red color; made from insects; rarely used; the HASCG* recommends to avoid it</p><a href="#index">Index</a></card>
+   	
+   <card id="E122" title="E122">
+      <p><b>E122</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Azorubine, Carmoisine</p>
+      <p>Red color; coal tar derivative; can produce bad reactions in asthmatics and people allergic to aspirin; typical products are
+         confectionary, marzipan, jelly crystals; banned in Sweden, USA, Austria and Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E123" title="E123">
+      <p><b>E123</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Amaranth, FD&amp;C Red No.2</p>
+      <p>Derived from the small herbaceous plant of the same name; used in cake mixes, fruit-flavoured fillings, jelly crystals; can
+         provoke asthma, eczema and hyperactivity; it caused birth defects and foetal deaths in some animal tests, possibly also cancer;
+         banned in the USA, Russia, Austria and Norway and other countries
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E124" title="E124">
+      <p><b>E124</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Ponceau 4R, Cochineal Red A, FD&amp;C Red No.4</p>
+      <p>Synthetic coal tar and azo dye, carcinogen in animals, can produce bad reactions in asthmatics and people allergic to aspirin;
+         banned in USA &amp; Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E127" title="E127">
+      <p><b>E127</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Erythrosine, FD&amp;C Red No.3</p>
+      <p>Red color used in cherries, canned fruit, custard mix, sweets, bakery, snack foods; can cause sensitivity to light; can increase
+         thyroid hormone levels and lead to hyperthyroidism, was shown to cause thyroid cancer in rats in a study in 1990; banned in
+         January 1990, but not recalled by the US FDA**; banned in Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E128" title="E128">
+      <p><b>E128</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Red 2G</p>
+      <p>Banned in Australia and many other places except UK</p><a href="#index">Index</a></card>
+   	
+   <card id="E129" title="E129">
+      <p><b>E129</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Allura red AC, FD&amp;C Red No.40</p>
+      <p>Orange-red color used in sweets, drinks and condiments, medications and cosmetics, synthetic; introduced in the early eighties
+         to replace amaranth which was considered not safe due to conflicting test results; allura red has also been connected with
+         cancer in mice; banned in Denmark, Belgium, France, Germany, Switzerland, Sweden, Austria and Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E131" title="E131">
+      <p><b>E131</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Patent blue V</p>
+      <p>Banned in Australia, USA and Norway</p><a href="#index">Index</a></card>
+   	
+   <card id="E132" title="E132">
+      <p><b>E132</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Indigotine, Indigo carmine, FD&amp;C Blue No.2</p>
+      <p>Commonly added to tablets and capsules; also used in ice cream, sweets, baked goods, confectionary, biscuits, synthetic coal
+         tar derivative; may cause nausea, vomiting, high blood pressure, skin rashes, breathing problems and other allergic reactions.
+         banned in Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E133" title="E133">
+      <p><b>E133</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Brilliant blue FCF, FD&amp;C Blue Dye No.1</p>
+      <p>Used in dairy products, sweets and drinks, synthetic usually occurring as aluminum lake (solution) or ammonium salt; banned
+         in Belgium, France, Germany, Switzerland, Sweden, Austria, Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E140" title="E140">
+      <p><b>E140</b></p>
+      <p>SCD:Y Avoid:? GM:N Origin:</p>
+      <p>Chlorophylis, Chlorophyllins</p>
+      <p>Green color occurs naturally in all plants; used for dyeing waxes and oils, used in medicines and cosmetics</p><a href="#index">Index</a></card>
+   	
+   <card id="E141" title="E141">
+      <p><b>E141</b></p>
+      <p>SCD:Y Avoid:? GM:N Origin:</p>
+      <p>Copper complexes of chloropyll and chlorophyllins</p>
+      <p>Olive color, no adverse effects are known</p><a href="#index">Index</a></card>
+   	
+   <card id="E142" title="E142">
+      <p><b>E142</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Green S</p>
+      <p>Green color; synthetic coal tar derivative; used in canned peas, mint jelly and sauce, packet bread crumbs and cake mixes;
+         banned inSweden, USA and Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E150a" title="E150a">
+      <p><b>E150a</b></p>
+      <p>SCD:N Avoid:N GM:N Origin:</p>
+      <p>Plain caramel</p>
+      <p>Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits
+         and pickles.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E150b" title="E150b">
+      <p><b>E150b</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Caustic sulphite caramel</p>
+      <p>Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits
+         and pickles.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E150c" title="E150c">
+      <p><b>E150c</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Ammonia caramel</p>
+      <p>Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits
+         and pickles.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E150d" title="E150d">
+      <p><b>E150d</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Sulphite ammonia caramel</p>
+      <p>Dark brown color derived from sucrose; Used in soft drinks; oyster, soy, fruit and canned sauces; beer, whiskey, biscuits
+         and pickles.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E151" title="E151">
+      <p><b>E151</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Brilliant Black BN, Black PN</p>
+      <p>Colour; coal tar derivative; used in brown sauces, blackcurrant cake mixes; banned in Denmark, Australia, Belgium, France,
+         Germany, Switzerland, Sweden, Austria, USA, Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E153" title="E153">
+      <p><b>E153</b></p>
+      <p>SCD:Y Avoid:Y GM:N Origin:PAD</p>
+      <p>Vegetable carbon</p>
+      <p>Black colour, charcoal pigment; used in jams, jelly crystals, liquorice; only the vegetable derived variety permitted in Australia,
+         banned in the United States
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E154" title="E154">
+      <p><b>E154</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Brown FK</p>
+      <p>Banned in USA</p><a href="#index">Index</a></card>
+   	
+   <card id="E155" title="E155">
+      <p><b>E155</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Brown HT (Chocolate)</p>
+      <p>Brown color, coal tar and azo dye; used in chocolate cake mixes; can produce bad reactions in asthmatics and people allergic
+         to aspirin; also known to induce skin sensitivity; banned in Denmark, Belgium, France, Germany, Switzerland, Sweden, Austria,
+         USA, Norway
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E160a" title="E160a">
+      <p><b>E160a</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Carotene, alpha-, beta-, gamma-</p>
+      <p>Orange-yellow colour; human body converts it to 'Vitamin A' in the liver, found in carrots and other yellow or orange fruits
+         and vegetables
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E160b" title="E160b">
+      <p><b>E160b</b></p>
+      <p>SCD:Y Avoid:Y GM:N Origin:</p>
+      <p>Annatto (Arnatto, Annato), bixin, norbixin</p>
+      <p>Red color; derived from a tree (Bixa orellana); used as a body paint, fabric dye, digestive aid and expectorant; used to dye
+         cheese, butter, margarine, cereals, snack foods, soaps, textiles and varnishes; known to cause urticaria (nettle rash), the
+         HACSG* recommends to avoid it
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E160c" title="E160c">
+      <p><b>E160c</b></p>
+      <p>SCD:Y Avoid:Y GM:N Origin:</p>
+      <p>Paprika extract, capsanthin, capsorubin</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E160d" title="E160d">
+      <p><b>E160d</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Lycopene</p>
+      <p>Red coloured carotenoid found in tomatoes and pink grapefruit, can cause decreasing risk of cancer</p><a href="#index">Index</a></card>
+   	
+   <card id="E160e" title="E160e">
+      <p><b>E160e</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Beta-apo-8'-carotenal (C 30)</p>
+      <p>Orange color, no adverse effects are known</p><a href="#index">Index</a></card>
+   	
+   <card id="E160f" title="E160f">
+      <p><b>E160f</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Ethyl ester of beta-apo-8'-carotenic acid (C 30)</p>
+      <p>Orange color, no adverse effects are known</p><a href="#index">Index</a></card>
+   	
+   <card id="E161b" title="E161b">
+      <p><b>E161b</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:PAD</p>
+      <p>Xanthophylls - Lutein</p>
+      <p>Yellow color derived from plants, naturally found in green leaves, marigolds and egg yolks</p><a href="#index">Index</a></card>
+   	
+   <card id="E161g" title="E161g">
+      <p><b>E161g</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:PAD</p>
+      <p>Xanthophylls - Canthaxanthin</p>
+      <p>Yellow color possibly derived from animal sources (retinol); the pigment is found in some mushrooms, crustacea, fish, flamingo
+         feathers
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E162" title="E162">
+      <p><b>E162</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Beetroot Red, Betanin</p>
+      <p>Purple color derived from beets; no adverse effects are known</p><a href="#index">Index</a></card>
+   	
+   <card id="E163" title="E163">
+      <p><b>E163</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Anthocyanins</p>
+      <p>Violet color matter of flowers and plants; seems safe</p><a href="#index">Index</a></card>
+   	
+   <card id="E170" title="E170">
+      <p><b>E170</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:MD</p>
+      <p>Calcium carbonate</p>
+      <p>Mineral salt, used in toothpastes, white paint and cleaning powders; may be derived from rock mineral or animal bones; sometimes
+         used to deacidify wines and firm canned fruit and veg.; toxic at 'high doses'
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E171" title="E171">
+      <p><b>E171</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Titanium dioxide</p>
+      <p>White color used in toothpaste and white paint, pollutes waterways; no adverse effects are known</p><a href="#index">Index</a></card>
+   	
+   <card id="E172" title="E172">
+      <p><b>E172</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Iron oxides and hydroxides</p>
+      <p>Black, yellow, red color used in salmon and shrimp pastes; toxic at 'high doses'</p><a href="#index">Index</a></card>
+   	
+   <card id="E173" title="E173">
+      <p><b>E173</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Aluminium</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E174" title="E174">
+      <p><b>E174</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Silver</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E175" title="E175">
+      <p><b>E175</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Gold</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E180" title="E180">
+      <p><b>E180</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Latolrubine BK</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E181" title="E181">
+      <p><b>E181</b></p>
+      <p>SCD:? Avoid:N GM:N Origin:</p>
+      <p>Tannic acid</p>
+      <p>Tannins, clarifying agent in alcohol; derived from the nutgalls and twigs of oak trees; occurs naturally in tea</p><a href="#index">Index</a></card>
+   	
+   <card id="E200" title="E200">
+      <p><b>E200</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sorbic acid</p>
+      <p>Either obtained from berries or synthesised from ketene; possible skin irritant</p><a href="#index">Index</a></card>
+   	
+   <card id="E201" title="E201">
+      <p><b>E201</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium sorbate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E202" title="E202">
+      <p><b>E202</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium sorbate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E203" title="E203">
+      <p><b>E203</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium sorbate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E210" title="E210">
+      <p><b>E210</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Benzoic acid, also known as flowers of benzoin, phenlycarboxylic acid, carboxybenzene</p>
+      <p>Added to alcoholic beverages, baked goods, cheeses, gum, condiments, frozen dairy, relishes, soft sweets, cordials and sugar
+         substitutes; used in cosmetics, as an antiseptic in many cough medications and an antifungal in ointments; can cause asthma,
+         especially in those dependant on steroid asthma medications, is also reputed to cause neurological disorders and to react
+         with sulphur bisulphite (222), shown to provoke hyperactivity in children; obtained from Benzoin, a resin exuded by trees
+         native to Asia
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E211" title="E211">
+      <p><b>E211</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium benzoate</p>
+      <p>Used as antiseptic, as a food preservative and to disguise taste, as of poor-quality food; orange soft drinks contain a high
+         amount of it, upto 25mg per 250ml; also in milk and meat products, relishes and condiments, baked goods and lollies; used
+         in many oral medications including Actifed, Phenergan and Tylenol; known to causes nettle rash and aggravate asthma
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E212" title="E212">
+      <p><b>E212</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium benzoate</p>
+      <p>People with a history of allergies may show allergic reactions. for using see 210</p><a href="#index">Index</a></card>
+   	
+   <card id="E213" title="E213">
+      <p><b>E213</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium benzoate</p>
+      <p>See 212</p><a href="#index">Index</a></card>
+   	
+   <card id="E214" title="E214">
+      <p><b>E214</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Ethyl p-hydroxybenzoate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E215" title="E215">
+      <p><b>E215</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Sodium ethyl p-hydroxybenzoate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E216" title="E216">
+      <p><b>E216</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Propyl p-hydroxybenzoate</p>
+      <p>Possible contact allergen</p><a href="#index">Index</a></card>
+   	
+   <card id="E217" title="E217">
+      <p><b>E217</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Sodium propyl p-hydroxybenzoate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E218" title="E218">
+      <p><b>E218</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Methyl p-hydroxybenzoate</p>
+      <p>Allergic reactions possible, mainly affecting the skin</p><a href="#index">Index</a></card>
+   	
+   <card id="E219" title="E219">
+      <p><b>E219</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Sodium methyl p-hydroxybenzoate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E220" title="E220">
+      <p><b>E220</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Sulphur dioxide</p>
+      <p>Derived from coal tar; all sulphur drugs are toxic and restricted in use (in USA, FDA** prohibits their use on raw fruits
+         and vegetables), produced by combustion of sulphur or gypsum; known to provoke asthma attacks and difficult to metabolise
+         for those with impaired kidney function, also destroys vitamin B1; typical products are beer, soft drinks, dried fruit, juices,
+         cordials, wine, vinegar, potato products
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E221" title="E221">
+      <p><b>E221</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Sodium sulphite</p>
+      <p>Decontaminating agent used in fresh orange juice</p><a href="#index">Index</a></card>
+   	
+   <card id="E222" title="E222">
+      <p><b>E222</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Sodium hydrogen sulphite</p>
+      <p>See E220</p><a href="#index">Index</a></card>
+   	
+   <card id="E223" title="E223">
+      <p><b>E223</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Sodium metabisulphite</p>
+      <p>Treating agent, see E220</p><a href="#index">Index</a></card>
+   	
+   <card id="E224" title="E224">
+      <p><b>E224</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Potassium metabisulphite</p>
+      <p>See E220</p><a href="#index">Index</a></card>
+   	
+   <card id="E225" title="E225">
+      <p><b>E225</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Potassium sulphite</p>
+      <p>See E220</p><a href="#index">Index</a></card>
+   	
+   <card id="E226" title="E226">
+      <p><b>E226</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Calcium sulphite</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E227" title="E227">
+      <p><b>E227</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Calcium hydrogen sulphite</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E228" title="E228">
+      <p><b>E228</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Potassium hydrogen sulphite</p>
+      <p>See 220</p><a href="#index">Index</a></card>
+   	
+   <card id="E230" title="E230">
+      <p><b>E230</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Biphenyl, Diphenyl</p>
+      <p>Banned in some countries; can be used for agricultural purposes; typical products are citrus fruit</p><a href="#index">Index</a></card>
+   	
+   <card id="E231" title="E231">
+      <p><b>E231</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Orthophenyl phenol</p>
+      <p>Banned in some countries; can be used for agricultural purposes; typical products are pears, carrots, peaches, plums, prunes,
+         sweet potatoe, citrus fruit, pineapples, tomatoes, peppers, cherries, nectarines
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E232" title="E232">
+      <p><b>E232</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium orthophenyl phenol</p>
+      <p>Banned in some countries; can be used for agricultural purposes; typical products are pears, carrots, peaches, plums, prunes,
+         sweet potatoe, citrus fruit, pineapples, tomatoes, peppers, cherries, nectarines
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E233" title="E233">
+      <p><b>E233</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Thiabendazole</p>
+      <p>Banned in some countries, can be used for agricultural purposes, typical products are citrus fruits, apples, pears, potatoes,
+         bananas, mushrooms, meat, milk
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E234" title="E234">
+      <p><b>E234</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Nisin</p>
+      <p>Antibiotic derived from bacteria; found in beer, processed cheese products, tomato paste</p><a href="#index">Index</a></card>
+   	
+   <card id="E235" title="E235">
+      <p><b>E235</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Natamycin</p>
+      <p>Mould inhibitor derived from bacteria; sometimes used medically to treat candidiasis; can cause nausea, vomiting, anorexia,
+         diarrhoea and skin irritation;.typical products are meat, cheese
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E236" title="E236">
+      <p><b>E236</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Formic acid</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E237" title="E237">
+      <p><b>E237</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Sodium formate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E238" title="E238">
+      <p><b>E238</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Calcium formate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E239" title="E239">
+      <p><b>E239</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Hexamethylene tetramine</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E249" title="E249">
+      <p><b>E249</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium nitrite</p>
+      <p>Colour fixative and curing agent for meat; nitrites can effect the body's ability to carry oxygen, resulting in shortness
+         of breath, dizziness and headaches; potential carcinogen; not permitted in foods for infant and young children
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E250" title="E250">
+      <p><b>E250</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Sodium nitrite</p>
+      <p>May provoke hyperactivity and other adverse reactions, potentially carcinogenic, restricted in many countries, can combine
+         with chemicals in stomach to form nitrosamine, the HACSG* recommends to avoid it
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E251" title="E251">
+      <p><b>E251</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium nitrate</p>
+      <p>Also used in the manufacture of nitric acid, as a fertiliser and in fermented meat products (see 250)</p><a href="#index">Index</a></card>
+   	
+   <card id="E252" title="E252">
+      <p><b>E252</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium nitrate</p>
+      <p>May be derived from waste animal or vegetable matter; used in gunpowder, explosives and fertilisers, and in the preservation
+         of meat; may provoke hyperactivity and other adverse reactions; potentially carcinogenic; restricted in many countries (see
+         249)
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E260" title="E260">
+      <p><b>E260</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Acetic acid</p>
+      <p>Main component of vinegar, synthetically produced from wood fibres; used in pickles, chutneys, and sauces</p><a href="#index">Index</a></card>
+   	
+   <card id="E261" title="E261">
+      <p><b>E261</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Potassium acetate</p>
+      <p>Food acid; should be avoided by people with impaired kidney function; typical products are sauces, pickles</p><a href="#index">Index</a></card>
+   	
+   <card id="E262" title="E262">
+      <p><b>E262</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium acetate, Sodium diacetate</p>
+      <p>Food acid, acidity regulator; </p><a href="#index">Index</a></card>
+   	
+   <card id="E263" title="E263">
+      <p><b>E263</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAP</p>
+      <p>Calcium acetate</p>
+      <p>Food acid, acidity regulator; by product in the manufacture of wood alcohol; used to make acetic acid (vinegar) and in the
+         production of dyers mordants
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E264" title="E264">
+      <p><b>E264</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Ammonium acetate</p>
+      <p>Can cause nausea and vomiting</p><a href="#index">Index</a></card>
+   	
+   <card id="E270" title="E270">
+      <p><b>E270</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:AP</p>
+      <p>Lactic acid</p>
+      <p>Food acid, acidity regulator; produced by heating and fermenting carbohydrates in milk whey, potatoes, cornstarch or molasses;
+         difficult for babies to metabolise; used in sweets, dressings, soft drinks (sometimes beer) infant formulas and confectionary
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E280" title="E280">
+      <p><b>E280</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Propionic acid</p>
+      <p>All propionates are thought to be linked with migraine headaches; propionates occur naturally in fermented foods, human perspiration
+         and ruminants digestive tract, also can be derived commercially from ethylene and carbon monoxide or propionaldehyde or natural
+         gas or fermented wood pulp; produced when bacteria decompose fibre; commonly used in bread and flour products;
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E281" title="E281">
+      <p><b>E281</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium propionate</p>
+      <p>May be linked to migraines, typical products are flour products</p><a href="#index">Index</a></card>
+   	
+   <card id="E282" title="E282">
+      <p><b>E282</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium propionate</p>
+      <p>May be linked to migraines, typical products are flour products</p><a href="#index">Index</a></card>
+   	
+   <card id="E283" title="E283">
+      <p><b>E283</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium propionate</p>
+      <p>May be linked to migraines, typical products are flour products</p><a href="#index">Index</a></card>
+   	
+   <card id="E290" title="E290">
+      <p><b>E290</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Carbon dioxide</p>
+      <p>Propellant, coolant, derived from lime manufacture; may increase the effect of alcohol; typical products are wine, soft drinks,
+         confectionary
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E296" title="E296">
+      <p><b>E296</b></p>
+      <p>SCD:Y Avoid:Y GM:N Origin:PSY</p>
+      <p>Malic acid</p>
+      <p>Derived from fruit or synthetic; infants and young children should avoid it</p><a href="#index">Index</a></card>
+   	
+   <card id="E297" title="E297">
+      <p><b>E297</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Fumaric acid</p>
+      <p>Derived from plants of the genus Fumaria esp. F.officianalis or from the fermentation of glucose with fungi; can be used to
+         flavour, acidify, as an antioxidant or raising agentused in soft drinks and cake mixes
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E300" title="E300">
+      <p><b>E300</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:PSY</p>
+      <p>Ascorbic acid</p>
+      <p>Flour treating agent, 'vitamin C'; may be made synthetically from glucose, naturally occurs in fruit and vegetables; added
+         to products as diverse as cured meat, breakfast cereals, frozen fish and wine
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E301" title="E301">
+      <p><b>E301</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Sodium ascorbate</p>
+      <p>Sodium salt of vitamin C</p><a href="#index">Index</a></card>
+   	
+   <card id="E302" title="E302">
+      <p><b>E302</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Calcium ascorbate, vitamin C</p>
+      <p>Calcium salt of vitamin C, may increase the formation of calcium axalate stones</p><a href="#index">Index</a></card>
+   	
+   <card id="E303" title="E303">
+      <p><b>E303</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Potassium ascorbate</p>
+      <p>Potassium salt of vitamin C</p><a href="#index">Index</a></card>
+   	
+   <card id="E304" title="E304">
+      <p><b>E304</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Ascorbyl palmitate, Ascorbyl stearate</p>
+      <p>Fatty acid esters of ascorbic acid, same function as E300</p><a href="#index">Index</a></card>
+   	
+   <card id="E306" title="E306">
+      <p><b>E306</b></p>
+      <p>SCD:Y Avoid:N GM:M Origin:VP</p>
+      <p>Tocopherol-rich extract</p>
+      <p>Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant
+         for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E307" title="E307">
+      <p><b>E307</b></p>
+      <p>SCD:Y Avoid:N GM:M Origin:SY</p>
+      <p>alpha-tocopherol</p>
+      <p>Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant
+         for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E308" title="E308">
+      <p><b>E308</b></p>
+      <p>SCD:Y Avoid:N GM:M Origin:SY</p>
+      <p>gamma-tocopherol</p>
+      <p>Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant
+         for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E309" title="E309">
+      <p><b>E309</b></p>
+      <p>SCD:Y Avoid:N GM:M Origin:SY</p>
+      <p>delta-tocopherol</p>
+      <p>Antioxidant. Found in many vegetable oils, including soy, wheat germ, rice germ, cottonseed, maize; works as an antioxidant
+         for fatty acids and tissue fats, preventing vitamin A from oxidation; used in margarine and salad dressings
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E310" title="E310">
+      <p><b>E310</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Propyl gallate</p>
+      <p>Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not
+         permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia;
+         used in oils, margarine, lard and salad dressings, sometimes used in packaging
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E311" title="E311">
+      <p><b>E311</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Octyl gallate</p>
+      <p>Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not
+         permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia;
+         used in oils, margarine, lard and salad dressings, sometimes used in packaging
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E312" title="E312">
+      <p><b>E312</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Dodecyl gallate</p>
+      <p>Used to prevent rancidity in oily substances; derived from nutgalls; may cause gastric or skin irritation, gallates are not
+         permitted in foods for infants and small children because of their known tendency to cause the blood disorder, methemoglobinemia;
+         used in oils, margarine, lard and salad dressings, sometimes used in packaging
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E317" title="E317">
+      <p><b>E317</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Erythorbic acid</p>
+      <p>Produced from sucrose</p><a href="#index">Index</a></card>
+   	
+   <card id="E318" title="E318">
+      <p><b>E318</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:SY</p>
+      <p>Sodium erythorbate</p>
+      <p>Produced from Erythorbic acid (E317) which is derived from sucrose</p><a href="#index">Index</a></card>
+   	
+   <card id="E319" title="E319">
+      <p><b>E319</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Tert-ButylHydroQuinone (TBHQ)</p>
+      <p>Petroleum based; May cause nausea, vomiting, delirium. Typical products are fats, oils, margarine</p><a href="#index">Index</a></card>
+   	
+   <card id="E320" title="E320">
+      <p><b>E320</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Butylated hydroxy-anisole (BHA)</p>
+      <p>Petroleum derivative, retards spoilage due to oxidation; used in edible oils, chewing gum, fats, margarine, nuts, instant
+         potato products, polyethylene food wraps; not permitted in infant foods, can provoke an allergic reaction in some people,
+         may trigger hyperactivity and other intolerances; serious concerns over carcinogenicity and estrogenic effects, in large doses
+         caused tumors in lab animals.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E321" title="E321">
+      <p><b>E321</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Butylated hydroxy-toluene (BHT)</p>
+      <p>Petroleum derivative; see E320</p><a href="#index">Index</a></card>
+   	
+   <card id="E322" title="E322">
+      <p><b>E322</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAP</p>
+      <p>Lecithins</p>
+      <p>Emulsifier derived from soy beans, egg yolks, peanuts, corn or animal resources; non toxic but overdose can upset the stomach,
+         kill the appetite and cause profuse sweating; used to allow combination of oils in margarine, chocolate, mayonnaise, milk
+         powder; must be choosen vegetable type
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E325" title="E325">
+      <p><b>E325</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:AP</p>
+      <p>Sodium lactate</p>
+      <p>Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show
+         adverse reactions
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E326" title="E326">
+      <p><b>E326</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:AP</p>
+      <p>Potassium lactate</p>
+      <p>Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show
+         adverse reactions
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E327" title="E327">
+      <p><b>E327</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:AP</p>
+      <p>Calcium lactate</p>
+      <p>Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show
+         adverse reactions
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E328" title="E328">
+      <p><b>E328</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:AP</p>
+      <p>Ammonium lactate</p>
+      <p>Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show
+         adverse reactions
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E329" title="E329">
+      <p><b>E329</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:AP</p>
+      <p>Magnesium lactate</p>
+      <p>Derived from milk (lactic acid); may contain pork rennin or whey in process, young children with lactose intolerance may show
+         adverse reactions
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E330" title="E330">
+      <p><b>E330</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:VD</p>
+      <p>Citric acid</p>
+      <p>Food acid, naturally derived from citrus fruit, used in biscuits, canned fish, cheese and processed cheese products, infant
+         formulas, cake and soup mixes, rye bread, soft drinks, fermented meat products
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E331" title="E331">
+      <p><b>E331</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Sodium citrates</p>
+      <p>Food acid; </p><a href="#index">Index</a></card>
+   	
+   <card id="E332" title="E332">
+      <p><b>E332</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Potassium citrates</p>
+      <p>Food acid; </p><a href="#index">Index</a></card>
+   	
+   <card id="E333" title="E333">
+      <p><b>E333</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Calcium citrates</p>
+      <p>Food acid;  in small quantities</p><a href="#index">Index</a></card>
+   	
+   <card id="E334" title="E334">
+      <p><b>E334</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Tartaric acid</p>
+      <p>Food acid, obtained from unripe fruit, grape juice;  in small quantities</p><a href="#index">Index</a></card>
+   	
+   <card id="E335" title="E335">
+      <p><b>E335</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Sodium tartrates</p>
+      <p>Food acid; </p><a href="#index">Index</a></card>
+   	
+   <card id="E336" title="E336">
+      <p><b>E336</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Potassium tartrates</p>
+      <p>Food acid; </p><a href="#index">Index</a></card>
+   	
+   <card id="E337" title="E337">
+      <p><b>E337</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Sodium potassium tartrate</p>
+      <p>Food acid; </p><a href="#index">Index</a></card>
+   	
+   <card id="E338" title="E338">
+      <p><b>E338</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Phosphoric acid</p>
+      <p>Food acid, derived from phosphate ore; used in cheese products; </p><a href="#index">Index</a></card>
+   	
+   <card id="E339" title="E339">
+      <p><b>E339</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:MD</p>
+      <p>Sodium phosphates</p>
+      <p>Mineral salt, used as a laxative and a fixing agent in textile dyeing; high intakes may upset the calcium/phosphorus equilibrium</p><a href="#index">Index</a></card>
+   	
+   <card id="E340" title="E340">
+      <p><b>E340</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Potassium phosphates</p>
+      <p>Mineral salt, used as a laxative and a fixing agent in textile dyeing; high intakes may upset the calcium/phosphorus equilibrium</p><a href="#index">Index</a></card>
+   	
+   <card id="E341" title="E341">
+      <p><b>E341</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium phosphates</p>
+      <p>Mineral salt found in rocks and bones; used in medicines as an antacid and polishing agent in enamels</p><a href="#index">Index</a></card>
+   	
+   <card id="E343" title="E343">
+      <p><b>E343</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Magnesium phosphates</p>
+      <p>Essential mineral, anticaking agent found in salt substitutes</p><a href="#index">Index</a></card>
+   	
+   <card id="E350" title="E350">
+      <p><b>E350</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Sodium malates</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E351" title="E351">
+      <p><b>E351</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium malate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E352" title="E352">
+      <p><b>E352</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium malates</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E353" title="E353">
+      <p><b>E353</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Metatartaric acid</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E354" title="E354">
+      <p><b>E354</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium tartrate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E355" title="E355">
+      <p><b>E355</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Adipic acid</p>
+      <p>Food acid from the root adipose (pertaining to fat?)</p><a href="#index">Index</a></card>
+   	
+   <card id="E357" title="E357">
+      <p><b>E357</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium adipate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E363" title="E363">
+      <p><b>E363</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Succinic acid</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E365" title="E365">
+      <p><b>E365</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Sodium fumarate</p>
+      <p>Food acid, salt of fumaric acid (derived from plants of the genus Fumaria esp. F.officianalis)</p><a href="#index">Index</a></card>
+   	
+   <card id="E366" title="E366">
+      <p><b>E366</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium fumarate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E367" title="E367">
+      <p><b>E367</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium fumarate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E370" title="E370">
+      <p><b>E370</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>1,4-Heptonolactone</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E375" title="E375">
+      <p><b>E375</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Niacin, vitamin B3</p>
+      <p>Naturally occurs in bean, pea and other legumes, milk, egg, meat, poultry, and fish; at doses in excess of 1,000 mg per day
+         can cause liver damage, diabetes, gastritis, eye damage, and elevated blood levels of uric acid (which can cause gout); at
+         amounts as low as 50-100 mg may cause flushing (harmless but painful), headache, and stomachache especially if taken on an
+         empty stomach
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E380" title="E380">
+      <p><b>E380</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Tri-ammonium citrate</p>
+      <p>May interfere with liver and pancreas function</p><a href="#index">Index</a></card>
+   	
+   <card id="E381" title="E381">
+      <p><b>E381</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Ammonium ferric citrates</p>
+      <p>Essential mineral, food acid derived from citric acid; used as a dietary iron supplement in breakfast cereals and dietary
+         formulas
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E385" title="E385">
+      <p><b>E385</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Calcium disodium EDTA</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E400" title="E400">
+      <p><b>E400</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Alginic acid</p>
+      <p>Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream
+         and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E401" title="E401">
+      <p><b>E401</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Sodium alginate</p>
+      <p>Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream
+         and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E402" title="E402">
+      <p><b>E402</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Potassium alginate</p>
+      <p>Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream
+         and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E403" title="E403">
+      <p><b>E403</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Ammonium alginate</p>
+      <p>Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream
+         and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E404" title="E404">
+      <p><b>E404</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Calcium alginate</p>
+      <p>Thickener and vegetable gum, derived from seaweed; used in custard mix, cordial, flavoured milk, ice blocks, thickened cream
+         and yoghurt;  in small quantities, large quantities can inhibit the absorption of some nutrients
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E405" title="E405">
+      <p><b>E405</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Propylene glycol alginate</p>
+      <p>Thickener and vegetable gum, derived from petroleum; see separate entry</p><a href="#index">Index</a></card>
+   	
+   <card id="E406" title="E406">
+      <p><b>E406</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Agar</p>
+      <p>Thickener and vegetable gum derived from red seaweed; sometimes used as a laxative, found in manufactured meats and ice cream</p><a href="#index">Index</a></card>
+   	
+   <card id="E407" title="E407">
+      <p><b>E407</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:</p>
+      <p>Carrageenan</p>
+      <p>A fibre extracted from seaweed, it has recently been linked with cancer because it may become contaminated when ethylene oxide
+         is added to an inferior product, this results in ethylene chlorohydrin forming, a highly carcinogenic compound; linked to
+         toxic hazards, including ulcers and cancer; the most serious concerns relate to degraded carrageenan, which is not a permitted
+         additive; however, native carrageenan, which is used, may become degraded in the gut
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E410" title="E410">
+      <p><b>E410</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Locust bean gum</p>
+      <p>Derived from Carob or Locust bean tree Ceratonia siliqua; used in lollies, cordials, essences, some flour products, dressings,
+         fruit juice drinks; frequently used as a caffeine-free chocolate substitute; may lower cholesterol levels
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E412" title="E412">
+      <p><b>E412</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Guar gum</p>
+      <p>Derived from the seeds of Cyamoposis tetragonolobus of Indian origin; fed to cattle in the US; can cause nausea, flatulence
+         and cramps, may reduced cholesterol levels
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E413" title="E413">
+      <p><b>E413</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Tragacanth</p>
+      <p>Resin form the tree Astragalus gummifer; used in foods, drugs including nasal solutions, elixirs and tablets; also used as
+         a binder in cosmetics; possible contact allergy
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E414" title="E414">
+      <p><b>E414</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Acacia</p>
+      <p>Derived from the sap of Acacia Sengal; easily broken down by the human digestive system; possible allergen, soothes irritations
+         of mucous membranes
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E415" title="E415">
+      <p><b>E415</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Xanthan gum</p>
+      <p>Derived from the fermentation of corn sugar with a bacterium</p><a href="#index">Index</a></card>
+   	
+   <card id="E416" title="E416">
+      <p><b>E416</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Karaya gum</p>
+      <p>Derived from the tree Sterculia urens; often used in conjunction with Carob (E 410), in ice cream, custard and sweets, as
+         a filler for its capability to multiply its volume by 100 times with the additon of water; possible allergen
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E417" title="E417">
+      <p><b>E417</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Tara gum</p>
+      <p>Derived from the tara bush, Caesalpinia Spinosa is indigenous to Equador and Peru and is grown in Kenya</p><a href="#index">Index</a></card>
+   	
+   <card id="E420" title="E420">
+      <p><b>E420</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Sorbitol</p>
+      <p>Artificial sweetener and humectant; derived from glucose, either obtained from berries or synthesised; used in lollies, dried
+         fruit, pastries, confectionary, low calorie foods, pharmecuetical syrups and opthalmic preparations and is the seventh most
+         widely used preservative in cosmetics; not permitted in foods for infants and young children, can cause gastric disturbance
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E421" title="E421">
+      <p><b>E421</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Mannitol</p>
+      <p>Artificial sweetener and humectant; derived from seaweed or the manna ash tree; possible allergen, not permitted in infant
+         foods due to its ability to cause diarrhea and kidney dysfunction, also may cause nausea, vomiting; typical products are low
+         calorie foods
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E422" title="E422">
+      <p><b>E422</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:AD</p>
+      <p>Glycerol</p>
+      <p>Humectant and sweetener; oily colourless alcohol; derived by decomposition of natural fats with alkalis; usually as a by-product
+         of soap making using animal fat or vegetable oil; can be obtained from petroleum products sometimes synthesised from propylene
+         or fermented from sugar; used in flexible coatings on sausages and cheeses, also in crystallised and dried fruit, liqueurs
+         and vodka. Glycerin has been shown to protect against DNA damage induced by tumor promoters, ultraviolet lights and radiation,
+         presumably via free radical scavenging; large quantities can cause headaches, thirst, nausea and high blood sugar levels.
+         typical products are liquers, confectionary, dried fruit, low calorie foods
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E425" title="E425">
+      <p><b>E425</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Konjac</p>
+      <p>(i) Konjac gum (ii) Konjac glucomannane. Emulsifier.</p><a href="#index">Index</a></card>
+   	
+   <card id="E430" title="E430">
+      <p><b>E430</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Polyoxyethylene (8) stearate</p>
+      <p>Emulsifier, stabiliser. </p><a href="#index">Index</a></card>
+   	
+   <card id="E431" title="E431">
+      <p><b>E431</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Polyoxyethylene (40) stearate</p>
+      <p>Emulsifier. </p><a href="#index">Index</a></card>
+   	
+   <card id="E432" title="E432">
+      <p><b>E432</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Polysorbate 20 - Polyoxyethylene (20) sorbitan monolaurate</p>
+      <p>Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners;
+         may increase the absorption of fat-soluble substances
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E433" title="E433">
+      <p><b>E433</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Polysorbate 80 - Polyoxyethylene (20) sorbitan monooleate</p>
+      <p>Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners;
+         may increase the absorption of fat-soluble substances
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E434" title="E434">
+      <p><b>E434</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Polysorbate 40 - Polyoxyethylene (20) sorbitan monopalmitate</p>
+      <p>Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners;
+         may increase the absorption of fat-soluble substances
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E435" title="E435">
+      <p><b>E435</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Polyoxyethylene (20) sorbitan monostearate - Polysorbate 60</p>
+      <p>Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners;
+         may increase the absorption of fat-soluble substances
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E436" title="E436">
+      <p><b>E436</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Polyoxyethylene (20) sorbitan tristearate - Polysorbate 65</p>
+      <p>Emulsifiers derived from animal fatty acids; used as sythetic flavourings, surfactants, defoaming agents and dough conditioners;
+         may increase the absorption of fat-soluble substances
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E440a" title="E440a">
+      <p><b>E440a</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Pectin</p>
+      <p>Naturally occurring in the skins of apples; used to thicken jams, jellies and sauces; large quantities may cause temporary
+         flatulence or intestinal discomfort
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E440b" title="E440b">
+      <p><b>E440b</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Amidated pectin</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E441" title="E441">
+      <p><b>E441</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Gelatine</p>
+      <p>Possible allergen, may contain 220, asthmatics and people allergic to sulphites beware!</p><a href="#index">Index</a></card>
+   	
+   <card id="E442" title="E442">
+      <p><b>E442</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Ammonium phosphatides</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E450" title="E450">
+      <p><b>E450</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Diphosphates</p>
+      <p>High intakes may upset the calcium/phosphate equilibrium</p><a href="#index">Index</a></card>
+   	
+   <card id="E451" title="E451">
+      <p><b>E451</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Triphosphates</p>
+      <p>Pentasodium Triphosphate, Pentapotassium Triphosphate</p><a href="#index">Index</a></card>
+   	
+   <card id="E452" title="E452">
+      <p><b>E452</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Polyphosphates</p>
+      <p>iSodium Polyphosphate, (ii)Potassium Polyphosphate, (iii)Sodium Calcium Polyphosphate, (iv)Calcium Polyphosphates, I Sodium
+         Hexametaphosphate
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E459" title="E459">
+      <p><b>E459</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Beta-cyclodextrine</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E460" title="E460">
+      <p><b>E460</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Cellulose</p>
+      <p>Anti-caking agent; no adverse effects known</p><a href="#index">Index</a></card>
+   	
+   <card id="E461" title="E461">
+      <p><b>E461</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Methyl cellulose</p>
+      <p>Can cause flatulence, distension, intestinal obstruction</p><a href="#index">Index</a></card>
+   	
+   <card id="E463" title="E463">
+      <p><b>E463</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Hydroxypropyl cellulose</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E464" title="E464">
+      <p><b>E464</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Hydroxypropyl methyl cellulose</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E465" title="E465">
+      <p><b>E465</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Ethyl methyl cellulose</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E466" title="E466">
+      <p><b>E466</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Carboxy methyl cellulose, Sodium carboxy methyl cellulose</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E468" title="E468">
+      <p><b>E468</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Cross linked sodium carboxy methyl cellulose</p>
+      <p>Sweeteners</p><a href="#index">Index</a></card>
+   	
+   <card id="E469" title="E469">
+      <p><b>E469</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAP</p>
+      <p>Sodium caseinate</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E470a" title="E470a">
+      <p><b>E470a</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Fatty acids salts</p>
+      <p>Sodium, potassium and calcium salts of fatty acids. Emulsifier &amp; Anti-caking agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E470b" title="E470b">
+      <p><b>E470b</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Fatty acids salts</p>
+      <p>Magnesium salts of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E471" title="E471">
+      <p><b>E471</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Mono- &amp; di- glycerides of fatty acids</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E472a" title="E472a">
+      <p><b>E472a</b></p>
+      <p>SCD:? Avoid:? GM:M Origin:PAD</p>
+      <p></p>
+      <p>Acetic acid esters of mono- and diglycerides of fatty acids. Emulsifier.</p><a href="#index">Index</a></card>
+   	
+   <card id="E472b" title="E472b">
+      <p><b>E472b</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Lactic acid esters of mono- and diglycerides of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E472c" title="E472c">
+      <p><b>E472c</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Citric acid esters of mono- and diglycerides of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E472d" title="E472d">
+      <p><b>E472d</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Tartaric acid esters of mono- and diglycerides of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E472e" title="E472e">
+      <p><b>E472e</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E472f" title="E472f">
+      <p><b>E472f</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E473" title="E473">
+      <p><b>E473</b></p>
+      <p>SCD:N Avoid:? GM:M Origin:PAD</p>
+      <p>Sucrose esters of fatty acids</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E474" title="E474">
+      <p><b>E474</b></p>
+      <p>SCD:N Avoid:Y GM:N Origin:PAD</p>
+      <p>Sucroglycerides</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E475" title="E475">
+      <p><b>E475</b></p>
+      <p>SCD:? Avoid:? GM:M Origin:PAD</p>
+      <p>Polyglycerol esters of fatty acids</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E476" title="E476">
+      <p><b>E476</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Polyglycerol polyricinoleate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E477" title="E477">
+      <p><b>E477</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Propylene glycol esters of fatty acids</p>
+      <p>Derived from petroleum; </p><a href="#index">Index</a></card>
+   	
+   <card id="E478" title="E478">
+      <p><b>E478</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Lactylated fatty acid esters of gylcerol and propane-1,2-diol</p><a href="#index">Index</a></card>
+   	
+   <card id="E479b" title="E479b">
+      <p><b>E479b</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p></p>
+      <p>Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids</p><a href="#index">Index</a></card>
+   	
+   <card id="E480" title="E480">
+      <p><b>E480</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Dioctyl sodium sulphosuccinate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E481" title="E481">
+      <p><b>E481</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Sodium stearoyl-2-lactylate</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E482" title="E482">
+      <p><b>E482</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Calcium stearoyl-2-lactylate</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E483" title="E483">
+      <p><b>E483</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Stearyl tartrate</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E491" title="E491">
+      <p><b>E491</b></p>
+      <p>SCD:? Avoid:? GM:M Origin:PAD</p>
+      <p>Sorbitan monostearate</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E492" title="E492">
+      <p><b>E492</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Sorbitan tristearate</p>
+      <p>May increase th absorption of fat-soluble substances</p><a href="#index">Index</a></card>
+   	
+   <card id="E493" title="E493">
+      <p><b>E493</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Sorbitan monolaurate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E494" title="E494">
+      <p><b>E494</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Sorbitan mono-oleate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E495" title="E495">
+      <p><b>E495</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Sorbitan monopalmitate</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E500" title="E500">
+      <p><b>E500</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Sodium carbonates</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E501" title="E501">
+      <p><b>E501</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Potassium carbonates</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E503" title="E503">
+      <p><b>E503</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Ammonium carbonates</p>
+      <p>Irritant to mucous membranes</p><a href="#index">Index</a></card>
+   	
+   <card id="E504" title="E504">
+      <p><b>E504</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Magnesium carbonate</p>
+      <p>Medically used as an antacid and laxative</p><a href="#index">Index</a></card>
+   	
+   <card id="E507" title="E507">
+      <p><b>E507</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Hydrochloric acid</p>
+      <p>Safe in small quantities</p><a href="#index">Index</a></card>
+   	
+   <card id="E508" title="E508">
+      <p><b>E508</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Potassium chloride</p>
+      <p>Large quantities can cause gastric ulceration</p><a href="#index">Index</a></card>
+   	
+   <card id="E509" title="E509">
+      <p><b>E509</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium chloride</p>
+      <p>Derived from brine</p><a href="#index">Index</a></card>
+   	
+   <card id="E510" title="E510">
+      <p><b>E510</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Ammonium chloride</p>
+      <p>Should be avoided by people with impaired liver or kidney function. Typical products are flour products</p><a href="#index">Index</a></card>
+   	
+   <card id="E511" title="E511">
+      <p><b>E511</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Magnesium chloride</p>
+      <p>Magnesium is an essential mineral</p><a href="#index">Index</a></card>
+   	
+   <card id="E513" title="E513">
+      <p><b>E513</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Sulphuric acid</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E514" title="E514">
+      <p><b>E514</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Sodium sulphates</p>
+      <p>May upset the body's water balance</p><a href="#index">Index</a></card>
+   	
+   <card id="E515" title="E515">
+      <p><b>E515</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Potassium sulphates</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E516" title="E516">
+      <p><b>E516</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium sulphate</p>
+      <p>Derived from limestone</p><a href="#index">Index</a></card>
+   	
+   <card id="E518" title="E518">
+      <p><b>E518</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Magnesium sulphate</p>
+      <p>A laxative</p><a href="#index">Index</a></card>
+   	
+   <card id="E519" title="E519">
+      <p><b>E519</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Copper sulphate</p>
+      <p>Essential mineral</p><a href="#index">Index</a></card>
+   	
+   <card id="E520" title="E520">
+      <p><b>E520</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Aluminium sulfate</p>
+      <p>Firming Agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E521" title="E521">
+      <p><b>E521</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Aluminium sodium sulfate</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E522" title="E522">
+      <p><b>E522</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Aluminium potassium sulfate</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E523" title="E523">
+      <p><b>E523</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Aluminium ammonium sulfate</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E524" title="E524">
+      <p><b>E524</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Sodium hydroxide</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E525" title="E525">
+      <p><b>E525</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Potassium hydroxide</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E526" title="E526">
+      <p><b>E526</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium hydroxide</p>
+      <p>Firming Agent. No adverse effects in small quantities</p><a href="#index">Index</a></card>
+   	
+   <card id="E527" title="E527">
+      <p><b>E527</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Ammonium hydroxide</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E528" title="E528">
+      <p><b>E528</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Magnesium hydroxide</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E529" title="E529">
+      <p><b>E529</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium oxide</p>
+      <p>Acidity regulator, Improving agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E530" title="E530">
+      <p><b>E530</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Magnesium oxide</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E535" title="E535">
+      <p><b>E535</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Sodium ferrocyanide</p>
+      <p>Acidity regulator, Improving agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E536" title="E536">
+      <p><b>E536</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:SY</p>
+      <p>Potassium ferrocyanide</p>
+      <p>By-product of coal gas production; low toxicity</p><a href="#index">Index</a></card>
+   	
+   <card id="E540" title="E540">
+      <p><b>E540</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Dicalcium diphosphate</p>
+      <p>Acidity regulator</p><a href="#index">Index</a></card>
+   	
+   <card id="E541" title="E541">
+      <p><b>E541</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Sodium aluminium phosphate, Acidic</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E542" title="E542">
+      <p><b>E542</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:AD</p>
+      <p>Edible Bone phosphate</p>
+      <p>Anti-caking agent; Derived from bones; used in dried milk for coffee machines</p><a href="#index">Index</a></card>
+   	
+   <card id="E544" title="E544">
+      <p><b>E544</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Calcium polyphosphates</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E545" title="E545">
+      <p><b>E545</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Ammonium polyphosphates</p>
+      <p>Emulsifier</p><a href="#index">Index</a></card>
+   	
+   <card id="E551" title="E551">
+      <p><b>E551</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Silicon dioxide</p>
+      <p>No adverse effects are known in food use</p><a href="#index">Index</a></card>
+   	
+   <card id="E552" title="E552">
+      <p><b>E552</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium silicate</p>
+      <p>Derived from limestone and diatomaceous earth (the silicified skeletons of diatoms, a single celled plankton), antacid; </p><a href="#index">Index</a></card>
+   	
+   <card id="E553a" title="E553a">
+      <p><b>E553a</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Magnesium silicates</p>
+      <p>Anti-caking agent; (i) Magnesium silicate (ii), Magnesium trisilicate</p><a href="#index">Index</a></card>
+   	
+   <card id="E553b" title="E553b">
+      <p><b>E553b</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:MD</p>
+      <p>Talc</p>
+      <p>Anti-caking agent; typical products are polished rice, chocolate, confectionary</p><a href="#index">Index</a></card>
+   	
+   <card id="E554" title="E554">
+      <p><b>E554</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Sodium aluminium silicate</p>
+      <p>Anti-caking agent; Used in salt, dried milk substitutes and flours</p><a href="#index">Index</a></card>
+   	
+   <card id="E556" title="E556">
+      <p><b>E556</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Calcium aluminium silicate</p>
+      <p>Anti-caking agent; Used in salt, dried milk substitutes and flours.</p><a href="#index">Index</a></card>
+   	
+   <card id="E558" title="E558">
+      <p><b>E558</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Bentonite</p>
+      <p>Anti-caking agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E559" title="E559">
+      <p><b>E559</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:MD</p>
+      <p>Aluminium silicate (Kaolin)</p>
+      <p>Anti-caking agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E570" title="E570">
+      <p><b>E570</b></p>
+      <p>SCD:? Avoid:? GM:M Origin:PAD</p>
+      <p>Stearic acid</p>
+      <p>Anti-caking agent. Possibly of animal origin; see stearates</p><a href="#index">Index</a></card>
+   	
+   <card id="E572" title="E572">
+      <p><b>E572</b></p>
+      <p>SCD:? Avoid:? GM:M Origin:PAD</p>
+      <p>Magnesium stearate</p>
+      <p>Emulsifier, Anti-caking agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E575" title="E575">
+      <p><b>E575</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Glucono delta-lactone</p>
+      <p>Acidity regulator, Sequestrant</p><a href="#index">Index</a></card>
+   	
+   <card id="E576" title="E576">
+      <p><b>E576</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Sodium gluconate</p>
+      <p>Sequestrant</p><a href="#index">Index</a></card>
+   	
+   <card id="E577" title="E577">
+      <p><b>E577</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium gluconate</p>
+      <p>Sequestrant</p><a href="#index">Index</a></card>
+   	
+   <card id="E578" title="E578">
+      <p><b>E578</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium gluconate</p>
+      <p>Firming Agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E579" title="E579">
+      <p><b>E579</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Ferrous gluconate</p>
+      <p>Colour-retention agent; derived from iron and glucose; used in olives, iron supplements; safe in small amounts</p><a href="#index">Index</a></card>
+   	
+   <card id="E585" title="E585">
+      <p><b>E585</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAP</p>
+      <p>Ferrous lactate</p>
+      <p>Colouring</p><a href="#index">Index</a></card>
+   	
+   <card id="E620" title="E620">
+      <p><b>E620</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Glutamic acid</p>
+      <p>Flavour enhancer, salt substitute; amino acid present in many animal and vegetable proteins, derived commercially from bacteria;
+         might cause similar problems as MSG(621), young children should avoid it
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E621" title="E621">
+      <p><b>E621</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Monosodium glutamate (MSG)</p>
+      <p>Flavour enhancer derived from the fermentation of molasses, salt substitute; adverse effects appear in some asthmatic people,
+         not permitted in foods for infants and young children; typical products are canned vegetables, canned tuna, dressings, many
+         frozen foods
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E622" title="E622">
+      <p><b>E622</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Monopotassium glutamate</p>
+      <p>Can cause nausea, vomiting, diarrhea, abdominal cramps; typical products are low sodium salt substitutes</p><a href="#index">Index</a></card>
+   	
+   <card id="E623" title="E623">
+      <p><b>E623</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium diglutamate</p>
+      <p>Salt substitute, </p><a href="#index">Index</a></card>
+   	
+   <card id="E624" title="E624">
+      <p><b>E624</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Monoammonium glutamate</p>
+      <p>Salt substitute, </p><a href="#index">Index</a></card>
+   	
+   <card id="E625" title="E625">
+      <p><b>E625</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Magnesium diglutamate</p>
+      <p>Salt substitute, </p><a href="#index">Index</a></card>
+   	
+   <card id="E626" title="E626">
+      <p><b>E626</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Guanylic acid</p>
+      <p>May trigger gout</p><a href="#index">Index</a></card>
+   	
+   <card id="E627" title="E627">
+      <p><b>E627</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Disodium guanylate</p>
+      <p>Sodium Guanylate, Flavour enhancer. Isolated from sardines or yeast extract; may trigger gout, not permitted in foods for
+         infants and young children
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E629" title="E629">
+      <p><b>E629</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium guanylate</p>
+      <p>May trigger gout</p><a href="#index">Index</a></card>
+   	
+   <card id="E631" title="E631">
+      <p><b>E631</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:AD</p>
+      <p>Disodium inosinate</p>
+      <p>May be prepared from meat or sardines; may trigger gout, not permitted in foods for infants and young children</p><a href="#index">Index</a></card>
+   	
+   <card id="E633" title="E633">
+      <p><b>E633</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Calcium inosinate</p>
+      <p>May trigger gout</p><a href="#index">Index</a></card>
+   	
+   <card id="E635" title="E635">
+      <p><b>E635</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:PAD</p>
+      <p>Disodium 5'-ribonucleotide</p>
+      <p>May be associated with itchy skin rashes up to 30 hours after ingestion; rashes may vary from mild to dramatic; the reaction
+         is dose-related and cumulative, some individuals are more sensitive than others; typical foods include flavoured chips, instant
+         noodles and party pies.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E636" title="E636">
+      <p><b>E636</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PSY</p>
+      <p>Maltol</p>
+      <p>Derived from the bark of larch trees, pine needles, chicory wood, oils and roasted malt; it may be produced synthetically</p><a href="#index">Index</a></card>
+   	
+   <card id="E637" title="E637">
+      <p><b>E637</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Ethyl maltol</p>
+      <p>Derived from maltol</p><a href="#index">Index</a></card>
+   	
+   <card id="E640" title="E640">
+      <p><b>E640</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Glycine &amp; its sodium salt</p>
+      <p>Flavour enhancer</p><a href="#index">Index</a></card>
+   	
+   <card id="E900" title="E900">
+      <p><b>E900</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Dimethyl polysiloxane</p>
+      <p>Silicone based</p><a href="#index">Index</a></card>
+   	
+   <card id="E901" title="E901">
+      <p><b>E901</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:AP</p>
+      <p>Beeswaxes</p>
+      <p>Glazing agent, used to wax fruit; see bee products; occasionally causes allergic reactions</p><a href="#index">Index</a></card>
+   	
+   <card id="E903" title="E903">
+      <p><b>E903</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:</p>
+      <p>Carnauba wax</p>
+      <p>Derived from a South American palm; used in cosmetics and inks, and to wax fruit; occasionally causes allergic reactions</p><a href="#index">Index</a></card>
+   	
+   <card id="E904" title="E904">
+      <p><b>E904</b></p>
+      <p>SCD:Y Avoid:N GM:N Origin:AD</p>
+      <p>Shellac</p>
+      <p>Derived from insects; occasionally causes irritations of the skin</p><a href="#index">Index</a></card>
+   	
+   <card id="E905" title="E905">
+      <p><b>E905</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Paraffins, Microcrystalline wax</p>
+      <p>May inhibit absorption of fats and fat soluble vitamins, mild laxative, there may be a link to bowel cancer; used on sweets,
+         in processing yeast, vitamin tablets, dried fruit, confectionary, collagen
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E907" title="E907">
+      <p><b>E907</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Refined microcrystalline wax</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E913" title="E913">
+      <p><b>E913</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Lanolin</p>
+      <p>Derived from sheep wool</p><a href="#index">Index</a></card>
+   	
+   <card id="E920" title="E920">
+      <p><b>E920</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:AD</p>
+      <p>L-Cysteine hydrochloride</p>
+      <p>Flour treatment agent derived from animal hair and chicken feathers</p><a href="#index">Index</a></card>
+   	
+   <card id="E921" title="E921">
+      <p><b>E921</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:AD</p>
+      <p>L-Cysteine hydrochloride monohydrate</p>
+      <p>Flour treatment agent derived from animal hair and chicken feathers</p><a href="#index">Index</a></card>
+   	
+   <card id="E924" title="E924">
+      <p><b>E924</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Potassium bromate</p>
+      <p>Large quantities can cause nausea, vomiting, diarrhoea, pain. Typical products are flour products</p><a href="#index">Index</a></card>
+   	
+   <card id="E925" title="E925">
+      <p><b>E925</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Chlorine</p>
+      <p>Typical products are flour products. Possible health concerns.</p><a href="#index">Index</a></card>
+   	
+   <card id="E926" title="E926">
+      <p><b>E926</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Chlorine dioxide</p>
+      <p>Typical products are flour products. Possible health concerns</p><a href="#index">Index</a></card>
+   	
+   <card id="E927" title="E927">
+      <p><b>E927</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Azodicarbonamide</p>
+      <p></p><a href="#index">Index</a></card>
+   	
+   <card id="E928" title="E928">
+      <p><b>E928</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:</p>
+      <p>Benzoyl peroxide</p>
+      <p>Approved by FDA* for bleaching the carotenoids in refined flours; asthmatics and people with a history of allergies should
+         avoid.
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E931" title="E931">
+      <p><b>E931</b></p>
+      <p>SCD:Y Avoid:? GM:N Origin:</p>
+      <p>Nitrogen</p>
+      <p>Inert gas used in freezing and vacuum packing.</p><a href="#index">Index</a></card>
+   	
+   <card id="E932" title="E932">
+      <p><b>E932</b></p>
+      <p>SCD:Y Avoid:? GM:N Origin:</p>
+      <p>Nitrous oxide</p>
+      <p>Laughing Gas. Safe in small quantities</p><a href="#index">Index</a></card>
+   	
+   <card id="E950" title="E950">
+      <p><b>E950</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Acesulphane potassium</p>
+      <p>Acesulfame K, Artificial Sweetener</p><a href="#index">Index</a></card>
+   	
+   <card id="E951" title="E951">
+      <p><b>E951</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Aspartame</p>
+      <p>Artificial sweetener, too many adverse effects possible to list, some people are allergic to aspartame, migraine headaches
+         a common reaction in these people
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E952" title="E952">
+      <p><b>E952</b></p>
+      <p>SCD:? Avoid:Y GM:N Origin:SY</p>
+      <p>Cyclamic acid, calcium &amp; sodium cyclamate</p>
+      <p>Artificial sweetener; known to cause migraines and other reactions, can be carcinogenic, caused damage ot rats testicles and
+         mouse embriyos in tests, banned in the US and UK due its links with cancer
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E954" title="E954">
+      <p><b>E954</b></p>
+      <p>SCD:Y Avoid:Y GM:N Origin:SY</p>
+      <p>Saccharines, calcium &amp; sodium saccharin</p>
+      <p>Artificial sweetener derived from toluene (a known carcinogen); banned in 1977 in the US, but reinstated subject to strict
+         labelling starting: Use of this product may be hazardous to your health, this product contains saccharin which has been determined
+         to cause cancer in laboratory animals
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E957" title="E957">
+      <p><b>E957</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:VD</p>
+      <p>Thaumatin</p>
+      <p>Artificial sweetener, a protein derived from the tropical plant Thaumococcus danielli; used to sweeten wines, bread and fruit</p><a href="#index">Index</a></card>
+   	
+   <card id="E965" title="E965">
+      <p><b>E965</b></p>
+      <p>SCD:N Avoid:N GM:N Origin:VD</p>
+      <p>Maltitol, Hydrogenated glucose syrup</p>
+      <p>Humectant, starch decomposed with digestive enzymes; used in confectionery, dried fruits, low-joule foods; laxative in high
+         concentrations
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E967" title="E967">
+      <p><b>E967</b></p>
+      <p>SCD:? Avoid:N GM:N Origin:VD</p>
+      <p>Xylitol</p>
+      <p>Humectant, found in raspberries, plums, lettuce and endives, though produced for commercial purposes from wood pulp; used
+         in low-joule foods and carbohydratemodified sweets, icecream and jams
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E999" title="E999">
+      <p><b>E999</b></p>
+      <p>SCD:? Avoid:N GM:N Origin:VD</p>
+      <p>Quillaia extract</p>
+      <p>Foaming agent, emulsifier, natural surfactant; derived from chilean soap bark tree (Quillaia Saponaria); used in beer and
+         soda; known to promote healing and reduce excessive oilness in the skin
+      </p><a href="#index">Index</a></card>
+   	
+   <card id="E1103" title="E1103">
+      <p><b>E1103</b></p>
+      <p>SCD:? Avoid:N GM:N Origin:</p>
+      <p>Invertase</p>
+      <p>Stabiliser</p><a href="#index">Index</a></card>
+   	
+   <card id="E1100" title="E1100">
+      <p><b>E1100</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:PAP</p>
+      <p>Amylase</p>
+      <p>Derived from mold mushroom or pig pancreas</p><a href="#index">Index</a></card>
+   	
+   <card id="E1200" title="E1200">
+      <p><b>E1200</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Polydextrose</p>
+      <p>Seems safe in small doses</p><a href="#index">Index</a></card>
+   	
+   <card id="E1201" title="E1201">
+      <p><b>E1201</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:SY</p>
+      <p>Polyvinylpyrrolidone</p>
+      <p>Dispersing agent, coating for tablets; used in artificial sweeteners</p><a href="#index">Index</a></card>
+   	
+   <card id="E1202" title="E1202">
+      <p><b>E1202</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:SY</p>
+      <p>Polyvinylpolypyrrolidone</p>
+      <p>Clarifying agent for wine, colour and colloidal stabiliser</p><a href="#index">Index</a></card>
+   	
+   <card id="E1400" title="E1400">
+      <p><b>E1400</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Dextrin</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1401" title="E1401">
+      <p><b>E1401</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Modified starch</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1402" title="E1402">
+      <p><b>E1402</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Alkaline modified starch</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1403" title="E1403">
+      <p><b>E1403</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Bleached starch</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1404" title="E1404">
+      <p><b>E1404</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Oxidized starch</p>
+      <p>Emulsifier and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1410" title="E1410">
+      <p><b>E1410</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Monostarch phosphate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1412" title="E1412">
+      <p><b>E1412</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Distarch phosphate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1413" title="E1413">
+      <p><b>E1413</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Phosphated distarch phosphate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1414" title="E1414">
+      <p><b>E1414</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Acetylated distarch phosphate</p>
+      <p>Emulsifier and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1420" title="E1420">
+      <p><b>E1420</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Acetylated starch, mono starch acetate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1421" title="E1421">
+      <p><b>E1421</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Acetylated starch, mono starch acetate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1422" title="E1422">
+      <p><b>E1422</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Acetylated distarch adipate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1423" title="E1423">
+      <p><b>E1423</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Distarch glycerine</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1440" title="E1440">
+      <p><b>E1440</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Hydroxy propyl starch</p>
+      <p>Emulsifier and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1441" title="E1441">
+      <p><b>E1441</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Hydroxy propyl distarch glycerine</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1442" title="E1442">
+      <p><b>E1442</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Hydroxy propyl distarch phosphate</p>
+      <p>Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1450" title="E1450">
+      <p><b>E1450</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:VD</p>
+      <p>Starch sodium octenyl succinate</p>
+      <p>Emulsifier, Stabiliser and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1451" title="E1451">
+      <p><b>E1451</b></p>
+      <p>SCD:N Avoid:? GM:N Origin:</p>
+      <p>Acetylated oxidised starch</p>
+      <p>Emulsifier and Thickening agent</p><a href="#index">Index</a></card>
+   	
+   <card id="E1505" title="E1505">
+      <p><b>E1505</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Triethyl citrate</p>
+      <p>Foam Stabiliser, used in dried Egg Whites and as a carrier solvent.</p><a href="#index">Index</a></card>
+   	
+   <card id="E1510" title="E1510">
+      <p><b>E1510</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Ethanol</p>
+      <p>Alcohol</p><a href="#index">Index</a></card>
+   	
+   <card id="E1517" title="E1517">
+      <p><b>E1517</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Glycerol acetates</p>
+      <p>Humectant and solvent derived from glycerol; used to coat fresh fruit in the US</p><a href="#index">Index</a></card>
+   	
+   <card id="E1518" title="E1518">
+      <p><b>E1518</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:PAD</p>
+      <p>Glyceryl triacetate</p>
+      <p>(triacetin) Humectant and solvent derived from glycerol; used to coat fresh fruit in the US</p><a href="#index">Index</a></card>
+   	
+   <card id="E1520" title="E1520">
+      <p><b>E1520</b></p>
+      <p>SCD:? Avoid:? GM:N Origin:</p>
+      <p>Propylene glycol</p>
+      <p>Humectant, wetting agent, dispersing agent, petroleum based; its glycerin like taste has made it popular for children's medications
+         and other elixirs; used in many topical creams and ointments, cosmetics, hair products and deodorants.
+      </p><a href="#index">Index</a></card>
+   
+</wml>

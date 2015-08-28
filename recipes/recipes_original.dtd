@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT comment ( #PCDATA ) >
+<!ELEMENT group ( ingredient+ ) >
+<!ATTLIST group id ( A | B | C | D ) #IMPLIED >
+<!ELEMENT ingredient EMPTY >
+<!ATTLIST ingredient cost CDATA #IMPLIED >
+<!ATTLIST ingredient name CDATA #REQUIRED >
+<!ATTLIST ingredient qty CDATA #REQUIRED >
+<!ATTLIST ingredient uom CDATA #REQUIRED >
+<!ELEMENT ingredients ( group | ingredient )* >
+<!ELEMENT instructions ( #PCDATA ) >
+<!ELEMENT recipe ( comment | ingredients | instructions )* >
+<!ATTLIST recipe last-modified CDATA #REQUIRED >
+<!ATTLIST recipe name CDATA #REQUIRED >
+<!ATTLIST recipe qty CDATA #REQUIRED >
+<!ATTLIST recipe rating CDATA #REQUIRED >
+<!ATTLIST recipe tested CDATA #REQUIRED >
+<!ATTLIST recipe time CDATA #REQUIRED >
+<!ATTLIST recipe uom NMTOKEN #IMPLIED >
+<!ELEMENT recipes ( section+ ) >
+<!ELEMENT section ( recipe+, comment? ) >
+<!ATTLIST section type ID #REQUIRED >

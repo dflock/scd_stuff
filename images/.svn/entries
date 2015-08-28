@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2005-05-16T12:38:56.187500Z"
+   url="file:///C:/Documents%20and%20Settings/Dunc/My%20Documents/Subversion/www.dflock.co.uk/trunk/colitis/images"
+   last-author="Dunc"
+   kind="dir"
+   uuid="d5a87923-9d08-3c46-b3f4-422942fe2ee2"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="intestine.png"
+   text-time="2005-05-16T12:52:03.093750Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="5b9e57b13a14f73094ceb3eb2a7c9838"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.062500Z"/>
+<entry
+   committed-rev="2"
+   name="pspbrwse.jbf"
+   text-time="2005-05-16T12:52:03.109375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="53e3269983afe9d4773839b017279c63"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.078125Z"/>
+<entry
+   committed-rev="2"
+   name="intest.png"
+   text-time="2005-05-16T12:52:03.109375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="fa1ac2a380ca7af41424e0b8513e1137"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.078125Z"/>
+<entry
+   committed-rev="2"
+   name="intest.gif"
+   text-time="2005-05-16T12:52:03.109375Z"
+   committed-date="2005-05-16T12:38:56.187500Z"
+   checksum="bdceee0dbc06bfda2d95afc0b898c980"
+   last-author="Dunc"
+   kind="file"
+   prop-time="2005-05-16T12:52:03.093750Z"/>
+</wc-entries>

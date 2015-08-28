@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <title>SCD Legal Remedies</title>
+      <link rel="stylesheet" href="../../styles/default.css" type="text/css"/>
+      <link rel="stylesheet" href="../recipes/styles/recipes.css" type="text/css"/>
+      <link rel="Shortcut Icon" href="../../images/duncs favicon.ico" type="image/x-icon"/>
+      <link rel="Home" title="About the author" href="../../index.html"/>
+      <link rel="Author" title="About the author" href="../../about/dunc.html"/>
+      <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+      <meta http-equiv="Content-Language" content="en-gb"/>
+      <meta name="ROBOTS" content="ALL"/>
+      <meta name="Copyright" content="Copyright (c) 2004 Duncan Lock"/>
+      <meta name="MSSmartTagsPreventParsing" content="true"/>
+   </head>
+   <body>
+      <h1>
+         <a name="top">Specific Carbohydrate Diet Remedies</a>
+      </h1>
+      <h2>Contents</h2>
+      <ul>
+         <li>
+            <a href="#Colds &amp; Flu">
+               <strong>Colds &amp; Flu</strong>
+            </a>
+            <table class="index">
+               <tr>
+                  <td style="width: 0.5ex;" class="tested"/>
+                  <td style="width: 9ex; text-align: right; padding-right: 0.5ex;">7/10</td>
+                  <td style="width: 35%;">
+                     <a href="#Tea_for_Flu">Tea for Flu</a>
+                  </td>
+                  <td style="width: 25%;">10 mins</td>
+                  <td>1 cup</td>
+                  <td class="cost_cell"/>
+               </tr>
+            </table>
+            <br/>
+         </li>
+         <li>
+            <a href="#Throats">
+               <strong>Throats</strong>
+            </a>
+            <table class="index">
+               <tr>
+                  <td style="width: 0.5ex;" class="tested"/>
+                  <td style="width: 9ex; text-align: right; padding-right: 0.5ex;">7/10</td>
+                  <td style="width: 35%;">
+                     <a href="#Honey_&amp;_Lemon">Honey &amp; Lemon</a>
+                  </td>
+                  <td style="width: 25%;">10 mins</td>
+                  <td>1 cup</td>
+                  <td class="cost_cell"/>
+               </tr>
+               <tr class="even">
+                  <td style="width: 0.5ex;" class="tested"/>
+                  <td style="width: 9ex; text-align: right; padding-right: 0.5ex;">8/10</td>
+                  <td style="width: 35%;">
+                     <a href="#Sage_Gargle">Sage Gargle</a>
+                  </td>
+                  <td style="width: 25%;">5 mins</td>
+                  <td>1 cup</td>
+                  <td class="cost_cell"/>
+               </tr>
+            </table>
+            <br/>
+         </li>
+      </ul>
+      <br/>
+      <span class="tested"> tested by me</span>
+      <span class="untested"> un-tested by me</span>
+      <br/>
+      <br/>
+      <a href="..\recipes\Dictionary of Units.html">Unit Conversions</a> | 
+				<a href="..\recipes\Conversions.html">Temperature Conversions (MathML)</a>
+      <div xmlns="" class="section">
+         <a name="Colds_&amp;_Flu">
+            <h3>Colds &amp; Flu</h3>
+         </a>
+      </div>
+      <div xmlns="" class="item">
+         <div style="padding: 1px; padding-left: 8px;" class="tested">
+            <a name="Tea_for_Flu">
+               <h4>Tea for Flu</h4>
+            </a>
+            <div style="display: inline; text-align: right; width: 100%;">
+					| <a href="#top">top</a>
+            </div>
+            <br/>
+            <p class="comment">7/10 | 02/09/2002 | takes 10 mins, makes 1 cup</p>
+         </div>
+         <div class="contents">
+            <table border="0" cellspacing="3px" id="ig3">
+               <tbody>
+				
+                  <tbody class="group" valign="top">
+                     <tr valign="top">
+                        <td class="group_cell" rowspan="3">A</td>
+                     </tr>
+					
+                     <tr>
+                        <td>2 tsp Fresh Sage</td>
+                     </tr>
+					
+                     <tr class="even">
+                        <td>1 cup Boiling Water</td>
+                     </tr>
+				
+                  </tbody>
+				
+                  <tbody class="group" valign="top">
+                     <tr valign="top">
+                        <td class="group_cell" rowspan="4">B</td>
+                     </tr>
+					
+                     <tr>
+                        <td>  Juice of 1 Lemon</td>
+                     </tr>
+					
+                     <tr class="even">
+                        <td>a pinch Cayenne Pepper</td>
+                     </tr>
+					
+                     <tr>
+                        <td>1 tsp Honey</td>
+                     </tr>
+				
+                  </tbody>
+			
+               </tbody>
+            </table>
+            <p>
+				Put sage into a cup, add boiling water. Leave for steep for 10 mins.
+				Strain and add 'B', stir and drink hot.
+			</p>
+            <p class="icomment">
+			
+            </p>
+         </div>
+      </div>
+      <div xmlns="" class="section">
+         <a name="Throats">
+            <h3>Throats</h3>
+         </a>
+      </div>
+      <div xmlns="" class="item">
+         <div style="padding: 1px; padding-left: 8px;" class="tested">
+            <a name="Sage_Gargle">
+               <h4>Sage Gargle</h4>
+            </a>
+            <div style="display: inline; text-align: right; width: 100%;">
+					| <a href="#top">top</a>
+            </div>
+            <br/>
+            <p class="comment">8/10 | 02/09/2002 | takes 5 mins, makes 1 cup</p>
+         </div>
+         <div class="contents">
+            <table border="0" cellspacing="3px">
+               <tbody>
+				
+                  <tr>
+                     <td>a few Fresh Sage Leaves</td>
+                  </tr>
+				
+                  <tr class="even">
+                     <td>1 cup Boiling Water</td>
+                  </tr>
+				
+                  <tr>
+                     <td>a dash Cider Vinegar</td>
+                  </tr>
+
+			
+               </tbody>
+            </table>
+            <p>
+				Pour boiling water into a cup. Add sage leaves and leave to
+				soak for 5 mins. Strain, leave to cool a little and add cider
+				vinegar. Garlge with mixture for relief of sore throats.
+			</p>
+            <p class="icomment">
+				You can use 1 tsp of dried sage instead of the fresh leaves, 
+				but it's not quite so effective.
+			</p>
+         </div>
+      </div>
+      <div xmlns="" class="item">
+         <div style="padding: 1px; padding-left: 8px;" class="tested">
+            <a name="Honey_&amp;_Lemon">
+               <h4>Honey &amp; Lemon</h4>
+            </a>
+            <div style="display: inline; text-align: right; width: 100%;">
+					| <a href="#top">top</a>
+            </div>
+            <br/>
+            <p class="comment">7/10 | 20/06/2004 | takes 10 mins, makes 1 cup</p>
+         </div>
+         <div class="contents">
+            <table border="0" cellspacing="3px" id="ig2">
+               <tbody>
+				
+                  <tbody class="group" valign="top">
+                     <tr valign="top">
+                        <td class="group_cell" rowspan="4">A</td>
+                     </tr>
+					
+                     <tr>
+                        <td>1 tbsp Honey</td>
+                     </tr>
+					
+                     <tr class="even">
+                        <td>1 large Lemon, juiced</td>
+                     </tr>
+					
+                     <tr>
+                        <td>  Hot water</td>
+                     </tr>
+				
+                  </tbody>
+			
+               </tbody>
+            </table>
+            <p>
+				Juice the lemon and pour into a large mug. Add Honey and top up with hot but not
+				boiling water. Drink.
+			</p>
+            <p class="icomment">
+			
+            </p>
+         </div>
+      </div>
+      <div class="footer">
+         <hr/>
+         <a href="http://validator.w3.org/check/referer" title="Validate XHTML">
+            <span class="w3c">W3C</span>
+            <span class="spec">XHTML 1.0</span>
+         </a>
+         <a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.dflock.co.uk%2Fcolitis%2Frecipes%2Fstyles%2Frecipes.css&amp;warning=2&amp;profile=none&amp;usermedium=all" title="Validate CSS">
+            <span class="w3c">W3C</span>
+            <span class="spec">CSS 1.0</span>
+         </a>
+         <a href="http://bobby.watchfire.com/bobby/bobbyServlet?URL=http%3A%2F%2Fwww.dflock.co.uk%2Fcolitis%2Frecipes%2Frecipes.html&amp;output=Submit&amp;gl=sec508&amp;test=" title="Validate for section 508 compliance">
+            <span class="w3c">CAST</span>
+            <span class="spec">508</span>
+         </a>
+      </div>
+   </body>
+</html>
