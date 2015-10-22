@@ -63,18 +63,18 @@
 		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160b" name="Annatto" altname=" (Arnatto, Annato), bixin, norbixin" comment="Red color; derived from a tree (Bixa orellana); used as a body paint, fabric dye, digestive aid and expectorant; used to dye cheese, butter, margarine, cereals, snack foods, soaps, textiles and varnishes; known to cause urticaria (nettle rash), the HACSG* recommends to avoid it" />
 		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160c" name="Paprika extract" altname="capsanthin, capsorubin" comment="" />
 		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160d" name="Lycopene" comment="Red coloured carotenoid found in tomatoes and pink grapefruit, can cause decreasing risk of cancer" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E160e" name="Beta-apo-8'-carotenal (C 30)" comment="Orange color, no adverse effects are known" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E160f" name="Ethyl ester of beta-apo-8'-carotenic acid (C 30)" comment="Orange color, no adverse effects are known" />
-		<additive scd="Y" ok="Y" origin="PAD" fodmaps="?" number="E161b" name="Lutein" altname="Xanthophylls - Lutein" comment="Yellow color derived from plants, naturally found in green leaves, marigolds and egg yolks" />
-		<additive scd="Y" ok="Y" origin="PAD" fodmaps="?" number="E161g" name="Canthaxanthin" altname="Xanthophylls - Canthaxanthin" comment="Yellow color possibly derived from animal sources (retinol); the pigment is found in some mushrooms, crustacea, fish, flamingo feathers" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E162" name="Beetroot Red" altname="Betanin" comment="Purple color derived from beets; no adverse effects are known" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E163" name="Anthocyanins" comment="Violet color matter of flowers and plants; seems safe" />
-		<additive scd="Y" ok="Y" origin="MD" fodmaps="?" number="E170" name="Calcium carbonate" comment="Mineral salt, used in toothpastes, white paint and cleaning powders; may be derived from rock mineral or animal bones; sometimes used to deacidify wines and firm canned fruit and veg.; toxic at 'high doses'" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E171" name="Titanium dioxide" comment="White color used in toothpaste and white paint, pollutes waterways; no adverse effects are known" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E172" name="Iron oxides and hydroxides" comment="Black, yellow, red color used in salmon and shrimp pastes; toxic at 'high doses'" />
-		<additive scd="?" ok="N" origin="" fodmaps="?" number="E173" name="Aluminium" comment="" />
-		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E174" name="Silver" comment="" />
-		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E175" name="Gold" comment="" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160e" name="Beta-apo-8'-carotenal (C 30)" comment="Orange color, no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E160f" name="Ethyl ester of beta-apo-8'-carotenic acid (C 30)" comment="Orange color, no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="Y" number="E161b" name="Lutein" altname="Xanthophylls - Lutein" comment="Yellow color derived from plants, naturally found in green leaves, marigolds and egg yolks" />
+		<additive scd="Y" ok="Y" origin="PAD" fodmaps="Y" number="E161g" name="Canthaxanthin" altname="Xanthophylls - Canthaxanthin" comment="Yellow color possibly derived from animal sources (retinol); the pigment is found in some mushrooms, crustacea, fish, flamingo feathers" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E162" name="Beetroot Red" altname="Betanin" comment="Purple color derived from beets; no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="" fodmaps="Y" number="E163" name="Anthocyanins" comment="Violet color matter of flowers and plants; seems safe" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="Y" number="E170" name="Calcium carbonate" comment="Mineral salt, used in toothpastes, white paint and cleaning powders; may be derived from rock mineral or animal bones; sometimes used to deacidify wines and firm canned fruit and veg.; toxic at 'high doses'" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="Y" number="E171" name="Titanium dioxide" comment="White color used in toothpaste and white paint, pollutes waterways; no adverse effects are known" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="Y" number="E172" name="Iron oxides and hydroxides" comment="Black, yellow, red color used in salmon and shrimp pastes; toxic at 'high doses'" />
+		<additive scd="?" ok="N" origin="MD" fodmaps="?" number="E173" name="Aluminium" comment="" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="Y" number="E174" name="Silver" comment="" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="Y" number="E175" name="Gold" comment="" />
 		<additive scd="?" ok="N" origin="" fodmaps="?" number="E180" name="Latolrubine BK" comment="" />
 		<additive scd="?" ok="Y" origin="" fodmaps="?" number="E181" name="Tannic acid" comment="Tannins, clarifying agent in alcohol; derived from the nutgalls and twigs of oak trees; occurs naturally in tea" />
 	</group>
@@ -84,7 +84,7 @@
 		<additive scd="?" ok="?" origin="" fodmaps="?" number="E202" name="Potassium sorbate" comment="" />
 		<additive scd="?" ok="?" origin="" fodmaps="?" number="E203" name="Calcium sorbate" comment="" />
 		<additive scd="?" ok="?" origin="" fodmaps="?" number="E210" name="Benzoic acid, also known as flowers of benzoin, phenlycarboxylic acid" altname="carboxybenzene" comment="Added to alcoholic beverages, baked goods, cheeses, gum, condiments, frozen dairy, relishes, soft sweets, cordials and sugar substitutes; used in cosmetics, as an antiseptic in many cough medications and an antifungal in ointments; can cause asthma, especially in those dependant on steroid asthma medications, is also reputed to cause neurological disorders and to react with sulphur bisulphite (222), shown to provoke hyperactivity in children; obtained from Benzoin, a resin exuded by trees native to Asia" />
-		<additive scd="?" ok="N" origin="" fodmaps="?" number="E211" name="Sodium benzoate" comment="Used as antiseptic, as a food preservative and to disguise taste, as of poor-quality food; orange soft drinks contain a high amount of it, upto 25mg per 250ml; also in milk and meat products, relishes and condiments, baked goods and lollies; used in many oral medications including Actifed, Phenergan and Tylenol; known to causes nettle rash and aggravate asthma" />
+		<additive scd="Y" ok="N" origin="" fodmaps="?" number="E211" name="Sodium benzoate" comment="Used as antiseptic, as a food preservative and to disguise taste, as of poor-quality food; orange soft drinks contain a high amount of it, upto 25mg per 250ml; also in milk and meat products, relishes and condiments, baked goods and lollies; used in many oral medications including Actifed, Phenergan and Tylenol; known to causes nettle rash and aggravate asthma" />
 		<additive scd="?" ok="N" origin="" fodmaps="?" number="E212" name="Potassium benzoate" comment="People with a history of allergies may show allergic reactions. for using see 210" />
 		<additive scd="?" ok="N" origin="" fodmaps="?" number="E213" name="Calcium benzoate" comment="See 212" />
 		<additive scd="?" ok="N" origin="" fodmaps="?" number="E214" name="Ethyl p-hydroxybenzoate" comment="" />
@@ -126,7 +126,7 @@
 		<additive scd="?" ok="?" origin="" fodmaps="?" number="E281" name="Sodium propionate" comment="May be linked to migraines, typical products are flour products" />
 		<additive scd="?" ok="?" origin="" fodmaps="?" number="E282" name="Calcium propionate" comment="May be linked to migraines, typical products are flour products" />
 		<additive scd="?" ok="?" origin="" fodmaps="?" number="E283" name="Potassium propionate" comment="May be linked to migraines, typical products are flour products" />
-		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E290" name="Carbon dioxide" comment="Propellant, coolant, derived from lime manufacture; may increase the effect of alcohol; typical products are wine, soft drinks, confectionary" />
+		<additive scd="Y" ok="Y" origin="MD" fodmaps="Y" number="E290" name="Carbon dioxide" comment="Propellant, coolant, derived from lime manufacture; may increase the effect of alcohol; typical products are wine, soft drinks, confectionary" />
 		<additive scd="Y" ok="N" origin="PSY" fodmaps="?" number="E296" name="Malic acid" comment="Derived from fruit or synthetic; infants and young children should avoid it" />
 		<additive scd="Y" ok="Y" origin="" fodmaps="?" number="E297" name="Fumaric acid" comment="Derived from plants of the genus Fumaria esp. F.officianalis or from the fermentation of glucose with fungi; can be used to flavour, acidify, as an antioxidant or raising agentused in soft drinks and cake mixes" />
 	</group>

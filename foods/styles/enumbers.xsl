@@ -30,7 +30,7 @@
 				<p>This is not an authoritative list, in either sense. The SCD information
 				comes from personal experience,
 				<a href="http://www.breakingtheviciouscycle.info/" title="Breaking the Vicious Cycle, Elaine Gotschall">Breaking the Vicious Cycle</a>
-				and common sense. Please do not take it as gospel, if in doubt - don't eat it. I you have any improvements or suggestions,
+				and common sense. Please do not take it as gospel, if in doubt - don't eat it. If you have any improvements or suggestions,
 				please <a href="mailto:&#101;&#110;&#117;&#109;&#98;&#101;&#114;&#115;&#64;&#100;&#102;&#108;&#111;&#99;&#107;&#46;&#99;&#111;&#46;&#117;&#107;">email me [&#101;&#110;&#117;&#109;&#98;&#101;&#114;&#115;&#64;&#100;&#102;&#108;&#111;&#99;&#107;&#46;&#99;&#111;&#46;&#117;&#107;]</a>.
 				More comprehensive information (from wikipedia) on e-numbers can be found <a target="_wikipedia" href="http://en.wikipedia.org/wiki/E_number">here.</a></p>
 
@@ -54,8 +54,7 @@
 		<li>
 			<a>
 				<xsl:attribute name="href">#<xsl:value-of select="@slug" /></xsl:attribute>
-				<xsl:attribute name="title"><xsl:value-of select="@desc" /></xsl:attribute>
-				<xsl:value-of select="@range" />
+				<xsl:value-of select="@range" /> - <xsl:value-of select="@desc" />
 			</a>
 		</li>
 		</xsl:for-each>
